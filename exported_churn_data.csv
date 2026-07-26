@@ -1,0 +1,1022 @@
+customerid,subscription_start_date,subscription_type,renewal_date,plan_type,contract_type,cancellation_date,cancellation_reason,monthly_charges,cltv,churn_score,churn_flag,customer_name,country,state,gender,dob,complaint_date,escalations,csat_score,complaint_count
+0001-CUST,2024-03-21,Organic,2025-03-21,Premium,Annual,,,99.6,1394,56,0,balvan,India,Telangana,Female,1964-05-02,,,,
+0002-CUST,2025-04-17,Organic,2026-04-17,Standard,Annual,,,64.4,2254,36,0,ayushman,India,Nagaland,Female,1962-02-26,2026-03-19,Y,4.0,1.0
+0003-CUST,2025-05-17,Organic,2026-05-17,Basic,Annual,,,28.5,883,38,0,vedika,India,Maharashtra,Female,1980-06-11,2026-06-15,Y,4.0,1.0
+0004-CUST,2024-05-08,Paid,2025-05-08,Standard,Annual,,,64.3,1543,52,0,warda,India,Meghalaya,Female,1975-04-20,2026-01-22,N,4.0,1.0
+0005-CUST,2023-09-27,Paid,2024-09-26,Standard,Annual,,,63.1,1956,22,0,girish,India,Maharashtra,Female,1971-03-20,,,,
+0006-CUST,2024-12-31,Organic,2025-12-31,Premium,Annual,,,102.6,2565,31,0,chakradhar,India,Maharashtra,Male,2006-07-25,,,,
+0007-CUST,2025-09-04,Referral,2025-10-04,Standard,Monthly,2026-07-12,Not enough content,58.7,1643,97,1,laban,India,Uttar Pradesh,Male,2007-03-25,2025-08-26,N,3.0,1.0
+0008-CUST,2026-07-04,Organic,2027-07-04,Basic,Annual,,,26.6,691,29,0,wyatt,India,Nagaland,Male,1987-01-03,,,,
+0009-CUST,2023-08-01,Referral,2023-08-31,Premium,Monthly,,,95.6,2485,29,0,ladli,India,Meghalaya,Male,1999-01-18,,,,
+0010-CUST,2025-05-24,Organic,2025-06-23,Standard,Monthly,,,63.8,1339,24,0,zayan,India,Uttar Pradesh,Female,1984-04-09,,,,
+0011-CUST,2026-07-20,Referral,2027-07-20,Standard,Annual,,,63.0,2268,29,0,wazir,India,Delhi,Female,1998-12-06,,,,
+0012-CUST,2024-04-04,Referral,2025-04-04,Standard,Annual,2025-04-28,Poor service,55.8,1785,98,1,isha,India,Maharashtra,Male,1980-08-05,,,,
+0013-CUST,2025-11-30,Referral,2026-11-30,Basic,Annual,,,28.8,720,12,0,patrick,India,Uttar Pradesh,Male,1969-06-18,,,,
+0014-CUST,2024-10-12,Referral,2024-11-11,Standard,Monthly,,,55.8,781,14,0,raagini,India,Nagaland,Female,1989-05-04,,,,
+0015-CUST,2025-09-14,Paid,2025-10-14,Standard,Monthly,2026-04-17,Switched to competitor,64.6,1550,89,1,mugdha,India,Karnataka,Male,1968-03-06,,,,
+0016-CUST,2024-02-11,Paid,2025-02-10,Standard,Annual,2024-07-31,Poor service,62.1,1863,96,1,chaitaly,India,Karnataka,Male,1976-03-09,,,,
+0017-CUST,2024-02-03,Paid,2024-03-04,Standard,Monthly,,,57.6,691,23,0,fitan,India,Karnataka,Male,1981-06-28,,,,
+0018-CUST,2023-10-03,Organic,2024-10-02,Basic,Annual,2024-07-24,Too expensive,30.9,741,83,1,keya,India,Rajasthan,Male,1988-10-12,,,,
+0019-CUST,2025-03-22,Organic,2026-03-22,Standard,Annual,,,58.1,1684,33,0,jeevika,India,Rajasthan,Male,1974-02-17,,,,
+0020-CUST,2024-08-05,Organic,2025-08-05,Standard,Annual,,,58.7,1408,18,0,neel,India,Meghalaya,Female,1967-11-07,2026-04-16,Y,4.0,1.0
+0021-CUST,2023-12-21,Organic,2024-12-20,Basic,Annual,,,30.4,456,52,0,jeevika,India,Delhi,Female,1999-09-08,,,,
+0022-CUST,2024-07-17,Organic,2025-07-17,Standard,Annual,2025-08-18,Forgot to cancel trial,55.9,1900,88,1,arya,India,Maharashtra,Male,1962-12-03,,,,
+0023-CUST,2024-08-02,Organic,2024-09-01,Standard,Monthly,,,63.8,765,20,0,arjun,India,Telangana,Male,1970-01-25,,,,
+0024-CUST,2025-10-28,Referral,2026-10-28,Basic,Annual,2026-04-13,Forgot to cancel trial,26.6,345,85,1,vasatika,India,Rajasthan,Female,1979-06-11,2025-11-10,N,4.0,1.0
+0025-CUST,2025-10-09,Organic,2026-10-09,Standard,Annual,,,63.5,1270,18,0,darika,India,Maharashtra,Female,1975-04-01,2026-06-25,Y,2.0,1.0
+0026-CUST,2025-10-03,Paid,2026-10-03,Standard,Annual,2026-10-31,Too expensive,55.0,1210,79,1,hritik,India,Karnataka,Male,1975-11-19,,,,
+0027-CUST,2024-03-18,Organic,2025-03-18,Premium,Annual,,,98.8,2766,36,0,ayush,India,Nagaland,Male,1990-07-04,2025-12-25,N,2.0,1.0
+0028-CUST,2024-11-08,Organic,2025-11-08,Basic,Annual,,,27.8,556,50,0,barkha,India,Meghalaya,Male,2006-02-28,,,,
+0029-CUST,2025-02-25,Organic,2026-02-25,Basic,Annual,,,31.6,884,41,0,indali,India,Uttar Pradesh,Male,1964-10-20,2026-05-06,N,2.0,1.0
+0030-CUST,2026-03-07,Referral,2027-03-07,Premium,Annual,2027-01-01,Switched to competitor,97.0,2037,86,1,wridesh,India,Delhi,Female,1985-07-24,,,,
+0031-CUST,2023-11-03,Referral,2023-12-03,Standard,Monthly,,,63.3,1455,18,0,isaiah,India,Meghalaya,Male,1980-09-26,,,,
+0032-CUST,2023-12-31,Referral,2024-01-30,Basic,Monthly,2024-10-22,Not enough content,32.4,745,91,1,priya,India,Maharashtra,Female,1976-01-03,,,,
+0033-CUST,2024-08-28,Referral,2025-08-28,Premium,Annual,,,104.7,3455,20,0,ayushman,India,Uttar Pradesh,Male,1995-08-27,,,,
+0034-CUST,2025-01-03,Organic,2025-02-02,Standard,Monthly,,,55.7,1559,31,0,ijaya,India,Karnataka,Female,1997-08-27,,,,
+0035-CUST,2023-10-16,Paid,2023-11-15,Standard,Monthly,,,61.3,858,19,0,dayamai,India,Meghalaya,Male,1973-08-30,,,,
+0036-CUST,2025-06-20,Referral,2026-06-20,Premium,Annual,,,98.1,1765,31,0,dev,India,Rajasthan,Male,1992-11-27,,,,
+0037-CUST,2025-11-26,Organic,2025-12-26,Basic,Monthly,2026-10-29,Poor service,29.1,1018,73,1,omisha,India,Telangana,Female,1972-07-03,,,,
+0038-CUST,2026-04-06,Organic,2027-04-06,Standard,Annual,,,56.6,905,30,0,osha,India,Karnataka,Male,1977-02-19,,,,
+0039-CUST,2024-09-25,Paid,2025-09-25,Premium,Annual,,,97.5,2047,58,0,mitesh,India,Nagaland,Male,1993-06-02,,,,
+0040-CUST,2025-05-27,Organic,2025-06-26,Standard,Monthly,,,58.5,1462,40,0,rushil,India,Telangana,Female,1996-10-22,,,,
+0041-CUST,2025-12-05,Referral,2026-01-04,Standard,Monthly,2026-01-16,Forgot to cancel trial,58.3,1282,91,1,hemal,India,Maharashtra,Male,1963-02-24,,,,
+0042-CUST,2025-02-02,Organic,2026-02-02,Basic,Annual,,,26.3,499,36,0,ayaan,India,Rajasthan,Male,1982-03-19,,,,
+0043-CUST,2025-01-08,Organic,2025-02-07,Premium,Monthly,,,101.7,3457,37,0,ladli,India,Rajasthan,Female,1966-04-29,2026-05-20,N,3.0,1.0
+0044-CUST,2026-04-14,Organic,2027-04-14,Standard,Annual,,,63.9,1341,45,0,brinda,India,Rajasthan,Male,2001-08-09,,,,
+0045-CUST,2025-01-01,Paid,2025-01-31,Standard,Monthly,,,60.3,904,27,0,tanveer,India,Meghalaya,Female,1995-09-08,,,,
+0046-CUST,2024-07-25,Organic,2024-08-24,Standard,Monthly,,,56.1,1290,32,0,hritik,India,Delhi,Male,1978-11-06,,,,
+0047-CUST,2025-12-25,Paid,2026-01-24,Standard,Monthly,2027-01-19,Too expensive,62.2,1866,91,1,lopa,India,Rajasthan,Female,1967-09-11,,,,
+0048-CUST,2024-08-09,Organic,2025-08-09,Standard,Annual,2025-05-14,Switched to competitor,57.3,1833,81,1,gayathri,India,Meghalaya,Male,1989-03-23,,,,
+0049-CUST,2026-03-06,Organic,2026-04-05,Premium,Monthly,,,96.8,1161,44,0,viraj,India,Rajasthan,Female,1963-03-22,2026-03-15,N,5.0,1.0
+0050-CUST,2026-03-04,Organic,2026-04-03,Standard,Monthly,2026-04-24,Switched to competitor,61.1,2077,81,1,sudiksha,India,Maharashtra,Female,1983-10-10,2026-07-21,N,2.0,1.0
+0051-CUST,2025-10-08,Paid,2025-11-07,Standard,Monthly,,,60.9,1948,29,0,dayamai,India,Nagaland,Female,1997-04-07,2025-10-23,N,5.0,1.0
+0052-CUST,2024-04-19,Organic,2024-05-19,Standard,Monthly,2024-11-23,Not enough content,60.7,1153,91,1,adya,India,Telangana,Male,1978-08-30,,,,
+0053-CUST,2024-08-23,Paid,2025-08-23,Standard,Annual,2025-09-12,Forgot to cancel trial,63.7,764,93,1,vidhi,India,Karnataka,Male,1988-11-18,2026-06-05,Y,5.0,1.0
+0054-CUST,2024-02-25,Organic,2024-03-26,Standard,Monthly,,,55.7,891,59,0,theodore,India,Uttar Pradesh,Male,1967-10-18,2025-08-29,N,3.0,1.0
+0055-CUST,2025-12-08,Paid,2026-01-07,Standard,Monthly,,,63.5,1651,46,0,meera,India,Maharashtra,Male,1976-03-23,2025-10-02,N,4.0,1.0
+0056-CUST,2024-11-16,Referral,2024-12-16,Standard,Monthly,,,57.7,692,39,0,ryan,India,Telangana,Male,2006-09-18,,,,
+0057-CUST,2025-01-29,Organic,2025-02-28,Premium,Monthly,,,98.6,1972,59,0,vinaya,India,Nagaland,Female,1981-04-08,,,,
+0058-CUST,2026-02-23,Referral,2027-02-23,Standard,Annual,,,58.2,1746,14,0,yuvraj,India,Delhi,Female,1976-02-27,,,,
+0059-CUST,2023-12-16,Referral,2024-01-15,Standard,Monthly,,,64.6,1937,34,0,pahal,India,Nagaland,Male,1989-02-09,2026-07-16,N,3.0,1.0
+0060-CUST,2023-12-20,Organic,2024-01-19,Basic,Monthly,,,30.9,710,46,0,manbir,India,Meghalaya,Male,1986-08-31,,,,
+0061-CUST,2025-11-11,Referral,2025-12-11,Premium,Monthly,2026-03-20,Forgot to cancel trial,102.6,3283,97,1,eiravati,India,Maharashtra,Female,1965-03-24,,,,
+0062-CUST,2026-01-20,Referral,2027-01-20,Premium,Annual,,,97.1,1747,45,0,mohini,India,Karnataka,Female,1970-07-11,2025-12-02,N,5.0,1.0
+0063-CUST,2026-04-08,Organic,2026-05-08,Standard,Monthly,,,54.9,1262,10,0,amruta,India,Nagaland,Male,1974-02-24,,,,
+0064-CUST,2023-12-19,Paid,2024-01-18,Premium,Monthly,2024-07-07,Forgot to cancel trial,100.4,3112,81,1,aayush,India,Nagaland,Male,1969-09-10,,,,
+0065-CUST,2025-09-24,Paid,2026-09-24,Premium,Annual,,,104.3,2711,23,0,ishita,India,Uttar Pradesh,Male,2003-06-16,2026-07-09,N,5.0,1.0
+0066-CUST,2024-08-08,Referral,2025-08-08,Premium,Annual,2024-10-20,Poor service,95.9,3356,68,1,jagdish,India,Uttar Pradesh,Female,1989-10-07,,,,
+0067-CUST,2025-06-20,Paid,2026-06-20,Standard,Annual,,,62.0,1922,21,0,jagrati,India,Telangana,Male,1981-10-17,,,,
+0068-CUST,2024-01-24,Organic,2024-02-23,Basic,Monthly,,,32.6,1173,28,0,nathaniel,India,Meghalaya,Male,1986-12-11,,,,
+0069-CUST,2024-09-13,Organic,2025-09-13,Standard,Annual,,,62.1,1055,18,0,harsh,India,Uttar Pradesh,Male,1961-06-07,,,,
+0070-CUST,2025-06-12,Referral,2025-07-12,Basic,Monthly,,,31.7,412,53,0,ayushman,India,Maharashtra,Male,1973-11-01,,,,
+0071-CUST,2025-04-01,Referral,2026-04-01,Basic,Annual,,,30.1,872,46,0,andrew,India,Telangana,Female,2003-03-07,,,,
+0072-CUST,2025-08-30,Referral,2026-08-30,Basic,Annual,2025-11-29,Poor service,27.7,498,78,1,frederick,India,Karnataka,Female,1997-03-03,,,,
+0073-CUST,2023-12-23,Paid,2024-01-22,Standard,Monthly,,,56.4,1692,43,0,kala,India,Maharashtra,Female,1972-09-03,2026-06-12,N,4.0,1.0
+0074-CUST,2025-07-14,Paid,2026-07-14,Premium,Annual,2026-04-09,Forgot to cancel trial,102.1,1633,87,1,ethan,India,Nagaland,Female,2005-12-12,,,,
+0075-CUST,2025-05-21,Paid,2025-06-20,Basic,Monthly,,,31.7,634,24,0,radhika,India,Delhi,Female,1978-05-29,,,,
+0076-CUST,2025-01-05,Referral,2026-01-05,Basic,Annual,,,31.4,376,36,0,nathaniel,India,Rajasthan,Male,1989-03-18,,,,
+0077-CUST,2024-06-20,Referral,2024-07-20,Basic,Monthly,2025-04-05,Too expensive,30.2,543,91,1,yadavi,India,Karnataka,Male,1986-08-18,2026-05-12,N,2.0,1.0
+0078-CUST,2025-10-10,Paid,2025-11-09,Standard,Monthly,,,59.5,1547,50,0,reva,India,Meghalaya,Male,1965-07-30,,,,
+0079-CUST,2023-10-30,Referral,2023-11-29,Standard,Monthly,,,63.6,1208,24,0,kevin,India,Nagaland,Female,1980-03-25,,,,
+0080-CUST,2026-01-30,Paid,2026-03-01,Standard,Monthly,2026-10-04,Poor service,60.9,974,67,1,nathaniel,India,Rajasthan,Male,1971-03-14,2026-06-11,N,4.0,1.0
+0081-CUST,2024-04-04,Referral,2024-05-04,Standard,Monthly,,,56.0,1792,51,0,omkaar,India,Rajasthan,Male,1975-04-13,,,,
+0082-CUST,2026-07-12,Organic,2026-08-11,Standard,Monthly,2026-10-19,Too expensive,61.6,1293,70,1,rayaan,India,Uttar Pradesh,Female,1976-03-24,,,,
+0083-CUST,2026-02-16,Paid,2026-03-18,Premium,Monthly,2027-02-17,Not enough content,97.5,2047,95,1,inaya,India,Karnataka,Male,1991-10-08,2026-01-11,N,1.0,1.0
+0084-CUST,2026-03-25,Paid,2027-03-25,Standard,Annual,2026-06-25,Forgot to cancel trial,62.7,1692,77,1,sudiksha,India,Maharashtra,Male,2004-07-13,2026-06-22,N,3.0,1.0
+0085-CUST,2025-05-27,Referral,2026-05-27,Basic,Annual,2026-02-11,Forgot to cancel trial,33.9,1017,67,1,anamika,India,Meghalaya,Female,1985-04-17,2026-04-07,N,2.0,1.0
+0086-CUST,2024-03-01,Paid,2024-03-31,Premium,Monthly,,,98.6,1676,46,0,timothy,India,Maharashtra,Female,2003-07-05,,,,
+0087-CUST,2024-04-04,Referral,2024-05-04,Standard,Monthly,2025-01-20,Forgot to cancel trial,57.5,1437,73,1,advika,India,Delhi,Female,1978-01-11,2026-04-28,N,3.0,1.0
+0088-CUST,2026-04-10,Organic,2026-05-10,Standard,Monthly,,,55.6,2001,59,0,madhav,India,Nagaland,Female,1998-02-16,,,,
+0089-CUST,2025-12-03,Organic,2026-12-03,Premium,Annual,,,97.3,2140,53,0,thomas,India,Meghalaya,Female,2003-07-02,,,,
+0090-CUST,2024-02-13,Organic,2025-02-12,Premium,Annual,,,101.4,1723,45,0,qushi,India,Maharashtra,Female,1998-12-18,2025-09-14,N,4.0,1.0
+0091-CUST,2025-03-23,Referral,2025-04-22,Basic,Monthly,,,28.0,336,57,0,krishna,India,Delhi,Female,1996-06-14,,,,
+0092-CUST,2026-04-28,Referral,2027-04-28,Basic,Annual,,,29.7,861,38,0,rushil,India,Nagaland,Female,2000-05-11,,,,
+0093-CUST,2023-08-23,Organic,2024-08-22,Basic,Annual,2023-11-19,Not enough content,32.0,608,85,1,aadi,India,Telangana,Male,1970-08-29,2026-07-06,N,1.0,1.0
+0094-CUST,2025-11-16,Organic,2025-12-16,Standard,Monthly,2026-05-04,Forgot to cancel trial,63.3,1076,66,1,umang,India,Nagaland,Male,1992-02-20,2026-02-24,N,4.0,1.0
+0095-CUST,2025-09-28,Organic,2026-09-28,Basic,Annual,2026-03-03,Too expensive,25.4,508,85,1,samuel,India,Maharashtra,Male,1979-01-12,,,,
+0096-CUST,2023-10-09,Organic,2024-10-08,Basic,Annual,2024-05-25,Poor service,31.6,410,87,1,lakshmi,India,Telangana,Female,1981-08-14,,,,
+0097-CUST,2023-11-19,Paid,2023-12-19,Standard,Monthly,,,60.9,1522,51,0,turvi,India,Delhi,Female,1979-06-28,2026-07-10,N,2.0,1.0
+0098-CUST,2026-06-27,Paid,2027-06-27,Basic,Annual,,,34.9,1151,54,0,tanish,India,Maharashtra,Male,1981-08-27,,,,
+0099-CUST,2024-07-18,Paid,2024-08-17,Premium,Monthly,,,98.0,2450,12,0,advik,India,Rajasthan,Male,1988-08-11,,,,
+0100-CUST,2023-11-15,Paid,2024-11-14,Standard,Annual,,,58.2,1862,55,0,atharv,India,Karnataka,Male,1981-11-02,,,,
+0101-CUST,2024-06-12,Paid,2024-07-12,Basic,Monthly,2025-04-13,Too expensive,30.6,1040,96,1,krishna,India,Telangana,Female,1994-03-09,,,,
+0102-CUST,2025-10-04,Referral,2026-10-04,Standard,Annual,,,64.1,1153,24,0,yahvi,India,Nagaland,Male,1961-04-20,,,,
+0103-CUST,2025-03-15,Paid,2026-03-15,Premium,Annual,,,98.8,1580,34,0,matthew,India,Maharashtra,Male,1980-11-10,2025-09-09,Y,5.0,1.0
+0104-CUST,2025-12-05,Organic,2026-01-04,Basic,Monthly,,,30.1,481,46,0,lohit,India,Telangana,Female,1983-02-02,,,,
+0105-CUST,2024-10-16,Paid,2025-10-16,Basic,Annual,,,28.0,672,43,0,yadavi,India,Delhi,Male,1963-08-11,,,,
+0106-CUST,2024-03-09,Organic,2024-04-08,Standard,Monthly,,,55.1,1046,10,0,harish,India,Karnataka,Male,1968-02-04,,,,
+0107-CUST,2023-09-04,Referral,2023-10-04,Standard,Monthly,2024-09-11,Poor service,57.4,1320,73,1,yash,India,Meghalaya,Male,1972-04-20,2026-02-12,Y,3.0,1.0
+0108-CUST,2025-04-26,Paid,2026-04-26,Premium,Annual,,,101.6,3657,49,0,ekiya,India,Delhi,Male,1971-04-13,,,,
+0109-CUST,2024-09-06,Organic,2025-09-06,Standard,Annual,,,63.1,1577,26,0,abdul,India,Maharashtra,Male,1966-09-22,,,,
+0110-CUST,2024-01-18,Organic,2025-01-17,Premium,Annual,,,104.1,2706,52,0,falak,India,Delhi,Female,2001-01-18,,,,
+0111-CUST,2026-04-24,Referral,2026-05-24,Standard,Monthly,2026-11-13,Poor service,58.7,1115,91,1,bhavika,India,Uttar Pradesh,Female,1965-12-03,,,,
+0112-CUST,2024-04-12,Referral,2025-04-12,Standard,Annual,,,57.4,688,32,0,nathan,India,Nagaland,Male,1989-06-04,2026-06-04,N,4.0,1.0
+0113-CUST,2024-08-02,Referral,2025-08-02,Premium,Annual,,,99.6,1792,48,0,ganga,India,Karnataka,Male,1987-04-22,,,,
+0114-CUST,2025-03-21,Paid,2025-04-20,Premium,Monthly,,,95.2,1904,49,0,timothy,India,Karnataka,Male,1996-10-12,2025-09-04,N,5.0,1.0
+0115-CUST,2024-05-02,Referral,2025-05-02,Standard,Annual,,,59.3,2134,59,0,yuvraj,India,Maharashtra,Male,1980-04-05,2026-06-20,Y,1.0,1.0
+0116-CUST,2024-12-28,Paid,2025-01-27,Premium,Monthly,,,99.7,3090,44,0,januja,India,Telangana,Male,1966-01-17,2026-02-25,N,3.0,1.0
+0117-CUST,2025-08-15,Paid,2026-08-15,Basic,Annual,2025-12-11,Switched to competitor,31.1,870,78,1,bimala,India,Delhi,Female,1962-12-12,2026-03-29,N,2.0,1.0
+0118-CUST,2024-02-23,Paid,2024-03-24,Standard,Monthly,,,64.0,960,20,0,bimala,India,Karnataka,Male,2002-10-12,2026-05-07,N,5.0,1.0
+0119-CUST,2023-10-01,Organic,2023-10-31,Basic,Monthly,,,31.2,436,52,0,gautami,India,Delhi,Male,1974-02-26,2026-05-20,N,5.0,1.0
+0120-CUST,2025-12-02,Paid,2026-12-02,Basic,Annual,,,33.0,990,29,0,jhalak,India,Nagaland,Male,1984-11-13,2026-06-11,N,5.0,1.0
+0121-CUST,2024-05-08,Paid,2024-06-07,Premium,Monthly,2025-02-14,Not enough content,101.3,3342,74,1,manan,India,Nagaland,Female,1987-03-18,2026-02-23,N,5.0,1.0
+0122-CUST,2025-09-24,Organic,2026-09-24,Premium,Annual,,,95.8,2011,60,0,pahal,India,Maharashtra,Female,2001-02-19,,,,
+0123-CUST,2024-05-28,Organic,2024-06-27,Premium,Monthly,2024-12-05,Forgot to cancel trial,100.9,1715,91,1,shravya,India,Delhi,Male,1992-12-28,,,,
+0124-CUST,2024-12-31,Paid,2025-01-30,Standard,Monthly,,,60.6,1696,54,0,yasti,India,Karnataka,Male,1978-06-08,,,,
+0125-CUST,2026-02-14,Paid,2027-02-14,Basic,Annual,,,25.8,361,55,0,jeevika,India,Nagaland,Male,1982-11-18,,,,
+0126-CUST,2024-01-29,Organic,2025-01-28,Standard,Annual,,,59.5,1071,51,0,barkha,India,Karnataka,Male,1988-05-21,,,,
+0127-CUST,2024-12-17,Paid,2025-12-17,Premium,Annual,2025-03-17,Forgot to cancel trial,99.5,3383,87,1,pavani,India,Telangana,Male,1962-01-30,2026-03-01,N,2.0,1.0
+0128-CUST,2024-08-28,Referral,2025-08-28,Standard,Annual,,,64.5,1548,13,0,devika,India,Rajasthan,Male,1981-04-09,2026-07-06,N,4.0,1.0
+0129-CUST,2025-01-08,Paid,2025-02-07,Basic,Monthly,,,27.1,921,56,0,diya,India,Nagaland,Male,1983-06-30,2026-01-22,Y,4.0,1.0
+0130-CUST,2026-01-29,Referral,2026-02-28,Standard,Monthly,,,63.2,1011,11,0,yashasvi,India,Uttar Pradesh,Male,1990-06-26,2026-04-12,N,4.0,1.0
+0131-CUST,2024-03-03,Organic,2025-03-03,Basic,Annual,,,25.7,719,33,0,vincent,India,Karnataka,Female,1983-06-05,2026-07-21,N,5.0,1.0
+0132-CUST,2025-06-15,Paid,2026-06-15,Basic,Annual,2026-06-29,Poor service,30.0,420,89,1,leela,India,Uttar Pradesh,Male,1986-10-22,,,,
+0133-CUST,2026-01-16,Referral,2027-01-16,Standard,Annual,,,55.5,1831,24,0,rachita,India,Rajasthan,Female,1985-05-10,,,,
+0134-CUST,2024-09-19,Referral,2024-10-19,Premium,Monthly,,,96.2,2886,41,0,yug,India,Maharashtra,Female,1966-01-08,,,,
+0135-CUST,2025-01-18,Paid,2025-02-17,Basic,Monthly,,,31.6,790,16,0,mason,India,Karnataka,Female,1980-02-23,2026-05-26,N,3.0,1.0
+0136-CUST,2026-03-15,Referral,2026-04-14,Premium,Monthly,,,101.2,1315,43,0,veda,India,Maharashtra,Male,2008-06-12,,,,
+0137-CUST,2023-11-28,Organic,2023-12-28,Standard,Monthly,2024-06-04,Not enough content,58.7,1232,85,1,max,India,Telangana,Male,1991-04-07,2026-07-14,N,2.0,1.0
+0138-CUST,2025-10-20,Organic,2025-11-19,Standard,Monthly,,,56.3,1013,21,0,raghav,India,Nagaland,Male,2006-08-11,2026-01-17,N,3.0,1.0
+0139-CUST,2024-11-21,Paid,2024-12-21,Basic,Monthly,2025-03-30,Not enough content,29.8,745,65,1,lakshmi,India,Telangana,Male,1969-11-12,2026-02-14,N,2.0,1.0
+0140-CUST,2023-10-29,Organic,2023-11-28,Standard,Monthly,,,59.1,827,15,0,joshua,India,Telangana,Female,2007-05-12,2026-01-31,N,5.0,1.0
+0141-CUST,2025-11-03,Referral,2025-12-03,Standard,Monthly,,,60.5,1028,43,0,samarth,India,Uttar Pradesh,Female,1972-07-10,,,,
+0142-CUST,2024-08-11,Paid,2024-09-10,Standard,Monthly,2025-04-03,Too expensive,56.2,674,90,1,orinder,India,Delhi,Female,1976-11-17,2026-04-21,N,2.0,1.0
+0143-CUST,2024-05-26,Paid,2024-06-25,Standard,Monthly,2025-05-30,Switched to competitor,61.8,988,85,1,chatresh,India,Meghalaya,Male,2003-01-18,,,,
+0144-CUST,2024-05-20,Organic,2025-05-20,Basic,Annual,,,31.5,1102,37,0,adya,India,Telangana,Female,1983-04-17,,,,
+0145-CUST,2025-08-28,Paid,2025-09-27,Standard,Monthly,,,62.5,2187,36,0,vedhika,India,Rajasthan,Female,1971-04-19,,,,
+0146-CUST,2025-03-04,Referral,2026-03-04,Premium,Annual,,,100.9,2623,57,0,urvashi,India,Meghalaya,Female,2001-03-17,,,,
+0147-CUST,2026-03-16,Paid,2027-03-16,Premium,Annual,,,95.3,2859,23,0,siddharth,India,Rajasthan,Female,1962-06-21,,,,
+0148-CUST,2024-02-04,Organic,2025-02-03,Basic,Annual,,,25.8,774,55,0,david,India,Telangana,Female,1967-04-18,,,,
+0149-CUST,2025-11-09,Organic,2025-12-09,Basic,Monthly,,,26.2,917,46,0,rayaan,India,Karnataka,Female,1978-04-08,,,,
+0150-CUST,2026-07-05,Paid,2026-08-04,Premium,Monthly,,,99.0,1485,34,0,suhani,India,Karnataka,Female,1997-10-27,,,,
+0151-CUST,2023-11-29,Paid,2024-11-28,Standard,Annual,,,60.7,910,42,0,lohit,India,Delhi,Female,1972-09-16,,,,
+0152-CUST,2026-02-03,Referral,2027-02-03,Premium,Annual,,,100.9,3027,47,0,yutika,India,Meghalaya,Male,1960-10-21,,,,
+0153-CUST,2025-09-27,Referral,2026-09-27,Basic,Annual,,,33.4,601,33,0,kamya,India,Telangana,Male,1974-05-17,,,,
+0154-CUST,2024-02-24,Organic,2025-02-23,Premium,Annual,,,95.2,2951,15,0,anmol,India,Nagaland,Female,1986-05-09,2026-05-28,N,4.0,1.0
+0155-CUST,2024-04-04,Organic,2024-05-04,Standard,Monthly,,,64.3,2121,36,0,andrew,India,Nagaland,Male,2007-07-29,2025-08-13,Y,2.0,1.0
+0156-CUST,2025-06-17,Organic,2026-06-17,Premium,Annual,2025-12-19,Forgot to cancel trial,97.1,2524,82,1,upadhriti,India,Karnataka,Male,1960-08-23,,,,
+0157-CUST,2025-04-19,Organic,2026-04-19,Standard,Annual,2026-02-24,Forgot to cancel trial,59.2,1124,84,1,ryan,India,Uttar Pradesh,Female,1970-05-10,,,,
+0158-CUST,2025-02-05,Organic,2025-03-07,Premium,Monthly,,,96.1,1633,47,0,aadhya,India,Uttar Pradesh,Female,1994-03-25,,,,
+0159-CUST,2023-09-07,Referral,2024-09-06,Standard,Annual,,,61.0,1159,31,0,nicholas,India,Meghalaya,Male,1969-09-21,,,,
+0160-CUST,2026-05-28,Paid,2026-06-27,Basic,Monthly,,,28.9,346,19,0,harini,India,Rajasthan,Female,1988-05-29,2026-04-19,N,5.0,1.0
+0161-CUST,2026-07-16,Referral,2027-07-16,Basic,Annual,,,26.6,691,59,0,bina,India,Uttar Pradesh,Male,1998-11-11,,,,
+0162-CUST,2026-01-28,Paid,2026-02-27,Standard,Monthly,,,61.7,1172,22,0,sanya,India,Nagaland,Female,1963-09-05,,,,
+0163-CUST,2024-06-27,Referral,2025-06-27,Premium,Annual,,,102.1,3063,44,0,joshua,India,Telangana,Female,2004-08-07,2026-06-07,N,2.0,1.0
+0164-CUST,2023-10-23,Paid,2023-11-22,Premium,Monthly,,,104.1,3643,35,0,darsh,India,Nagaland,Male,2007-04-14,,,,
+0165-CUST,2024-03-24,Organic,2025-03-24,Standard,Annual,,,56.6,1754,25,0,vasatika,India,Karnataka,Male,1999-04-27,,,,
+0166-CUST,2025-04-10,Organic,2026-04-10,Basic,Annual,,,29.0,986,39,0,deepa,India,Meghalaya,Male,1970-07-01,2026-04-05,Y,4.0,1.0
+0167-CUST,2023-09-15,Paid,2024-09-14,Standard,Annual,2024-03-01,Not enough content,62.0,1426,91,1,advik,India,Meghalaya,Female,2000-10-19,2025-11-05,N,4.0,1.0
+0168-CUST,2025-02-07,Paid,2026-02-07,Standard,Annual,2025-07-15,Not enough content,58.5,1462,67,1,parth,India,Karnataka,Female,1994-11-05,2026-06-04,N,4.0,1.0
+0169-CUST,2024-08-14,Referral,2025-08-14,Standard,Annual,,,59.8,1853,40,0,bhavika,India,Meghalaya,Female,1977-07-30,,,,
+0170-CUST,2023-11-02,Paid,2024-11-01,Basic,Annual,,,25.5,433,35,0,omisha,India,Karnataka,Male,1994-03-08,2026-07-08,N,5.0,1.0
+0171-CUST,2023-12-29,Paid,2024-01-28,Basic,Monthly,2024-04-04,Not enough content,29.8,894,87,1,tristan,India,Maharashtra,Female,1993-03-08,2025-12-08,N,1.0,1.0
+0172-CUST,2024-01-19,Referral,2025-01-18,Basic,Annual,2024-04-02,Too expensive,31.7,1014,88,1,tanmayi,India,Meghalaya,Male,1965-10-11,,,,
+0173-CUST,2025-08-05,Referral,2026-08-05,Premium,Annual,,,104.1,3331,60,0,aishani,India,Nagaland,Female,1962-10-02,,,,
+0174-CUST,2025-08-10,Referral,2026-08-10,Standard,Annual,,,56.7,1077,44,0,maanav,India,Karnataka,Female,2000-11-04,,,,
+0175-CUST,2026-06-01,Paid,2027-06-01,Premium,Annual,2027-05-04,Forgot to cancel trial,95.3,1810,71,1,adya,India,Rajasthan,Male,2003-10-01,,,,
+0176-CUST,2024-12-16,Organic,2025-12-16,Standard,Annual,2025-02-14,Not enough content,57.1,1827,93,1,hamsini,India,Rajasthan,Male,1962-07-06,2026-03-31,N,5.0,1.0
+0177-CUST,2025-01-18,Organic,2026-01-18,Standard,Annual,2025-09-27,Poor service,58.5,1638,77,1,amruta,India,Uttar Pradesh,Female,1990-07-05,2026-06-15,N,5.0,1.0
+0178-CUST,2025-07-21,Referral,2026-07-21,Standard,Annual,2025-11-07,Switched to competitor,64.7,1682,68,1,joshua,India,Delhi,Female,1992-12-19,2026-03-19,N,3.0,1.0
+0179-CUST,2024-02-19,Organic,2024-03-20,Basic,Monthly,,,30.1,782,52,0,lakshmi,India,Rajasthan,Female,1963-04-29,,,,
+0180-CUST,2024-04-06,Organic,2025-04-06,Basic,Annual,2024-05-18,Switched to competitor,30.8,646,70,1,lipika,India,Telangana,Male,1997-03-22,,,,
+0181-CUST,2026-06-02,Organic,2026-07-02,Standard,Monthly,,,58.9,2002,27,0,aarnav,India,Meghalaya,Male,1978-10-27,,,,
+0182-CUST,2026-04-03,Paid,2026-05-03,Standard,Monthly,,,58.0,1914,54,0,yashasvi,India,Rajasthan,Female,1986-12-27,2026-05-18,N,3.0,1.0
+0183-CUST,2024-03-28,Paid,2024-04-27,Standard,Monthly,2024-11-22,Switched to competitor,62.4,998,73,1,vihaan,India,Delhi,Female,1978-05-30,,,,
+0184-CUST,2023-08-07,Referral,2023-09-06,Premium,Monthly,,,95.5,1528,19,0,qushi,India,Rajasthan,Female,1967-08-03,2026-01-24,N,1.0,1.0
+0185-CUST,2024-05-11,Organic,2025-05-11,Standard,Annual,,,58.3,1340,37,0,qarin,India,Uttar Pradesh,Male,1982-02-28,2025-08-15,Y,5.0,1.0
+0186-CUST,2024-12-29,Paid,2025-01-28,Basic,Monthly,,,31.5,598,13,0,chaaya,India,Nagaland,Female,1985-05-18,2026-06-03,N,1.0,1.0
+0187-CUST,2025-12-14,Paid,2026-01-13,Basic,Monthly,2026-03-05,Too expensive,32.8,1049,75,1,garima,India,Telangana,Female,1995-08-02,2026-06-07,N,2.0,1.0
+0188-CUST,2024-09-26,Organic,2024-10-26,Basic,Monthly,,,34.5,414,15,0,anmol,India,Delhi,Female,1964-04-24,2026-07-12,Y,2.0,1.0
+0189-CUST,2024-10-12,Referral,2025-10-12,Premium,Annual,2025-08-11,Not enough content,99.0,2277,86,1,abha,India,Telangana,Male,2007-08-17,2026-06-11,N,5.0,1.0
+0190-CUST,2024-06-07,Paid,2024-07-07,Standard,Monthly,,,58.8,2058,59,0,saksham,India,Delhi,Female,1991-02-15,2026-06-04,N,3.0,1.0
+0191-CUST,2023-12-14,Paid,2024-01-13,Premium,Monthly,,,100.9,1311,55,0,isaiah,India,Delhi,Female,1980-09-07,2026-04-06,N,4.0,1.0
+0192-CUST,2024-09-01,Organic,2025-09-01,Basic,Annual,,,31.4,1004,42,0,omya,India,Nagaland,Male,1967-09-18,,,,
+0193-CUST,2024-03-08,Paid,2024-04-07,Basic,Monthly,2024-04-27,Poor service,26.2,602,88,1,hema,India,Karnataka,Male,2008-06-06,,,,
+0194-CUST,2024-08-17,Referral,2024-09-16,Standard,Monthly,,,60.5,968,54,0,bina,India,Nagaland,Female,1993-10-29,,,,
+0195-CUST,2026-04-13,Paid,2026-05-13,Basic,Monthly,,,29.8,923,58,0,pranav,India,Delhi,Female,1965-11-25,,,,
+0196-CUST,2024-08-05,Paid,2024-09-04,Standard,Monthly,2025-08-07,Switched to competitor,55.3,1106,73,1,chavvi,India,Uttar Pradesh,Female,2006-07-30,2026-01-15,N,4.0,1.0
+0197-CUST,2024-05-08,Paid,2024-06-07,Basic,Monthly,2024-07-02,Forgot to cancel trial,29.7,891,71,1,bhavya,India,Telangana,Male,1966-04-21,2026-07-13,N,5.0,1.0
+0198-CUST,2026-01-01,Paid,2026-01-31,Standard,Monthly,2026-07-04,Poor service,61.4,1412,85,1,daniel,India,Nagaland,Male,1995-02-20,,,,
+0199-CUST,2025-01-14,Organic,2025-02-13,Basic,Monthly,,,32.9,789,34,0,aarnav,India,Delhi,Female,1992-06-10,,,,
+0200-CUST,2024-10-10,Paid,2024-11-09,Premium,Monthly,,,103.9,3324,53,0,kritika,India,Rajasthan,Male,1979-08-26,,,,
+0201-CUST,2024-12-20,Organic,2025-12-20,Basic,Annual,2026-01-11,Too expensive,34.6,415,79,1,nandini,India,Telangana,Female,1991-01-03,2026-04-06,N,2.0,1.0
+0202-CUST,2025-09-08,Paid,2026-09-08,Basic,Annual,,,29.4,529,46,0,michael,India,Uttar Pradesh,Female,1963-09-16,2026-01-19,N,5.0,1.0
+0203-CUST,2025-05-01,Paid,2025-05-31,Standard,Monthly,,,59.2,888,16,0,pahal,India,Rajasthan,Male,2005-06-30,,,,
+0204-CUST,2023-08-09,Referral,2024-08-08,Basic,Annual,,,33.0,462,49,0,simon,India,Telangana,Female,1972-04-24,,,,
+0205-CUST,2024-10-10,Paid,2025-10-10,Standard,Annual,,,63.7,1146,52,0,sneha,India,Telangana,Male,1993-07-04,,,,
+0206-CUST,2023-09-20,Paid,2023-10-20,Premium,Monthly,,,99.1,3468,14,0,charita,India,Nagaland,Male,2000-04-24,2026-06-17,Y,5.0,1.0
+0207-CUST,2025-12-14,Paid,2026-12-14,Standard,Annual,2026-07-15,Forgot to cancel trial,63.8,1339,95,1,wahab,India,Rajasthan,Female,2006-04-06,,,,
+0208-CUST,2023-09-17,Referral,2024-09-16,Standard,Annual,,,64.3,1157,51,0,naksh,India,Telangana,Male,1999-10-31,,,,
+0209-CUST,2025-11-21,Paid,2025-12-21,Standard,Monthly,,,56.9,1877,10,0,riya,India,Karnataka,Female,2004-03-12,,,,
+0210-CUST,2023-10-22,Organic,2024-10-21,Standard,Annual,2024-04-18,Forgot to cancel trial,56.8,738,86,1,yatan,India,Meghalaya,Female,1993-05-22,2025-12-07,N,4.0,1.0
+0211-CUST,2024-10-02,Organic,2025-10-02,Basic,Annual,,,28.7,918,55,0,luke,India,Telangana,Male,2004-01-02,,,,
+0212-CUST,2026-06-09,Paid,2026-07-09,Premium,Monthly,2027-04-30,Too expensive,94.9,2562,82,1,pranav,India,Karnataka,Female,1984-03-08,,,,
+0213-CUST,2024-02-20,Organic,2024-03-21,Standard,Monthly,2024-09-30,Too expensive,60.3,1507,94,1,vedant,India,Rajasthan,Female,1989-03-01,,,,
+0214-CUST,2024-11-16,Organic,2024-12-16,Standard,Monthly,,,56.9,1820,44,0,nilima,India,Uttar Pradesh,Male,1970-03-01,,,,
+0215-CUST,2024-07-26,Paid,2024-08-25,Basic,Monthly,,,30.5,1098,44,0,waida,India,Delhi,Male,1977-06-19,,,,
+0216-CUST,2025-07-05,Organic,2026-07-05,Premium,Annual,,,100.0,1200,37,0,jagdish,India,Karnataka,Male,1976-10-30,2026-02-18,Y,5.0,1.0
+0217-CUST,2024-07-07,Organic,2024-08-06,Premium,Monthly,2025-06-20,Not enough content,104.3,3546,94,1,laksh,India,Rajasthan,Female,1966-06-08,,,,
+0218-CUST,2023-12-08,Referral,2024-01-07,Premium,Monthly,,,103.1,1752,32,0,abdul,India,Karnataka,Male,1979-06-23,,,,
+0219-CUST,2025-05-12,Paid,2026-05-12,Premium,Annual,,,102.5,3280,35,0,ansh,India,Maharashtra,Female,1979-10-09,,,,
+0220-CUST,2024-01-17,Referral,2025-01-16,Standard,Annual,,,58.5,1755,54,0,chasmum,India,Uttar Pradesh,Male,1973-10-21,,,,
+0221-CUST,2024-04-20,Referral,2024-05-20,Basic,Monthly,,,25.3,910,16,0,inaya,India,Telangana,Female,1983-10-14,2026-05-11,N,4.0,1.0
+0222-CUST,2024-02-12,Referral,2025-02-11,Standard,Annual,,,63.4,2282,11,0,bhanumati,India,Uttar Pradesh,Male,1989-04-24,2026-02-03,Y,3.0,1.0
+0223-CUST,2026-03-03,Organic,2027-03-03,Standard,Annual,,,62.6,2003,29,0,balveer,India,Rajasthan,Female,1987-12-11,2026-05-07,N,3.0,1.0
+0224-CUST,2025-05-17,Organic,2025-06-16,Standard,Monthly,,,61.9,1052,60,0,diya,India,Telangana,Female,1995-03-16,,,,
+0225-CUST,2023-08-19,Paid,2024-08-18,Standard,Annual,,,57.3,916,35,0,finn,India,Telangana,Female,1997-09-22,2026-07-24,Y,4.0,1.0
+0226-CUST,2023-11-30,Organic,2024-11-29,Standard,Annual,2024-12-21,Switched to competitor,55.4,941,84,1,upadhriti,India,Telangana,Male,1961-12-23,2026-04-29,N,5.0,1.0
+0227-CUST,2025-09-24,Organic,2026-09-24,Basic,Annual,2026-05-27,Switched to competitor,25.1,552,90,1,devansh,India,Delhi,Female,1966-05-28,2026-03-16,N,2.0,1.0
+0228-CUST,2023-10-08,Paid,2024-10-07,Standard,Annual,,,59.8,1255,42,0,yahvi,India,Rajasthan,Female,2002-04-28,,,,
+0229-CUST,2025-10-21,Paid,2026-10-21,Standard,Annual,,,59.8,2152,11,0,akshay,India,Maharashtra,Female,2000-01-25,2026-02-12,N,5.0,1.0
+0230-CUST,2024-12-05,Paid,2025-01-04,Standard,Monthly,,,59.0,1416,55,0,anirudh,India,Maharashtra,Male,1991-01-10,,,,
+0231-CUST,2025-01-25,Organic,2025-02-24,Standard,Monthly,2025-08-13,Forgot to cancel trial,61.1,1099,97,1,nitesh,India,Nagaland,Male,1964-03-31,,,,
+0232-CUST,2023-08-10,Organic,2024-08-09,Basic,Annual,2024-02-24,Too expensive,33.4,768,78,1,nachiket,India,Maharashtra,Male,2004-08-26,,,,
+0233-CUST,2026-04-28,Paid,2027-04-28,Basic,Annual,2027-02-15,Not enough content,27.2,788,77,1,praneel,India,Meghalaya,Male,1985-11-01,,,,
+0234-CUST,2024-12-30,Paid,2025-12-30,Standard,Annual,,,59.8,1076,37,0,mitesh,India,Telangana,Female,1976-05-22,,,,
+0235-CUST,2025-03-20,Organic,2026-03-20,Basic,Annual,,,25.3,910,46,0,bina,India,Maharashtra,Male,1965-03-07,,,,
+0236-CUST,2025-02-10,Organic,2026-02-10,Standard,Annual,,,62.3,1370,60,0,bakhshi,India,Telangana,Female,2001-04-26,2026-04-12,N,5.0,1.0
+0237-CUST,2023-12-01,Organic,2023-12-31,Premium,Monthly,2024-09-21,Switched to competitor,98.3,2162,79,1,kashish,India,Nagaland,Male,2001-11-10,,,,
+0238-CUST,2025-06-23,Organic,2025-07-23,Standard,Monthly,,,58.0,1276,19,0,ridhi,India,Rajasthan,Female,1967-06-09,,,,
+0239-CUST,2024-03-28,Paid,2025-03-28,Basic,Annual,2024-06-20,Forgot to cancel trial,32.2,1159,78,1,ayushman,India,Karnataka,Female,1998-06-02,,,,
+0240-CUST,2024-05-17,Referral,2024-06-16,Basic,Monthly,,,29.5,914,43,0,yachana,India,Karnataka,Male,1971-05-20,,,,
+0241-CUST,2024-08-04,Referral,2024-09-03,Standard,Monthly,,,57.8,867,14,0,gaurangi,India,Meghalaya,Male,1981-10-31,2026-06-20,Y,2.0,1.0
+0242-CUST,2024-01-11,Referral,2025-01-10,Standard,Annual,,,58.6,820,25,0,praneel,India,Karnataka,Female,1969-09-13,,,,
+0243-CUST,2024-11-25,Referral,2025-11-25,Basic,Annual,2025-05-30,Poor service,27.1,406,95,1,oeshi,India,Meghalaya,Male,1986-06-18,2026-06-06,N,3.0,1.0
+0244-CUST,2025-10-08,Organic,2025-11-07,Basic,Monthly,2026-11-09,Poor service,31.6,1011,85,1,nisha,India,Meghalaya,Male,1987-09-16,,,,
+0245-CUST,2025-08-29,Referral,2025-09-28,Standard,Monthly,,,63.6,1462,45,0,oviya,India,Uttar Pradesh,Female,2004-10-24,,,,
+0246-CUST,2025-03-27,Organic,2026-03-27,Standard,Annual,,,55.9,1844,51,0,karan,India,Meghalaya,Male,1989-01-23,,,,
+0247-CUST,2025-05-18,Paid,2025-06-17,Standard,Monthly,2026-01-25,Forgot to cancel trial,57.7,923,79,1,pallavi,India,Nagaland,Male,1963-04-15,2025-10-28,N,3.0,1.0
+0248-CUST,2025-06-18,Referral,2025-07-18,Basic,Monthly,,,25.4,685,36,0,prisha,India,Karnataka,Female,1969-11-30,,,,
+0249-CUST,2026-07-24,Referral,2027-07-24,Premium,Annual,2027-01-20,Too expensive,98.7,1776,98,1,keya,India,Delhi,Female,1983-08-23,,,,
+0250-CUST,2023-10-18,Referral,2023-11-17,Premium,Monthly,,,96.4,3181,51,0,gautam,India,Karnataka,Male,2007-12-27,2025-11-17,N,1.0,1.0
+0251-CUST,2024-07-18,Referral,2025-07-18,Standard,Annual,2025-01-26,Switched to competitor,61.5,861,77,1,chaitaly,India,Maharashtra,Male,1994-04-01,,,,
+0252-CUST,2025-05-27,Referral,2026-05-27,Standard,Annual,2025-11-18,Not enough content,58.1,1103,79,1,lakshit,India,Nagaland,Male,1980-09-20,,,,
+0253-CUST,2023-11-05,Organic,2024-11-04,Basic,Annual,2023-12-19,Too expensive,27.1,623,98,1,krisha,India,Telangana,Male,1987-12-16,2026-07-18,N,3.0,1.0
+0254-CUST,2026-01-16,Organic,2026-02-15,Standard,Monthly,,,62.6,1064,25,0,nitara,India,Delhi,Female,1991-03-29,,,,
+0255-CUST,2024-05-27,Referral,2025-05-27,Standard,Annual,,,55.8,1953,17,0,maanas,India,Delhi,Female,1983-06-16,,,,
+0256-CUST,2025-05-04,Referral,2026-05-04,Basic,Annual,2025-10-28,Not enough content,30.7,1074,92,1,chatresh,India,Telangana,Male,1981-03-23,,,,
+0257-CUST,2025-08-15,Referral,2026-08-15,Standard,Annual,2026-05-10,Switched to competitor,64.1,1346,75,1,rajeshri,India,Karnataka,Male,2001-04-21,2026-02-28,Y,2.0,1.0
+0258-CUST,2023-08-12,Paid,2024-08-11,Standard,Annual,,,62.7,1379,20,0,wazir,India,Uttar Pradesh,Male,1963-09-18,2026-06-04,Y,3.0,1.0
+0259-CUST,2026-07-01,Organic,2026-07-31,Standard,Monthly,,,60.4,1932,45,0,anthony,India,Telangana,Female,1982-03-25,2026-07-25,N,1.0,1.0
+0260-CUST,2025-07-01,Referral,2025-07-31,Premium,Monthly,,,95.4,1240,43,0,qasim,India,Nagaland,Female,2005-07-11,2026-07-23,Y,2.0,1.0
+0261-CUST,2024-09-24,Referral,2024-10-24,Standard,Monthly,2025-04-06,Poor service,60.1,1803,71,1,advik,India,Rajasthan,Male,1995-04-22,,,,
+0262-CUST,2024-03-12,Organic,2025-03-12,Standard,Annual,2024-12-01,Too expensive,61.1,1160,89,1,arjun,India,Delhi,Male,1978-09-23,,,,
+0263-CUST,2024-07-08,Organic,2025-07-08,Standard,Annual,2025-05-30,Forgot to cancel trial,55.7,1225,69,1,xalak,India,Meghalaya,Male,1990-04-01,2025-12-05,Y,4.0,1.0
+0264-CUST,2024-05-08,Organic,2025-05-08,Standard,Annual,2024-12-26,Switched to competitor,62.3,1246,67,1,vasudha,India,Meghalaya,Male,1987-10-07,,,,
+0265-CUST,2026-04-28,Organic,2027-04-28,Standard,Annual,2026-11-13,Too expensive,62.2,1492,70,1,upasna,India,Karnataka,Female,1995-10-10,,,,
+0266-CUST,2025-08-27,Paid,2026-08-27,Standard,Annual,,,58.6,1289,42,0,viraj,India,Maharashtra,Male,1973-12-03,,,,
+0267-CUST,2024-04-18,Paid,2025-04-18,Basic,Annual,2024-12-26,Not enough content,34.0,850,96,1,hemani,India,Telangana,Female,1979-01-11,,,,
+0268-CUST,2026-05-13,Organic,2026-06-12,Standard,Monthly,,,59.5,1666,55,0,ganga,India,Uttar Pradesh,Female,1997-06-04,2026-06-30,Y,3.0,1.0
+0269-CUST,2026-05-29,Paid,2026-06-28,Standard,Monthly,,,57.4,1148,56,0,frado,India,Nagaland,Male,2004-08-12,,,,
+0270-CUST,2024-01-05,Paid,2024-02-04,Standard,Monthly,2024-02-17,Not enough content,62.7,2257,95,1,yoshita,India,Uttar Pradesh,Female,1975-06-04,2026-02-21,N,1.0,1.0
+0271-CUST,2024-04-09,Paid,2025-04-09,Standard,Annual,,,59.8,717,34,0,banjeet,India,Maharashtra,Male,2001-04-16,,,,
+0272-CUST,2025-10-16,Paid,2025-11-15,Standard,Monthly,,,64.8,1166,23,0,ayaan,India,Nagaland,Male,1968-03-23,,,,
+0273-CUST,2026-06-30,Organic,2026-07-30,Standard,Monthly,,,63.4,1775,46,0,bhavika,India,Rajasthan,Female,2004-04-03,,,,
+0274-CUST,2024-03-04,Referral,2025-03-04,Standard,Annual,,,61.9,2042,24,0,udyati,India,Telangana,Female,1992-05-30,,,,
+0275-CUST,2026-04-23,Paid,2027-04-23,Basic,Annual,2026-11-19,Too expensive,26.8,562,69,1,zehaan,India,Uttar Pradesh,Female,1982-12-05,,,,
+0276-CUST,2023-11-17,Organic,2023-12-17,Standard,Monthly,,,64.2,898,48,0,ayaan,India,Delhi,Male,1995-08-03,,,,
+0277-CUST,2026-05-07,Organic,2027-05-07,Standard,Annual,,,63.0,756,24,0,lucky,India,Telangana,Male,1985-10-24,2026-05-08,Y,3.0,1.0
+0278-CUST,2025-10-11,Organic,2026-10-11,Standard,Annual,,,61.5,1906,21,0,idika,India,Nagaland,Female,1978-09-22,,,,
+0279-CUST,2024-04-12,Organic,2024-05-12,Basic,Monthly,,,26.9,564,19,0,vritti,India,Maharashtra,Male,1970-10-13,,,,
+0280-CUST,2025-09-30,Referral,2025-10-30,Premium,Monthly,,,101.2,3542,20,0,neel,India,Uttar Pradesh,Male,1982-07-22,,,,
+0281-CUST,2024-05-02,Organic,2025-05-02,Standard,Annual,,,57.0,1425,41,0,upma,India,Uttar Pradesh,Male,1971-12-21,2026-05-24,N,4.0,1.0
+0282-CUST,2024-10-31,Paid,2024-11-30,Standard,Monthly,,,59.7,1313,52,0,tanmayi,India,Karnataka,Female,1987-09-04,,,,
+0283-CUST,2023-10-01,Organic,2023-10-31,Premium,Monthly,,,103.8,1868,56,0,ekani,India,Nagaland,Male,1991-01-21,,,,
+0284-CUST,2026-07-24,Organic,2027-07-24,Standard,Annual,,,60.2,1625,33,0,samarth,India,Maharashtra,Male,1962-02-10,,,,
+0285-CUST,2024-10-05,Organic,2024-11-04,Standard,Monthly,2024-11-14,Too expensive,63.2,1832,94,1,libni,India,Karnataka,Male,1969-02-06,,,,
+0286-CUST,2026-02-09,Organic,2027-02-09,Standard,Annual,2026-06-09,Switched to competitor,60.8,1945,86,1,nikita,India,Nagaland,Female,1985-12-23,,,,
+0287-CUST,2025-05-04,Organic,2026-05-04,Premium,Annual,,,99.0,2673,45,0,jason,India,Maharashtra,Female,1972-12-21,,,,
+0288-CUST,2025-02-03,Organic,2025-03-05,Basic,Monthly,2025-12-25,Switched to competitor,27.8,917,66,1,anamika,India,Meghalaya,Male,1987-04-27,,,,
+0289-CUST,2024-05-03,Referral,2024-06-02,Basic,Monthly,,,31.8,954,38,0,meghana,India,Uttar Pradesh,Male,1985-01-16,2026-03-16,N,5.0,1.0
+0290-CUST,2024-08-14,Paid,2024-09-13,Premium,Monthly,,,102.2,2350,55,0,chandani,India,Rajasthan,Male,1962-08-30,2026-04-04,N,1.0,1.0
+0291-CUST,2026-06-11,Organic,2026-07-11,Basic,Monthly,2027-01-13,Forgot to cancel trial,33.2,564,82,1,chandani,India,Nagaland,Male,1999-03-08,,,,
+0292-CUST,2025-11-05,Paid,2025-12-05,Standard,Monthly,,,59.7,1671,20,0,atharv,India,Maharashtra,Female,2006-02-17,,,,
+0293-CUST,2024-07-13,Referral,2025-07-13,Standard,Annual,2025-01-02,Not enough content,60.8,1216,67,1,krisha,India,Telangana,Female,1971-08-26,,,,
+0294-CUST,2023-11-18,Organic,2024-11-17,Basic,Annual,,,34.6,622,49,0,victor,India,Nagaland,Male,1967-01-02,,,,
+0295-CUST,2023-10-29,Paid,2024-10-28,Standard,Annual,,,63.0,1575,17,0,dakshesh,India,Meghalaya,Female,1999-11-02,2026-01-05,N,5.0,1.0
+0296-CUST,2026-06-20,Organic,2027-06-20,Basic,Annual,,,30.4,1003,48,0,vinaya,India,Maharashtra,Male,1993-11-10,,,,
+0297-CUST,2026-07-08,Organic,2026-08-07,Standard,Monthly,,,57.5,920,17,0,chanakya,India,Karnataka,Female,2001-01-11,,,,
+0298-CUST,2023-10-14,Paid,2024-10-13,Basic,Annual,2024-08-21,Poor service,27.9,418,84,1,leela,India,Meghalaya,Male,2008-06-25,2026-03-30,Y,3.0,1.0
+0299-CUST,2026-04-28,Organic,2027-04-28,Standard,Annual,,,59.0,1829,33,0,priya,India,Nagaland,Male,1970-01-17,,,,
+0300-CUST,2024-05-17,Paid,2025-05-17,Standard,Annual,2024-10-13,Switched to competitor,61.4,2087,67,1,yatan,India,Delhi,Male,1975-12-31,,,,
+0301-CUST,2025-11-26,Paid,2025-12-26,Standard,Monthly,,,61.0,915,48,0,aradhana,India,Telangana,Male,1992-04-14,2026-01-02,Y,4.0,1.0
+0302-CUST,2023-09-19,Paid,2023-10-19,Standard,Monthly,,,60.4,1751,20,0,vaishnavi,India,Telangana,Female,2000-04-24,2026-07-23,Y,4.0,1.0
+0303-CUST,2024-06-23,Paid,2024-07-23,Basic,Monthly,,,26.6,452,37,0,damyanti,India,Uttar Pradesh,Male,1960-11-30,,,,
+0304-CUST,2026-05-30,Paid,2026-06-29,Standard,Monthly,,,63.3,1645,43,0,mekhala,India,Telangana,Female,1968-10-11,,,,
+0305-CUST,2026-06-20,Paid,2026-07-20,Standard,Monthly,,,64.0,2176,24,0,nilima,India,Delhi,Male,1965-06-05,,,,
+0306-CUST,2025-06-29,Referral,2026-06-29,Standard,Annual,,,61.4,2026,44,0,abhimanyu,India,Meghalaya,Male,1968-07-03,2026-03-09,Y,2.0,1.0
+0307-CUST,2025-03-09,Organic,2025-04-08,Standard,Monthly,,,56.8,1931,45,0,yatin,India,Meghalaya,Male,1998-04-13,2026-07-20,Y,4.0,1.0
+0308-CUST,2026-01-19,Organic,2026-02-18,Standard,Monthly,,,64.7,841,24,0,mekhala,India,Telangana,Female,1973-05-28,2025-10-29,N,3.0,1.0
+0309-CUST,2025-04-08,Referral,2026-04-08,Standard,Annual,,,55.4,1495,55,0,ryan,India,Rajasthan,Male,1998-02-24,2026-06-03,Y,2.0,1.0
+0310-CUST,2026-02-20,Paid,2027-02-20,Premium,Annual,,,97.0,2425,40,0,jason,India,Maharashtra,Female,1972-07-18,,,,
+0311-CUST,2023-07-31,Organic,2024-07-30,Standard,Annual,,,63.3,759,43,0,hiral,India,Delhi,Female,1997-05-15,2025-12-30,N,3.0,1.0
+0312-CUST,2026-05-03,Organic,2027-05-03,Standard,Annual,,,62.0,1674,14,0,janani,India,Nagaland,Male,1990-01-11,,,,
+0313-CUST,2026-03-27,Paid,2026-04-26,Basic,Monthly,2026-11-08,Poor service,32.4,1004,80,1,ojasvi,India,Uttar Pradesh,Male,1968-08-03,,,,
+0314-CUST,2025-07-16,Organic,2026-07-16,Standard,Annual,2025-09-15,Too expensive,64.5,774,93,1,netra,India,Nagaland,Female,1971-08-10,,,,
+0315-CUST,2025-09-12,Paid,2025-10-12,Standard,Monthly,,,62.0,1612,34,0,gopal,India,Nagaland,Male,1971-07-14,2026-02-16,N,5.0,1.0
+0316-CUST,2024-03-27,Paid,2025-03-27,Standard,Annual,,,60.4,785,49,0,yochana,India,Karnataka,Male,1979-06-09,2026-05-13,Y,1.0,1.0
+0317-CUST,2024-12-16,Organic,2025-12-16,Standard,Annual,2025-03-25,Switched to competitor,57.8,1329,79,1,rehaan,India,Uttar Pradesh,Female,1965-11-18,,,,
+0318-CUST,2024-04-04,Paid,2025-04-04,Premium,Annual,,,99.6,2689,18,0,rajata,India,Nagaland,Female,1985-12-14,,,,
+0319-CUST,2024-09-14,Paid,2025-09-14,Premium,Annual,,,95.9,2493,28,0,ekansh,India,Rajasthan,Male,2003-12-06,2026-07-05,N,3.0,1.0
+0320-CUST,2024-05-23,Paid,2025-05-23,Standard,Annual,2025-03-12,Switched to competitor,55.4,1218,73,1,tanish,India,Maharashtra,Female,1983-07-14,,,,
+0321-CUST,2025-05-03,Organic,2025-06-02,Standard,Monthly,,,58.4,1985,13,0,hemal,India,Delhi,Male,1985-07-01,,,,
+0322-CUST,2024-05-04,Referral,2024-06-03,Standard,Monthly,2024-06-28,Poor service,58.7,880,80,1,jai,India,Meghalaya,Female,1965-01-17,2026-05-16,Y,1.0,1.0
+0323-CUST,2024-09-03,Paid,2024-10-03,Basic,Monthly,,,28.7,717,59,0,ucchal,India,Maharashtra,Male,1975-07-06,,,,
+0324-CUST,2024-05-02,Organic,2025-05-02,Basic,Annual,2024-07-01,Not enough content,26.6,372,89,1,madhav,India,Delhi,Female,1991-12-05,2026-03-14,N,5.0,1.0
+0325-CUST,2025-10-06,Organic,2026-10-06,Basic,Annual,2026-03-30,Poor service,26.2,497,73,1,chaman,India,Meghalaya,Female,2005-03-12,2026-07-04,Y,5.0,1.0
+0326-CUST,2024-12-19,Organic,2025-01-18,Basic,Monthly,2026-01-16,Switched to competitor,30.8,1047,77,1,vasudha,India,Meghalaya,Female,1973-11-11,,,,
+0327-CUST,2026-02-24,Paid,2026-03-26,Premium,Monthly,,,95.5,1432,28,0,peter,India,Rajasthan,Male,1965-09-11,2026-04-28,N,4.0,1.0
+0328-CUST,2024-06-24,Referral,2025-06-24,Premium,Annual,,,101.8,2341,18,0,harshil,India,Uttar Pradesh,Female,1962-06-26,2026-05-29,N,4.0,1.0
+0329-CUST,2023-11-16,Referral,2024-11-15,Standard,Annual,,,56.1,1346,42,0,sanya,India,Maharashtra,Male,1973-06-10,,,,
+0330-CUST,2024-12-30,Paid,2025-01-29,Standard,Monthly,2025-03-29,Too expensive,60.0,900,86,1,yashica,India,Meghalaya,Female,1991-05-27,2026-03-13,N,4.0,1.0
+0331-CUST,2025-08-12,Paid,2025-09-11,Standard,Monthly,,,63.5,2286,37,0,tanveer,India,Maharashtra,Male,1983-08-21,2025-09-24,Y,5.0,1.0
+0332-CUST,2024-09-08,Organic,2025-09-08,Basic,Annual,2025-06-29,Poor service,30.8,400,70,1,vamakshi,India,Telangana,Male,1978-05-17,,,,
+0333-CUST,2024-04-02,Paid,2025-04-02,Standard,Annual,2024-07-21,Poor service,55.8,1339,84,1,aditya,India,Telangana,Female,1990-02-14,,,,
+0334-CUST,2024-03-30,Paid,2025-03-30,Basic,Annual,,,27.4,685,42,0,maanas,India,Delhi,Female,1981-01-10,2025-12-19,Y,1.0,1.0
+0335-CUST,2024-11-17,Organic,2024-12-17,Basic,Monthly,2025-01-22,Switched to competitor,27.5,385,79,1,neha,India,Rajasthan,Male,1985-11-11,2025-08-14,Y,3.0,1.0
+0336-CUST,2025-11-03,Organic,2026-11-03,Premium,Annual,2025-12-22,Poor service,97.1,1165,97,1,anusha,India,Uttar Pradesh,Male,1992-05-11,,,,
+0337-CUST,2024-03-16,Organic,2025-03-16,Standard,Annual,2024-12-11,Poor service,60.3,844,67,1,krisha,India,Karnataka,Female,1987-10-09,2026-06-06,Y,1.0,1.0
+0338-CUST,2023-08-23,Organic,2024-08-22,Standard,Annual,2024-01-01,Poor service,61.9,1609,87,1,lila,India,Rajasthan,Female,2005-04-04,,,,
+0339-CUST,2026-01-25,Referral,2027-01-25,Standard,Annual,2026-10-25,Forgot to cancel trial,55.7,724,72,1,kashvi,India,Meghalaya,Male,1981-08-09,2026-05-01,N,3.0,1.0
+0340-CUST,2024-11-06,Referral,2025-11-06,Standard,Annual,2025-04-17,Too expensive,58.3,2098,83,1,saumya,India,Nagaland,Female,2000-09-07,2026-07-04,N,5.0,1.0
+0341-CUST,2024-08-30,Organic,2025-08-30,Basic,Annual,2025-02-17,Forgot to cancel trial,33.7,1011,68,1,aditya,India,Nagaland,Female,1971-02-07,,,,
+0342-CUST,2024-05-11,Organic,2025-05-11,Standard,Annual,2024-11-30,Poor service,55.9,1341,67,1,timothy,India,Rajasthan,Male,1968-11-16,,,,
+0343-CUST,2024-05-29,Organic,2024-06-28,Standard,Monthly,2025-06-02,Not enough content,58.2,1571,84,1,indira,India,Karnataka,Female,1998-06-14,,,,
+0344-CUST,2024-05-24,Referral,2025-05-24,Basic,Annual,,,28.1,899,17,0,guneet,India,Nagaland,Male,1996-04-27,,,,
+0345-CUST,2026-06-11,Paid,2027-06-11,Standard,Annual,,,57.5,1035,10,0,janani,India,Telangana,Female,1965-03-04,2026-06-22,N,3.0,1.0
+0346-CUST,2026-03-09,Referral,2027-03-09,Premium,Annual,2027-04-02,Not enough content,99.5,2288,84,1,krish,India,Karnataka,Female,1961-09-24,,,,
+0347-CUST,2025-06-16,Referral,2025-07-16,Standard,Monthly,,,58.8,764,49,0,finn,India,Telangana,Female,1967-02-18,,,,
+0348-CUST,2025-12-31,Referral,2026-12-31,Basic,Annual,2026-10-12,Not enough content,30.4,972,76,1,kabir,India,Uttar Pradesh,Male,1982-05-15,,,,
+0349-CUST,2025-08-06,Referral,2026-08-06,Premium,Annual,,,102.5,2562,22,0,ayush,India,Uttar Pradesh,Male,1970-05-04,2026-05-30,N,4.0,1.0
+0350-CUST,2024-01-18,Organic,2025-01-17,Basic,Annual,,,25.6,512,24,0,meera,India,Delhi,Male,2000-11-30,,,,
+0351-CUST,2024-12-17,Referral,2025-01-16,Standard,Monthly,,,58.7,1702,55,0,bachittar,India,Uttar Pradesh,Female,1962-06-21,2026-04-14,N,4.0,1.0
+0352-CUST,2026-04-16,Organic,2027-04-16,Standard,Annual,2026-11-10,Too expensive,56.7,907,92,1,ladli,India,Maharashtra,Female,1977-08-10,2026-06-17,N,3.0,1.0
+0353-CUST,2023-09-02,Paid,2023-10-02,Premium,Monthly,,,100.8,1209,35,0,dhruv,India,Telangana,Female,1990-05-23,2026-01-15,Y,3.0,1.0
+0354-CUST,2025-05-16,Referral,2025-06-15,Standard,Monthly,,,61.1,1405,26,0,devansh,India,Meghalaya,Female,1968-06-15,2026-02-09,N,5.0,1.0
+0355-CUST,2025-10-25,Referral,2025-11-24,Standard,Monthly,,,59.0,1062,19,0,meghana,India,Nagaland,Female,1999-05-29,,,,
+0356-CUST,2024-07-23,Organic,2025-07-23,Premium,Annual,,,103.8,1557,44,0,arunima,India,Maharashtra,Female,1991-04-07,,,,
+0357-CUST,2023-08-16,Organic,2023-09-15,Standard,Monthly,,,63.6,2098,45,0,nihal,India,Nagaland,Male,1965-04-15,,,,
+0358-CUST,2024-08-17,Organic,2025-08-17,Basic,Annual,2025-08-30,Not enough content,24.9,771,91,1,jonathan,India,Karnataka,Male,1972-12-11,2026-02-19,N,3.0,1.0
+0359-CUST,2025-06-20,Referral,2025-07-20,Basic,Monthly,,,33.4,567,38,0,jasmit,India,Delhi,Female,2001-01-24,,,,
+0360-CUST,2024-11-19,Referral,2025-11-19,Standard,Annual,,,57.3,1604,60,0,hitesh,India,Meghalaya,Female,1963-03-18,2025-12-07,N,1.0,1.0
+0361-CUST,2024-06-05,Paid,2024-07-05,Basic,Monthly,2024-09-03,Too expensive,28.1,786,81,1,imaran,India,Karnataka,Female,1986-06-01,,,,
+0362-CUST,2024-08-04,Referral,2025-08-04,Standard,Annual,2025-07-05,Not enough content,58.0,696,85,1,pooja,India,Nagaland,Male,1966-05-27,,,,
+0363-CUST,2025-03-03,Organic,2025-04-02,Basic,Monthly,,,33.2,962,26,0,azad,India,Maharashtra,Female,1968-04-22,2026-07-24,N,4.0,1.0
+0364-CUST,2023-08-18,Referral,2024-08-17,Basic,Annual,,,25.5,841,18,0,hamsini,India,Nagaland,Female,1967-01-09,2026-06-17,N,3.0,1.0
+0365-CUST,2024-12-22,Organic,2025-12-22,Standard,Annual,,,61.5,1537,16,0,pranav,India,Karnataka,Male,1976-02-25,,,,
+0366-CUST,2025-02-19,Organic,2025-03-21,Standard,Monthly,2025-07-02,Switched to competitor,58.0,1218,65,1,oviya,India,Karnataka,Male,1979-12-30,2025-09-27,N,3.0,1.0
+0367-CUST,2024-02-23,Referral,2024-03-24,Basic,Monthly,,,29.3,1054,56,0,laksh,India,Meghalaya,Female,2000-04-22,,,,
+0368-CUST,2023-12-11,Organic,2024-12-10,Standard,Annual,,,59.6,1370,22,0,shravya,India,Telangana,Female,1980-04-28,2026-05-10,N,1.0,1.0
+0369-CUST,2025-06-22,Organic,2025-07-22,Premium,Monthly,2025-11-23,Forgot to cancel trial,103.0,3605,77,1,yash,India,Karnataka,Male,1986-01-11,,,,
+0370-CUST,2025-11-18,Referral,2026-11-18,Standard,Annual,,,57.0,1425,10,0,divya,India,Rajasthan,Female,2008-02-13,,,,
+0371-CUST,2026-06-04,Referral,2026-07-04,Standard,Monthly,,,59.8,956,48,0,ijaya,India,Uttar Pradesh,Female,2008-06-03,2026-05-03,Y,2.0,1.0
+0372-CUST,2026-04-28,Paid,2026-05-28,Standard,Monthly,,,64.3,1800,36,0,damyanti,India,Telangana,Male,2001-05-25,,,,
+0373-CUST,2026-04-10,Referral,2027-04-10,Standard,Annual,2027-04-17,Forgot to cancel trial,63.3,1772,76,1,tara,India,Delhi,Male,1981-01-03,,,,
+0374-CUST,2024-04-26,Referral,2024-05-26,Premium,Monthly,,,96.4,3374,18,0,raksha,India,Uttar Pradesh,Female,1994-12-14,,,,
+0375-CUST,2025-06-28,Referral,2025-07-28,Premium,Monthly,,,102.2,1328,14,0,darpan,India,Meghalaya,Male,1999-08-04,,,,
+0376-CUST,2025-05-02,Organic,2025-06-01,Standard,Monthly,2026-04-29,Poor service,56.1,1683,69,1,neha,India,Delhi,Male,1971-07-11,2026-06-20,N,1.0,1.0
+0377-CUST,2025-01-01,Paid,2025-01-31,Premium,Monthly,2025-04-18,Not enough content,95.2,1332,89,1,jasmit,India,Maharashtra,Male,1963-08-07,,,,
+0378-CUST,2024-04-23,Paid,2024-05-23,Standard,Monthly,,,60.7,910,60,0,ekapad,India,Nagaland,Female,2003-02-01,,,,
+0379-CUST,2024-08-03,Referral,2024-09-02,Premium,Monthly,,,95.8,1628,27,0,aachal,India,Meghalaya,Female,1995-03-20,2025-12-07,N,3.0,1.0
+0380-CUST,2026-07-17,Paid,2027-07-17,Standard,Annual,2027-07-30,Too expensive,56.9,1194,93,1,chakradev,India,Nagaland,Male,1988-11-02,,,,
+0381-CUST,2024-01-06,Referral,2024-02-05,Standard,Monthly,,,58.0,986,32,0,bachittar,India,Rajasthan,Female,1996-10-13,2026-02-19,N,2.0,1.0
+0382-CUST,2025-09-14,Referral,2025-10-14,Basic,Monthly,2026-04-24,Not enough content,26.0,624,82,1,jason,India,Delhi,Female,1963-06-11,,,,
+0383-CUST,2024-02-02,Referral,2024-03-03,Basic,Monthly,2024-10-29,Too expensive,29.1,960,88,1,indali,India,Telangana,Female,1961-07-17,,,,
+0384-CUST,2024-09-13,Paid,2025-09-13,Standard,Annual,,,56.0,1288,51,0,lila,India,Telangana,Female,1993-05-10,,,,
+0385-CUST,2024-11-21,Referral,2024-12-21,Basic,Monthly,,,26.8,375,34,0,xalak,India,Rajasthan,Male,1997-06-01,,,,
+0386-CUST,2025-02-28,Referral,2025-03-30,Basic,Monthly,,,30.7,1043,45,0,shivansh,India,Telangana,Male,2007-08-30,,,,
+0387-CUST,2023-08-11,Organic,2024-08-10,Basic,Annual,,,31.6,568,33,0,maanav,India,Maharashtra,Female,1990-01-07,2026-07-19,N,4.0,1.0
+0388-CUST,2025-04-30,Referral,2025-05-30,Premium,Monthly,2025-11-08,Forgot to cancel trial,102.7,1540,98,1,rajeshri,India,Nagaland,Male,1965-01-19,,,,
+0389-CUST,2025-08-18,Paid,2025-09-17,Standard,Monthly,2026-09-10,Not enough content,57.4,1492,96,1,udarsh,India,Nagaland,Male,1967-06-23,,,,
+0390-CUST,2024-08-10,Referral,2024-09-09,Standard,Monthly,,,61.8,988,23,0,naveen,India,Karnataka,Female,1990-11-10,,,,
+0391-CUST,2023-09-21,Organic,2024-09-20,Premium,Annual,,,99.8,3592,12,0,anmol,India,Telangana,Male,1964-04-09,,,,
+0392-CUST,2023-10-07,Referral,2024-10-06,Basic,Annual,2023-11-21,Forgot to cancel trial,34.3,411,89,1,ijaya,India,Delhi,Female,2000-11-12,,,,
+0393-CUST,2025-08-06,Paid,2025-09-05,Standard,Monthly,,,62.9,1887,13,0,pranit,India,Uttar Pradesh,Male,1988-01-18,,,,
+0394-CUST,2024-06-06,Paid,2024-07-06,Basic,Monthly,2024-11-06,Poor service,30.8,862,98,1,dhruv,India,Delhi,Female,1994-11-16,,,,
+0395-CUST,2024-09-16,Paid,2024-10-16,Standard,Monthly,2024-12-14,Forgot to cancel trial,57.7,1211,70,1,advik,India,Karnataka,Female,1969-06-12,,,,
+0396-CUST,2024-02-18,Organic,2024-03-19,Standard,Monthly,2024-08-16,Not enough content,59.3,1423,92,1,avni,India,Karnataka,Male,1999-10-25,2025-10-10,N,5.0,1.0
+0397-CUST,2024-09-23,Paid,2024-10-23,Standard,Monthly,,,57.3,2005,18,0,vincent,India,Karnataka,Female,1980-12-19,2025-11-10,N,4.0,1.0
+0398-CUST,2024-09-15,Referral,2025-09-15,Standard,Annual,2024-12-28,Poor service,56.9,1194,76,1,udarsh,India,Telangana,Male,2007-06-01,,,,
+0399-CUST,2025-09-04,Organic,2025-10-04,Standard,Monthly,2026-05-23,Poor service,64.3,1543,84,1,eiravati,India,Karnataka,Male,1978-03-06,2026-06-15,N,4.0,1.0
+0400-CUST,2025-07-17,Paid,2025-08-16,Basic,Monthly,,,28.6,371,38,0,banjeet,India,Delhi,Female,1982-03-06,,,,
+0401-CUST,2025-01-15,Organic,2025-02-14,Basic,Monthly,,,25.5,867,49,0,upasna,India,Meghalaya,Female,1977-02-20,2026-06-09,N,4.0,1.0
+0402-CUST,2024-10-18,Paid,2024-11-17,Standard,Monthly,,,63.3,2278,20,0,deepa,India,Delhi,Female,1962-08-16,,,,
+0403-CUST,2024-11-03,Referral,2025-11-03,Standard,Annual,,,62.0,2046,18,0,chandani,India,Telangana,Male,1996-08-03,,,,
+0404-CUST,2023-08-31,Organic,2023-09-30,Standard,Monthly,,,63.5,1397,38,0,vritti,India,Maharashtra,Female,1989-03-08,2026-01-16,Y,5.0,1.0
+0405-CUST,2024-10-11,Referral,2024-11-10,Standard,Monthly,,,56.3,1632,47,0,wridesh,India,Telangana,Male,1966-09-17,,,,
+0406-CUST,2025-02-01,Paid,2025-03-03,Premium,Monthly,,,101.0,1919,46,0,nidhi,India,Telangana,Male,1996-08-05,,,,
+0407-CUST,2023-11-27,Organic,2024-11-26,Basic,Annual,2024-08-25,Poor service,29.3,996,91,1,manan,India,Karnataka,Female,2007-02-22,2026-03-03,N,4.0,1.0
+0408-CUST,2025-04-22,Referral,2025-05-22,Premium,Monthly,,,96.3,1155,33,0,wahab,India,Delhi,Male,2008-01-26,2026-05-11,N,4.0,1.0
+0409-CUST,2024-07-05,Organic,2024-08-04,Standard,Monthly,2024-10-07,Switched to competitor,59.1,1713,77,1,ishwar,India,Telangana,Female,1979-09-08,,,,
+0410-CUST,2026-07-05,Organic,2026-08-04,Standard,Monthly,2027-01-03,Forgot to cancel trial,57.5,1725,96,1,noah,India,Rajasthan,Female,1983-07-20,2026-04-11,Y,4.0,1.0
+0411-CUST,2026-02-11,Paid,2026-03-13,Basic,Monthly,,,27.3,737,54,0,atharv,India,Uttar Pradesh,Female,1962-03-07,2026-01-04,N,5.0,1.0
+0412-CUST,2025-08-11,Paid,2025-09-10,Standard,Monthly,,,61.7,740,15,0,aishani,India,Nagaland,Female,1984-06-28,,,,
+0413-CUST,2025-06-23,Referral,2026-06-23,Standard,Annual,,,61.1,2138,27,0,baljiwan,India,Telangana,Male,1978-05-30,2026-06-30,Y,5.0,1.0
+0414-CUST,2025-11-05,Paid,2026-11-05,Standard,Annual,2026-01-09,Poor service,55.2,1821,66,1,champak,India,Nagaland,Female,1964-02-07,,,,
+0415-CUST,2024-05-05,Referral,2025-05-05,Basic,Annual,,,34.3,1097,48,0,sanaya,India,Rajasthan,Female,1979-04-11,2026-04-26,Y,2.0,1.0
+0416-CUST,2023-11-14,Referral,2024-11-13,Premium,Annual,,,102.4,1536,47,0,qadim,India,Uttar Pradesh,Male,1988-01-31,,,,
+0417-CUST,2024-07-08,Referral,2025-07-08,Basic,Annual,,,34.6,1211,26,0,varsha,India,Nagaland,Male,1999-07-10,,,,
+0418-CUST,2024-08-28,Referral,2024-09-27,Standard,Monthly,,,62.7,1504,37,0,hemangini,India,Delhi,Male,2003-09-08,2026-05-31,N,2.0,1.0
+0419-CUST,2025-11-05,Organic,2026-11-05,Standard,Annual,,,56.1,1458,45,0,yashasvi,India,Meghalaya,Male,1968-11-03,,,,
+0420-CUST,2024-04-27,Referral,2024-05-27,Premium,Monthly,,,98.7,1875,16,0,warjas,India,Uttar Pradesh,Male,1999-03-04,,,,
+0421-CUST,2026-03-14,Organic,2027-03-14,Premium,Annual,2026-07-30,Poor service,100.5,1708,73,1,advik,India,Meghalaya,Female,2001-08-21,2025-09-27,N,4.0,1.0
+0422-CUST,2025-03-28,Paid,2025-04-27,Premium,Monthly,,,100.3,1203,20,0,matthew,India,Delhi,Female,2006-10-12,,,,
+0423-CUST,2024-04-04,Organic,2024-05-04,Basic,Monthly,,,31.3,500,19,0,idika,India,Nagaland,Male,1984-07-18,,,,
+0424-CUST,2024-12-22,Organic,2025-12-22,Basic,Annual,,,30.9,525,20,0,zaitra,India,Delhi,Female,2001-12-05,,,,
+0425-CUST,2025-02-06,Referral,2026-02-06,Standard,Annual,,,56.9,1024,30,0,qadim,India,Meghalaya,Female,1994-11-22,,,,
+0426-CUST,2024-10-05,Referral,2025-10-05,Basic,Annual,,,29.9,837,58,0,irya,India,Nagaland,Female,1994-01-25,,,,
+0427-CUST,2025-11-02,Referral,2025-12-02,Standard,Monthly,2026-02-18,Not enough content,64.8,2268,82,1,indrajit,India,Nagaland,Male,1978-02-15,2026-05-29,N,4.0,1.0
+0428-CUST,2023-09-06,Paid,2023-10-06,Basic,Monthly,,,25.1,376,39,0,garima,India,Maharashtra,Female,1979-04-12,,,,
+0429-CUST,2024-12-11,Paid,2025-01-10,Basic,Monthly,,,32.6,1010,55,0,devansh,India,Telangana,Female,1961-06-08,,,,
+0430-CUST,2024-05-04,Referral,2024-06-03,Standard,Monthly,,,64.5,1483,45,0,udyati,India,Rajasthan,Female,1994-02-06,,,,
+0431-CUST,2024-03-25,Paid,2025-03-25,Basic,Annual,,,29.5,649,54,0,bina,India,Telangana,Female,1992-11-17,2026-06-04,N,4.0,1.0
+0432-CUST,2023-08-07,Paid,2023-09-06,Standard,Monthly,2023-11-05,Poor service,62.0,1488,67,1,aarna,India,Delhi,Female,2005-05-03,2026-01-28,N,5.0,1.0
+0433-CUST,2025-07-30,Organic,2025-08-29,Basic,Monthly,2026-05-27,Forgot to cancel trial,30.7,798,86,1,nicholas,India,Rajasthan,Male,1991-04-30,,,,
+0434-CUST,2026-06-12,Referral,2026-07-12,Basic,Monthly,,,34.4,1100,32,0,irya,India,Uttar Pradesh,Male,2003-01-20,2026-05-25,Y,4.0,1.0
+0435-CUST,2023-11-18,Organic,2024-11-17,Basic,Annual,,,30.9,679,55,0,nirja,India,Nagaland,Female,1973-11-10,,,,
+0436-CUST,2024-02-22,Referral,2024-03-23,Standard,Monthly,,,63.1,1514,48,0,yash,India,Maharashtra,Male,1981-01-13,2026-05-31,N,5.0,1.0
+0437-CUST,2025-07-18,Paid,2025-08-17,Basic,Monthly,,,30.7,460,18,0,udyati,India,Meghalaya,Male,1977-02-26,2025-12-22,N,3.0,1.0
+0438-CUST,2024-12-21,Referral,2025-12-21,Standard,Annual,,,61.1,1099,38,0,aarav,India,Meghalaya,Male,2007-11-03,,,,
+0439-CUST,2023-09-30,Organic,2024-09-29,Premium,Annual,,,99.3,2383,43,0,bina,India,Telangana,Female,1965-05-15,,,,
+0440-CUST,2024-11-26,Referral,2024-12-26,Premium,Monthly,2025-05-17,Poor service,97.4,1461,68,1,rajeshri,India,Meghalaya,Male,2000-06-08,,,,
+0441-CUST,2025-11-15,Organic,2025-12-15,Basic,Monthly,,,26.8,348,57,0,yochana,India,Meghalaya,Male,1985-06-14,2025-08-17,N,5.0,1.0
+0442-CUST,2025-06-20,Referral,2026-06-20,Standard,Annual,,,59.8,1495,40,0,amara,India,Uttar Pradesh,Male,1984-10-09,,,,
+0443-CUST,2023-08-08,Organic,2023-09-07,Standard,Monthly,,,56.0,1848,29,0,chavvi,India,Rajasthan,Male,1976-10-22,,,,
+0444-CUST,2024-09-29,Referral,2025-09-29,Basic,Annual,,,25.7,385,53,0,faras,India,Uttar Pradesh,Female,1979-10-14,,,,
+0445-CUST,2026-01-14,Referral,2027-01-14,Standard,Annual,,,56.7,1474,25,0,aryan,India,Telangana,Male,2004-04-21,,,,
+0446-CUST,2024-08-10,Organic,2024-09-09,Basic,Monthly,2025-07-16,Switched to competitor,26.1,756,68,1,girindra,India,Delhi,Female,1998-04-22,2026-05-24,N,4.0,1.0
+0447-CUST,2026-04-24,Paid,2027-04-24,Basic,Annual,,,31.6,632,59,0,farhan,India,Nagaland,Male,2001-07-19,2025-10-27,N,4.0,1.0
+0448-CUST,2026-03-12,Referral,2027-03-12,Standard,Annual,2026-08-29,Forgot to cancel trial,60.4,785,93,1,utkarsh,India,Nagaland,Male,1962-07-27,,,,
+0449-CUST,2024-11-05,Paid,2024-12-05,Standard,Monthly,,,59.2,1716,30,0,chakradev,India,Rajasthan,Male,1977-09-13,,,,
+0450-CUST,2025-02-21,Referral,2026-02-21,Standard,Annual,,,62.0,1984,24,0,damini,India,Karnataka,Male,1997-09-09,2026-06-03,N,3.0,1.0
+0451-CUST,2026-03-06,Paid,2026-04-05,Standard,Monthly,,,56.1,1122,38,0,akshay,India,Nagaland,Female,1994-10-13,,,,
+0452-CUST,2026-05-22,Organic,2027-05-22,Premium,Annual,,,102.8,1542,36,0,ayushman,India,Uttar Pradesh,Female,2001-03-02,2025-10-11,Y,3.0,1.0
+0453-CUST,2025-08-10,Paid,2026-08-10,Premium,Annual,,,103.6,3522,20,0,manan,India,Rajasthan,Male,1993-01-24,,,,
+0454-CUST,2025-06-23,Referral,2025-07-23,Premium,Monthly,2025-08-31,Poor service,98.2,2258,69,1,timothy,India,Maharashtra,Female,1991-08-09,,,,
+0455-CUST,2024-11-26,Referral,2025-11-26,Standard,Annual,,,63.2,758,25,0,manya,India,Karnataka,Male,1983-06-17,2026-02-27,Y,1.0,1.0
+0456-CUST,2025-03-26,Paid,2025-04-25,Premium,Monthly,,,97.5,3022,27,0,liam,India,Nagaland,Male,1994-04-09,,,,
+0457-CUST,2024-02-02,Organic,2024-03-03,Standard,Monthly,2024-04-20,Poor service,57.6,1785,92,1,raksha,India,Rajasthan,Female,1996-09-13,2026-01-10,N,5.0,1.0
+0458-CUST,2024-11-19,Referral,2024-12-19,Standard,Monthly,,,61.6,739,60,0,sanya,India,Uttar Pradesh,Male,1963-07-27,2026-07-03,N,1.0,1.0
+0459-CUST,2025-08-12,Organic,2025-09-11,Premium,Monthly,,,102.9,1440,38,0,manthan,India,Telangana,Female,1971-05-21,2026-07-03,N,2.0,1.0
+0460-CUST,2025-11-24,Organic,2025-12-24,Premium,Monthly,,,96.6,1352,15,0,oni,India,Delhi,Female,1974-10-19,2026-05-07,N,3.0,1.0
+0461-CUST,2023-08-18,Referral,2023-09-17,Standard,Monthly,,,57.0,1995,33,0,eiravati,India,Nagaland,Female,1967-06-17,2026-02-28,N,3.0,1.0
+0462-CUST,2024-06-27,Paid,2025-06-27,Standard,Annual,,,63.8,1148,10,0,bachittar,India,Karnataka,Female,1978-05-16,,,,
+0463-CUST,2023-11-25,Organic,2024-11-24,Standard,Annual,,,57.3,1031,57,0,kritika,India,Maharashtra,Male,1989-06-27,2026-06-12,N,4.0,1.0
+0464-CUST,2026-01-29,Organic,2026-02-28,Basic,Monthly,,,33.8,912,13,0,gayathri,India,Delhi,Male,1980-05-28,,,,
+0465-CUST,2023-10-31,Paid,2024-10-30,Standard,Annual,2024-03-20,Switched to competitor,64.1,1282,79,1,daksha,India,Delhi,Female,1999-04-16,,,,
+0466-CUST,2025-07-11,Paid,2026-07-11,Premium,Annual,2026-03-13,Forgot to cancel trial,95.3,2287,95,1,sathvik,India,Karnataka,Female,1965-05-09,,,,
+0467-CUST,2025-11-03,Organic,2026-11-03,Basic,Annual,2026-03-15,Not enough content,27.5,935,95,1,nakul,India,Delhi,Female,1968-07-19,,,,
+0468-CUST,2025-03-12,Organic,2025-04-11,Standard,Monthly,,,62.7,1379,42,0,urvashi,India,Nagaland,Female,1970-01-10,2025-09-24,Y,2.0,1.0
+0469-CUST,2025-04-28,Organic,2026-04-28,Standard,Annual,,,58.7,1291,40,0,amruta,India,Maharashtra,Male,1988-02-24,,,,
+0470-CUST,2026-01-21,Organic,2027-01-21,Standard,Annual,,,58.3,1690,13,0,sachi,India,Karnataka,Male,1986-04-13,,,,
+0471-CUST,2024-07-02,Organic,2025-07-02,Standard,Annual,,,56.1,897,20,0,reva,India,Uttar Pradesh,Male,2003-05-06,,,,
+0472-CUST,2026-07-16,Organic,2027-07-16,Standard,Annual,,,60.2,722,57,0,mohammed,India,Telangana,Male,2003-11-16,2026-06-25,N,5.0,1.0
+0473-CUST,2025-02-25,Referral,2025-03-27,Premium,Monthly,,,95.5,2674,11,0,ojas,India,Telangana,Male,1973-10-19,,,,
+0474-CUST,2025-10-28,Organic,2026-10-28,Standard,Annual,2026-06-30,Switched to competitor,59.6,834,72,1,zashil,India,Delhi,Male,1998-01-01,,,,
+0475-CUST,2023-11-08,Organic,2024-11-07,Basic,Annual,,,29.6,799,48,0,rushil,India,Delhi,Male,1962-11-18,,,,
+0476-CUST,2025-10-18,Organic,2026-10-18,Standard,Annual,,,64.1,1730,40,0,yamini,India,Maharashtra,Male,1968-01-20,,,,
+0477-CUST,2026-06-02,Paid,2026-07-02,Standard,Monthly,2027-05-05,Switched to competitor,61.3,1961,74,1,harinakshi,India,Nagaland,Male,1984-07-22,2025-10-27,N,5.0,1.0
+0478-CUST,2023-08-17,Organic,2023-09-16,Premium,Monthly,,,96.8,1839,18,0,vasana,India,Delhi,Female,1976-06-21,2026-06-09,Y,1.0,1.0
+0479-CUST,2026-04-08,Referral,2027-04-08,Standard,Annual,,,59.0,1770,34,0,thomas,India,Nagaland,Female,1981-07-07,,,,
+0480-CUST,2024-02-20,Referral,2025-02-19,Standard,Annual,,,60.0,1500,39,0,anya,India,Meghalaya,Female,1984-05-18,,,,
+0481-CUST,2026-07-10,Organic,2026-08-09,Premium,Monthly,2026-09-18,Not enough content,101.4,3346,93,1,nimrat,India,Delhi,Male,1964-11-19,,,,
+0482-CUST,2026-02-08,Organic,2027-02-08,Standard,Annual,2026-06-19,Poor service,59.4,1722,86,1,kamya,India,Maharashtra,Male,1972-05-25,,,,
+0483-CUST,2025-02-05,Organic,2026-02-05,Standard,Annual,2026-01-23,Too expensive,59.7,1552,79,1,chasmum,India,Delhi,Male,1981-11-06,,,,
+0484-CUST,2024-05-15,Referral,2025-05-15,Basic,Annual,,,28.9,635,16,0,harish,India,Nagaland,Male,1966-07-12,,,,
+0485-CUST,2024-10-16,Paid,2024-11-15,Standard,Monthly,,,64.0,2304,49,0,lucky,India,Uttar Pradesh,Male,1990-04-21,,,,
+0486-CUST,2026-03-12,Organic,2027-03-12,Premium,Annual,2026-06-04,Switched to competitor,95.8,1724,94,1,aahana,India,Karnataka,Male,2002-04-30,,,,
+0487-CUST,2026-03-01,Organic,2026-03-31,Basic,Monthly,,,25.2,579,44,0,xavier,India,Maharashtra,Female,1992-12-23,,,,
+0488-CUST,2024-09-20,Organic,2024-10-20,Basic,Monthly,2025-06-18,Poor service,32.5,585,88,1,amara,India,Maharashtra,Female,1967-07-20,,,,
+0489-CUST,2024-10-07,Paid,2025-10-07,Basic,Annual,,,31.3,563,27,0,damyanti,India,Rajasthan,Male,2003-09-13,,,,
+0490-CUST,2024-09-22,Organic,2025-09-22,Basic,Annual,,,27.7,664,41,0,harish,India,Rajasthan,Female,1994-01-03,2026-07-06,Y,3.0,1.0
+0491-CUST,2025-09-25,Paid,2026-09-25,Standard,Annual,,,56.0,1904,10,0,hemang,India,Telangana,Female,2006-08-14,,,,
+0492-CUST,2024-11-12,Referral,2024-12-12,Standard,Monthly,2025-02-15,Switched to competitor,59.9,718,82,1,aradhana,India,Telangana,Male,1972-02-02,,,,
+0493-CUST,2025-03-24,Referral,2025-04-23,Standard,Monthly,,,61.5,922,30,0,dayita,India,Rajasthan,Female,1981-02-26,,,,
+0494-CUST,2024-10-30,Referral,2024-11-29,Standard,Monthly,,,59.6,1907,15,0,oviya,India,Uttar Pradesh,Female,1986-01-27,2025-09-29,Y,1.0,1.0
+0495-CUST,2023-11-11,Referral,2023-12-11,Standard,Monthly,,,59.8,956,54,0,lohit,India,Telangana,Male,1990-11-09,,,,
+0496-CUST,2023-11-16,Organic,2023-12-16,Standard,Monthly,2024-08-16,Not enough content,59.8,1973,68,1,yamini,India,Karnataka,Female,1975-10-30,,,,
+0497-CUST,2023-08-31,Organic,2024-08-30,Premium,Annual,2023-12-20,Too expensive,102.7,2772,68,1,zansi,India,Rajasthan,Female,2008-03-07,2026-02-26,N,5.0,1.0
+0498-CUST,2024-08-21,Paid,2025-08-21,Basic,Annual,,,26.0,650,36,0,maanav,India,Karnataka,Female,2005-06-05,,,,
+0499-CUST,2024-11-25,Organic,2025-11-25,Premium,Annual,,,98.4,2952,42,0,madhav,India,Telangana,Male,1985-08-13,,,,
+0500-CUST,2025-05-19,Paid,2025-06-18,Standard,Monthly,,,58.6,937,27,0,tejas,India,Rajasthan,Female,1983-07-10,,,,
+0501-CUST,2025-07-21,Referral,2026-07-21,Basic,Annual,2025-09-01,Not enough content,29.9,1016,98,1,aarna,India,Meghalaya,Male,1992-04-17,2026-03-25,N,3.0,1.0
+0502-CUST,2025-07-30,Referral,2025-08-29,Standard,Monthly,,,55.4,886,55,0,naveen,India,Karnataka,Female,1988-07-09,,,,
+0503-CUST,2024-01-11,Paid,2025-01-10,Basic,Annual,,,26.3,815,15,0,zansi,India,Maharashtra,Male,1983-04-30,,,,
+0504-CUST,2026-06-19,Paid,2026-07-19,Basic,Monthly,,,32.8,1115,30,0,dipta,India,Meghalaya,Female,1977-05-20,,,,
+0505-CUST,2025-08-30,Organic,2026-08-30,Standard,Annual,,,58.6,703,51,0,dhriti,India,Meghalaya,Male,2004-01-15,2026-01-06,N,4.0,1.0
+0506-CUST,2025-07-03,Referral,2025-08-02,Basic,Monthly,,,26.2,628,28,0,rachana,India,Rajasthan,Male,1980-07-31,2025-10-25,N,4.0,1.0
+0507-CUST,2026-06-22,Referral,2027-06-22,Standard,Annual,,,55.2,1435,43,0,abha,India,Telangana,Female,1985-10-31,2026-03-20,N,2.0,1.0
+0508-CUST,2023-11-19,Organic,2023-12-19,Standard,Monthly,,,62.0,2108,54,0,chameli,India,Uttar Pradesh,Female,1985-10-17,,,,
+0509-CUST,2024-09-29,Referral,2025-09-29,Standard,Annual,2025-07-30,Too expensive,61.3,1348,65,1,jeevika,India,Meghalaya,Male,1960-08-01,2026-07-13,N,2.0,1.0
+0510-CUST,2025-07-30,Referral,2026-07-30,Premium,Annual,,,97.1,1359,35,0,maanas,India,Maharashtra,Female,1993-09-12,2026-04-05,Y,2.0,1.0
+0511-CUST,2026-07-17,Organic,2027-07-17,Basic,Annual,,,27.6,993,52,0,hamsini,India,Meghalaya,Male,1963-08-31,2026-05-02,N,3.0,1.0
+0512-CUST,2024-05-10,Referral,2024-06-09,Standard,Monthly,,,55.0,1100,42,0,mitesh,India,Karnataka,Male,2006-12-07,2026-07-07,Y,3.0,1.0
+0513-CUST,2023-08-15,Referral,2024-08-14,Premium,Annual,,,101.0,2020,28,0,inaya,India,Meghalaya,Male,1988-04-19,,,,
+0514-CUST,2025-07-14,Organic,2026-07-14,Basic,Annual,,,29.6,976,19,0,amrita,India,Uttar Pradesh,Female,1973-12-27,,,,
+0515-CUST,2024-11-21,Organic,2025-11-21,Standard,Annual,,,64.8,1944,57,0,balendra,India,Rajasthan,Female,1990-07-05,,,,
+0516-CUST,2025-07-15,Referral,2026-07-15,Premium,Annual,,,95.3,2763,43,0,jacob,India,Karnataka,Male,1981-11-02,2026-06-14,N,3.0,1.0
+0517-CUST,2025-09-01,Referral,2025-10-01,Standard,Monthly,,,61.4,982,27,0,rachita,India,Meghalaya,Male,1965-09-21,,,,
+0518-CUST,2024-01-14,Organic,2024-02-13,Standard,Monthly,,,63.4,1141,36,0,zinal,India,Telangana,Female,1963-06-23,,,,
+0519-CUST,2023-10-24,Paid,2024-10-23,Premium,Annual,,,97.3,3113,19,0,nimrat,India,Uttar Pradesh,Male,1973-01-12,,,,
+0520-CUST,2024-01-06,Referral,2024-02-05,Basic,Monthly,,,29.7,653,32,0,robert,India,Maharashtra,Male,1983-02-17,,,,
+0521-CUST,2025-07-20,Referral,2025-08-19,Premium,Monthly,2026-01-29,Too expensive,98.1,1471,94,1,gavin,India,Nagaland,Female,1988-01-03,,,,
+0522-CUST,2024-09-19,Referral,2024-10-19,Standard,Monthly,,,64.2,898,18,0,chandresh,India,Meghalaya,Male,1966-06-15,,,,
+0523-CUST,2024-04-26,Referral,2025-04-26,Premium,Annual,,,104.2,2917,20,0,thomas,India,Rajasthan,Male,1980-05-23,,,,
+0524-CUST,2025-03-18,Organic,2026-03-18,Standard,Annual,,,56.3,1745,50,0,indira,India,Karnataka,Female,1968-07-09,,,,
+0525-CUST,2024-01-08,Referral,2024-02-07,Standard,Monthly,,,61.0,2196,36,0,shivani,India,Meghalaya,Female,2008-07-11,2026-05-28,N,3.0,1.0
+0526-CUST,2023-11-30,Referral,2023-12-30,Standard,Monthly,,,61.5,1291,17,0,harshil,India,Delhi,Female,1970-03-26,,,,
+0527-CUST,2024-09-05,Organic,2024-10-05,Premium,Monthly,,,96.2,2212,16,0,aarini,India,Meghalaya,Female,1972-11-03,,,,
+0528-CUST,2025-05-01,Paid,2026-05-01,Premium,Annual,2025-09-19,Forgot to cancel trial,99.8,2095,81,1,victor,India,Delhi,Male,1966-05-10,,,,
+0529-CUST,2025-08-25,Organic,2025-09-24,Premium,Monthly,2026-06-05,Switched to competitor,96.9,1550,79,1,chaitaly,India,Meghalaya,Female,1996-08-11,,,,
+0530-CUST,2025-06-08,Paid,2026-06-08,Premium,Annual,,,98.6,2958,51,0,samaksh,India,Telangana,Male,1996-09-09,2026-07-07,N,3.0,1.0
+0531-CUST,2025-07-29,Referral,2025-08-28,Basic,Monthly,,,25.4,762,45,0,fitan,India,Meghalaya,Male,2006-12-01,2026-06-04,N,5.0,1.0
+0532-CUST,2026-04-05,Organic,2027-04-05,Basic,Annual,,,34.8,1148,14,0,jagvi,India,Telangana,Male,1960-10-15,,,,
+0533-CUST,2023-11-03,Referral,2024-11-02,Standard,Annual,,,57.1,1027,52,0,nisha,India,Delhi,Male,1981-10-29,2026-06-13,N,1.0,1.0
+0534-CUST,2024-06-28,Referral,2024-07-28,Basic,Monthly,2024-10-24,Not enough content,33.7,539,71,1,wridesh,India,Karnataka,Male,1985-08-31,,,,
+0535-CUST,2023-12-15,Referral,2024-12-14,Premium,Annual,,,99.2,2380,42,0,ishita,India,Telangana,Male,1989-03-25,,,,
+0536-CUST,2023-08-13,Referral,2023-09-12,Standard,Monthly,2024-05-05,Switched to competitor,55.9,1453,75,1,chandresh,India,Karnataka,Female,1987-03-01,,,,
+0537-CUST,2023-08-02,Referral,2023-09-01,Standard,Monthly,,,62.9,2012,44,0,advaith,India,Nagaland,Male,2002-03-20,,,,
+0538-CUST,2025-05-24,Referral,2025-06-23,Premium,Monthly,2025-09-13,Switched to competitor,103.0,1545,82,1,leena,India,Rajasthan,Male,1988-11-04,,,,
+0539-CUST,2026-04-06,Referral,2026-05-06,Premium,Monthly,2026-11-18,Too expensive,97.2,3402,80,1,gaurav,India,Uttar Pradesh,Male,1970-06-15,2026-06-25,N,2.0,1.0
+0540-CUST,2024-10-02,Referral,2024-11-01,Premium,Monthly,2024-12-16,Not enough content,104.5,2299,66,1,nakul,India,Maharashtra,Female,1962-03-23,,,,
+0541-CUST,2026-06-04,Referral,2026-07-04,Premium,Monthly,,,101.0,2525,53,0,saanvi,India,Telangana,Female,1989-02-14,,,,
+0542-CUST,2023-11-17,Referral,2024-11-16,Standard,Annual,2024-07-09,Switched to competitor,63.6,2035,98,1,zashil,India,Rajasthan,Male,1982-10-28,,,,
+0543-CUST,2025-07-31,Paid,2025-08-30,Premium,Monthly,2026-06-29,Forgot to cancel trial,99.7,2991,92,1,samaksh,India,Rajasthan,Male,1981-05-17,,,,
+0544-CUST,2025-09-22,Organic,2026-09-22,Standard,Annual,2026-08-11,Too expensive,58.7,1878,78,1,manthan,India,Telangana,Male,1980-02-09,,,,
+0545-CUST,2023-08-27,Referral,2023-09-26,Basic,Monthly,2024-01-13,Switched to competitor,29.2,817,75,1,anamika,India,Karnataka,Male,1991-02-12,2026-02-08,N,5.0,1.0
+0546-CUST,2025-11-08,Referral,2026-11-08,Standard,Annual,2026-11-14,Too expensive,57.0,1254,93,1,vidhi,India,Karnataka,Female,1978-12-08,,,,
+0547-CUST,2025-04-11,Paid,2025-05-11,Standard,Monthly,,,55.6,1612,48,0,ayushman,India,Uttar Pradesh,Female,1981-08-04,2026-04-12,Y,2.0,1.0
+0548-CUST,2025-08-13,Referral,2026-08-13,Standard,Annual,,,61.0,1525,18,0,yatin,India,Karnataka,Male,1966-11-15,,,,
+0549-CUST,2023-12-15,Paid,2024-12-14,Basic,Annual,,,26.4,871,26,0,dayita,India,Maharashtra,Female,1976-10-25,2026-07-11,Y,3.0,1.0
+0550-CUST,2024-03-25,Organic,2025-03-25,Premium,Annual,,,95.1,2187,55,0,udant,India,Rajasthan,Male,1977-01-20,,,,
+0551-CUST,2026-06-18,Referral,2027-06-18,Basic,Annual,,,30.0,690,11,0,mitali,India,Rajasthan,Male,1976-03-27,2026-02-06,Y,1.0,1.0
+0552-CUST,2025-08-08,Organic,2026-08-08,Standard,Annual,2026-07-25,Poor service,59.3,1186,72,1,vinaya,India,Nagaland,Female,2006-01-23,,,,
+0553-CUST,2024-06-12,Organic,2024-07-12,Basic,Monthly,,,27.2,326,18,0,kabir,India,Nagaland,Male,2003-03-28,,,,
+0554-CUST,2026-05-03,Organic,2027-05-03,Premium,Annual,,,95.4,2194,13,0,oviya,India,Telangana,Male,2007-09-28,,,,
+0555-CUST,2025-11-15,Organic,2026-11-15,Standard,Annual,,,64.1,961,41,0,jalsa,India,Nagaland,Female,1986-03-08,,,,
+0556-CUST,2024-01-23,Referral,2025-01-22,Standard,Annual,2024-09-03,Too expensive,59.8,1255,77,1,samaksh,India,Meghalaya,Male,1964-01-14,,,,
+0557-CUST,2026-04-06,Paid,2027-04-06,Standard,Annual,2026-10-11,Forgot to cancel trial,64.2,1605,93,1,imaran,India,Uttar Pradesh,Male,2003-10-11,2026-07-08,Y,5.0,1.0
+0558-CUST,2024-01-17,Organic,2024-02-16,Standard,Monthly,,,55.2,1269,24,0,fiyaz,India,Meghalaya,Female,1983-01-03,,,,
+0559-CUST,2025-04-13,Referral,2025-05-13,Premium,Monthly,,,99.3,1489,25,0,devansh,India,Karnataka,Female,1981-03-10,2026-07-17,Y,1.0,1.0
+0560-CUST,2025-05-03,Referral,2026-05-03,Basic,Annual,,,34.7,520,59,0,lakshmi,India,Maharashtra,Female,1993-02-16,,,,
+0561-CUST,2026-02-02,Paid,2026-03-04,Premium,Monthly,,,101.9,2955,51,0,adweta,India,Maharashtra,Male,1998-10-02,,,,
+0562-CUST,2024-07-25,Referral,2024-08-24,Standard,Monthly,,,59.2,947,49,0,bina,India,Karnataka,Male,1975-06-17,,,,
+0563-CUST,2026-02-05,Paid,2026-03-07,Basic,Monthly,,,27.8,472,21,0,vrishti,India,Uttar Pradesh,Female,1991-08-18,,,,
+0564-CUST,2025-04-11,Organic,2025-05-11,Standard,Monthly,2025-09-10,Forgot to cancel trial,59.5,2023,95,1,parth,India,Maharashtra,Male,2000-04-09,,,,
+0565-CUST,2024-05-17,Referral,2025-05-17,Standard,Annual,,,60.2,1685,43,0,balveer,India,Delhi,Female,1977-06-03,,,,
+0566-CUST,2025-08-27,Paid,2026-08-27,Standard,Annual,,,58.5,1696,40,0,adya,India,Telangana,Female,1993-10-03,2026-05-26,N,5.0,1.0
+0567-CUST,2024-12-08,Referral,2025-01-07,Basic,Monthly,,,25.7,925,36,0,dalbir,India,Maharashtra,Male,1981-07-20,,,,
+0568-CUST,2023-09-24,Organic,2023-10-24,Basic,Monthly,,,32.9,921,57,0,isaac,India,Uttar Pradesh,Male,1982-07-14,,,,
+0569-CUST,2025-01-31,Organic,2025-03-02,Standard,Monthly,,,63.2,2212,33,0,ishaan,India,Karnataka,Male,2002-07-28,,,,
+0570-CUST,2024-10-27,Organic,2025-10-27,Basic,Annual,,,34.8,869,42,0,radhika,India,Uttar Pradesh,Female,1987-08-18,,,,
+0571-CUST,2026-06-02,Organic,2026-07-02,Standard,Monthly,,,58.3,1282,21,0,brijesh,India,Rajasthan,Male,1995-07-24,,,,
+0572-CUST,2023-09-21,Organic,2024-09-20,Standard,Annual,2024-03-22,Not enough content,58.3,1982,87,1,brijesh,India,Nagaland,Female,1984-10-15,,,,
+0573-CUST,2024-11-21,Referral,2025-11-21,Standard,Annual,,,59.0,1298,43,0,ishita,India,Telangana,Male,2004-11-26,,,,
+0574-CUST,2023-12-30,Referral,2024-12-29,Standard,Annual,,,59.2,1539,40,0,ishanvi,India,Karnataka,Male,1979-02-03,2026-04-08,Y,5.0,1.0
+0575-CUST,2024-12-30,Paid,2025-12-30,Standard,Annual,,,59.1,1950,37,0,rajata,India,Karnataka,Male,1960-09-23,,,,
+0576-CUST,2023-12-29,Paid,2024-12-28,Basic,Annual,,,27.9,390,17,0,anmol,India,Delhi,Female,1998-01-07,2025-11-13,N,5.0,1.0
+0577-CUST,2023-09-26,Paid,2024-09-25,Basic,Annual,,,31.9,797,35,0,yash,India,Telangana,Female,2000-12-09,2026-05-25,N,4.0,1.0
+0578-CUST,2023-10-24,Paid,2024-10-23,Basic,Annual,,,25.3,784,23,0,gaurika,India,Karnataka,Male,1989-03-14,,,,
+0579-CUST,2025-02-10,Paid,2025-03-12,Premium,Monthly,,,101.0,1717,46,0,ridhi,India,Karnataka,Male,1968-10-03,,,,
+0580-CUST,2024-05-16,Organic,2025-05-16,Standard,Annual,2024-11-25,Switched to competitor,59.1,945,97,1,shivani,India,Maharashtra,Female,1980-10-02,2026-02-23,Y,2.0,1.0
+0581-CUST,2024-11-06,Organic,2025-11-06,Premium,Annual,,,102.3,2762,41,0,dakshesh,India,Maharashtra,Male,2000-11-26,2026-05-11,N,4.0,1.0
+0582-CUST,2024-06-28,Organic,2025-06-28,Standard,Annual,,,55.9,1844,47,0,om,India,Uttar Pradesh,Female,1961-11-28,2026-06-17,Y,5.0,1.0
+0583-CUST,2025-04-22,Referral,2026-04-22,Basic,Annual,2026-01-30,Too expensive,30.9,803,68,1,dominic,India,Nagaland,Male,1976-11-21,2026-07-17,N,3.0,1.0
+0584-CUST,2023-12-14,Organic,2024-12-13,Standard,Annual,2024-02-26,Too expensive,57.0,1083,71,1,shivansh,India,Maharashtra,Female,1987-04-14,,,,
+0585-CUST,2023-08-14,Paid,2023-09-13,Standard,Monthly,,,64.1,833,35,0,nihal,India,Karnataka,Female,1965-07-17,,,,
+0586-CUST,2025-10-12,Organic,2025-11-11,Standard,Monthly,,,56.4,1128,55,0,george,India,Telangana,Female,2005-07-22,,,,
+0587-CUST,2024-07-28,Organic,2025-07-28,Basic,Annual,,,34.1,750,59,0,samar,India,Telangana,Female,1962-11-26,,,,
+0588-CUST,2023-08-25,Paid,2023-09-24,Standard,Monthly,2024-01-09,Too expensive,61.4,2026,89,1,krishna,India,Uttar Pradesh,Female,1999-12-04,2026-07-03,N,3.0,1.0
+0589-CUST,2024-04-18,Organic,2025-04-18,Standard,Annual,2024-06-30,Poor service,61.0,1708,76,1,meghana,India,Uttar Pradesh,Female,1981-05-28,,,,
+0590-CUST,2024-05-24,Paid,2025-05-24,Standard,Annual,,,57.1,685,34,0,ishwar,India,Meghalaya,Female,2001-07-12,,,,
+0591-CUST,2025-11-29,Paid,2025-12-29,Standard,Monthly,2026-10-23,Too expensive,61.1,1222,87,1,viraj,India,Nagaland,Male,1971-06-01,2025-10-16,N,4.0,1.0
+0592-CUST,2024-08-30,Referral,2024-09-29,Standard,Monthly,2025-03-15,Too expensive,62.5,2250,70,1,advik,India,Delhi,Male,1990-01-09,2026-07-21,Y,5.0,1.0
+0593-CUST,2023-09-19,Referral,2023-10-19,Basic,Monthly,,,28.3,566,39,0,pooja,India,Nagaland,Female,1976-03-31,,,,
+0594-CUST,2024-03-24,Referral,2024-04-23,Standard,Monthly,,,62.6,1001,55,0,yadavi,India,Telangana,Female,1988-01-06,2025-12-21,N,4.0,1.0
+0595-CUST,2025-11-30,Paid,2026-11-30,Standard,Annual,,,55.5,1054,59,0,jagat,India,Karnataka,Female,1999-08-18,,,,
+0596-CUST,2025-11-29,Paid,2025-12-29,Standard,Monthly,,,64.2,2247,56,0,benjamin,India,Karnataka,Female,1974-08-28,,,,
+0597-CUST,2024-12-17,Referral,2025-12-17,Standard,Annual,,,60.2,1986,16,0,tanay,India,Telangana,Male,1987-01-17,2026-06-08,N,4.0,1.0
+0598-CUST,2026-01-13,Referral,2026-02-12,Standard,Monthly,,,59.2,1124,15,0,sara,India,Rajasthan,Female,1979-06-24,,,,
+0599-CUST,2025-05-14,Paid,2026-05-14,Standard,Annual,,,58.8,1411,24,0,dalbir,India,Nagaland,Female,1980-05-24,,,,
+0600-CUST,2026-02-24,Referral,2027-02-24,Basic,Annual,2026-12-18,Too expensive,25.7,411,89,1,balveer,India,Karnataka,Male,1975-08-25,,,,
+0601-CUST,2023-08-15,Organic,2024-08-14,Premium,Annual,,,101.6,2438,11,0,yuvraj,India,Telangana,Female,1970-12-10,2026-01-07,Y,2.0,1.0
+0602-CUST,2023-08-03,Paid,2023-09-02,Standard,Monthly,,,59.2,1657,45,0,ekansh,India,Rajasthan,Male,1996-03-21,,,,
+0603-CUST,2025-11-12,Referral,2026-11-12,Standard,Annual,,,61.8,988,14,0,veda,India,Maharashtra,Male,1979-10-21,2026-03-04,N,5.0,1.0
+0604-CUST,2025-07-16,Paid,2026-07-16,Standard,Annual,2026-04-05,Poor service,58.2,1222,70,1,neel,India,Nagaland,Female,2007-07-26,,,,
+0605-CUST,2024-07-06,Organic,2024-08-05,Premium,Monthly,,,97.8,1467,47,0,charles,India,Karnataka,Male,1979-01-21,,,,
+0606-CUST,2025-07-25,Paid,2025-08-24,Standard,Monthly,2026-01-06,Forgot to cancel trial,64.0,960,73,1,kavya,India,Nagaland,Female,1977-07-29,2026-07-10,N,1.0,1.0
+0607-CUST,2026-02-08,Organic,2027-02-08,Premium,Annual,,,95.9,3356,48,0,amol,India,Telangana,Male,1969-12-03,,,,
+0608-CUST,2026-01-10,Paid,2026-02-09,Premium,Monthly,2026-02-09,Forgot to cancel trial,101.2,2226,73,1,advay,India,Telangana,Female,1984-01-07,,,,
+0609-CUST,2023-11-18,Paid,2024-11-17,Basic,Annual,,,31.3,939,27,0,hemani,India,Uttar Pradesh,Male,1974-12-13,,,,
+0610-CUST,2025-09-11,Paid,2025-10-11,Premium,Monthly,2026-06-06,Not enough content,98.0,2646,88,1,kabir,India,Maharashtra,Male,2005-09-28,,,,
+0611-CUST,2025-10-14,Organic,2025-11-13,Standard,Monthly,,,56.2,1292,46,0,hardik,India,Nagaland,Male,1964-08-17,2026-03-05,N,3.0,1.0
+0612-CUST,2025-04-20,Referral,2025-05-20,Basic,Monthly,2025-12-23,Forgot to cancel trial,33.4,1169,97,1,vihaan,India,Telangana,Female,1966-05-12,,,,
+0613-CUST,2026-05-14,Referral,2027-05-14,Standard,Annual,,,62.1,1552,37,0,owen,India,Meghalaya,Male,1966-10-02,2025-12-31,Y,5.0,1.0
+0614-CUST,2025-09-20,Referral,2025-10-20,Standard,Monthly,,,60.7,1031,49,0,yash,India,Uttar Pradesh,Male,1994-09-24,2026-05-02,Y,2.0,1.0
+0615-CUST,2025-01-11,Organic,2026-01-11,Standard,Annual,2025-02-14,Switched to competitor,62.4,1934,93,1,nitesh,India,Uttar Pradesh,Female,1967-09-03,,,,
+0616-CUST,2026-02-12,Organic,2026-03-14,Premium,Monthly,,,95.1,1426,59,0,rushil,India,Maharashtra,Female,1966-11-09,2025-12-27,N,3.0,1.0
+0617-CUST,2024-09-01,Referral,2025-09-01,Basic,Annual,,,27.8,778,23,0,pooja,India,Uttar Pradesh,Male,1983-07-23,2025-08-24,N,4.0,1.0
+0618-CUST,2024-12-23,Organic,2025-12-23,Standard,Annual,,,56.9,682,40,0,balendra,India,Nagaland,Female,1997-06-21,2026-06-21,N,3.0,1.0
+0619-CUST,2024-05-07,Referral,2025-05-07,Premium,Annual,2025-06-08,Switched to competitor,101.8,1221,67,1,maya,India,Uttar Pradesh,Female,1981-12-26,,,,
+0620-CUST,2026-05-29,Referral,2027-05-29,Basic,Annual,2027-05-31,Not enough content,29.4,441,90,1,jagdish,India,Nagaland,Male,2000-09-14,2026-05-25,N,1.0,1.0
+0621-CUST,2024-08-11,Referral,2025-08-11,Standard,Annual,,,59.4,1366,16,0,yatan,India,Telangana,Female,1976-05-19,2026-05-04,Y,3.0,1.0
+0622-CUST,2026-01-02,Referral,2027-01-02,Standard,Annual,,,63.6,1780,35,0,charvi,India,Nagaland,Male,1983-09-23,,,,
+0623-CUST,2023-10-13,Paid,2023-11-12,Premium,Monthly,,,101.3,1418,57,0,rachita,India,Meghalaya,Female,1974-05-07,,,,
+0624-CUST,2025-11-20,Organic,2025-12-20,Standard,Monthly,,,63.9,830,38,0,isaiah,India,Nagaland,Male,1979-08-25,2026-06-27,Y,4.0,1.0
+0625-CUST,2023-10-04,Paid,2023-11-03,Standard,Monthly,,,61.4,1166,36,0,theodore,India,Delhi,Female,1967-01-10,,,,
+0626-CUST,2024-08-29,Organic,2025-08-29,Standard,Annual,2025-10-03,Forgot to cancel trial,61.4,1964,71,1,charan,India,Meghalaya,Female,1977-02-17,2026-06-07,N,1.0,1.0
+0627-CUST,2023-08-11,Referral,2023-09-10,Premium,Monthly,2024-01-24,Not enough content,100.7,3121,71,1,rachit,India,Delhi,Male,1987-04-01,,,,
+0628-CUST,2026-02-25,Organic,2026-03-27,Basic,Monthly,,,26.6,532,18,0,rajeshri,India,Telangana,Male,1997-04-25,2026-05-16,N,2.0,1.0
+0629-CUST,2025-11-18,Organic,2025-12-18,Standard,Monthly,,,63.9,1086,52,0,ekbal,India,Rajasthan,Male,2007-09-21,,,,
+0630-CUST,2025-09-30,Organic,2025-10-30,Standard,Monthly,,,59.7,1611,14,0,tanvi,India,Karnataka,Female,1994-01-26,2026-07-10,N,5.0,1.0
+0631-CUST,2024-04-13,Organic,2024-05-13,Standard,Monthly,2024-07-06,Switched to competitor,57.3,744,88,1,odika,India,Karnataka,Female,1997-11-04,2026-05-30,N,2.0,1.0
+0632-CUST,2026-02-15,Paid,2027-02-15,Premium,Annual,2026-08-15,Poor service,102.8,3495,79,1,lakshmi,India,Meghalaya,Female,2004-02-11,,,,
+0633-CUST,2024-07-24,Organic,2024-08-23,Basic,Monthly,,,32.1,1091,38,0,nandini,India,Rajasthan,Female,1987-06-19,,,,
+0634-CUST,2024-02-23,Organic,2025-02-22,Standard,Annual,,,63.1,1956,16,0,omisha,India,Karnataka,Female,1980-09-19,2026-04-02,N,5.0,1.0
+0635-CUST,2026-05-17,Referral,2026-06-16,Standard,Monthly,,,63.7,1274,32,0,bishakha,India,Rajasthan,Male,1961-10-13,,,,
+0636-CUST,2025-02-28,Paid,2026-02-28,Standard,Annual,,,64.4,1416,55,0,siddharth,India,Karnataka,Male,1991-09-06,,,,
+0637-CUST,2024-10-31,Organic,2024-11-30,Standard,Monthly,2025-03-16,Switched to competitor,61.4,1289,74,1,tripti,India,Maharashtra,Male,2002-07-07,,,,
+0638-CUST,2025-09-01,Organic,2026-09-01,Standard,Annual,,,57.6,1094,45,0,geetika,India,Delhi,Female,1962-11-26,,,,
+0639-CUST,2024-11-02,Organic,2024-12-02,Standard,Monthly,2025-10-28,Too expensive,59.8,1734,76,1,azaan,India,Karnataka,Female,1980-04-03,2026-07-22,Y,4.0,1.0
+0640-CUST,2025-11-05,Paid,2026-11-05,Premium,Annual,,,104.8,2934,15,0,zayyan,India,Telangana,Male,1975-12-22,2026-02-16,Y,3.0,1.0
+0641-CUST,2024-11-20,Referral,2024-12-20,Basic,Monthly,,,27.9,1004,32,0,robert,India,Uttar Pradesh,Male,1976-06-28,,,,
+0642-CUST,2026-06-10,Paid,2027-06-10,Basic,Annual,,,31.4,1130,26,0,warjas,India,Maharashtra,Male,1973-01-12,2026-05-28,N,2.0,1.0
+0643-CUST,2023-12-14,Organic,2024-12-13,Basic,Annual,,,26.5,318,25,0,falguni,India,Uttar Pradesh,Female,1994-03-03,2026-04-16,Y,2.0,1.0
+0644-CUST,2025-01-20,Paid,2026-01-20,Standard,Annual,,,60.9,2192,18,0,onveer,India,Meghalaya,Male,1969-06-21,2025-11-18,N,4.0,1.0
+0645-CUST,2025-08-15,Paid,2026-08-15,Standard,Annual,,,62.0,1736,49,0,qabil,India,Rajasthan,Female,1996-03-22,,,,
+0646-CUST,2023-10-31,Organic,2023-11-30,Basic,Monthly,,,32.8,1115,44,0,ekansh,India,Rajasthan,Male,2005-08-27,,,,
+0647-CUST,2023-10-08,Referral,2023-11-07,Basic,Monthly,,,33.4,968,59,0,brinda,India,Karnataka,Male,2007-12-30,,,,
+0648-CUST,2025-08-20,Referral,2026-08-20,Premium,Annual,,,95.6,2772,55,0,radhika,India,Uttar Pradesh,Female,1998-02-14,2026-07-05,N,5.0,1.0
+0649-CUST,2024-11-30,Paid,2024-12-30,Premium,Monthly,,,99.7,2093,50,0,charvi,India,Meghalaya,Female,2003-11-19,2026-07-14,N,3.0,1.0
+0650-CUST,2023-10-22,Paid,2024-10-21,Premium,Annual,,,102.3,1432,60,0,harshil,India,Karnataka,Female,1976-04-15,2025-11-27,N,5.0,1.0
+0651-CUST,2024-01-29,Referral,2025-01-28,Standard,Annual,,,57.6,1209,15,0,caleb,India,Meghalaya,Male,1998-06-17,2026-05-03,N,3.0,1.0
+0652-CUST,2023-10-16,Organic,2023-11-15,Standard,Monthly,,,57.4,1549,35,0,hritik,India,Nagaland,Female,1971-02-14,,,,
+0653-CUST,2026-07-22,Referral,2027-07-22,Standard,Annual,,,64.7,1811,19,0,abhiram,India,Rajasthan,Female,1992-05-19,2026-06-30,Y,3.0,1.0
+0654-CUST,2024-11-15,Organic,2024-12-15,Standard,Monthly,,,58.4,1985,49,0,arunima,India,Maharashtra,Female,1971-01-18,2025-12-28,N,5.0,1.0
+0655-CUST,2025-11-18,Referral,2026-11-18,Basic,Annual,,,33.8,946,28,0,zehaan,India,Telangana,Female,1999-03-16,,,,
+0656-CUST,2024-02-14,Paid,2025-02-13,Standard,Annual,,,61.0,1952,45,0,gautam,India,Uttar Pradesh,Female,1977-01-24,2026-07-05,N,3.0,1.0
+0657-CUST,2025-07-15,Organic,2026-07-15,Premium,Annual,,,95.2,1999,14,0,janya,India,Delhi,Male,1960-12-24,,,,
+0658-CUST,2024-03-29,Referral,2024-04-28,Standard,Monthly,2024-08-03,Switched to competitor,60.6,787,69,1,dayamai,India,Telangana,Male,1971-09-14,,,,
+0659-CUST,2026-01-03,Referral,2027-01-03,Basic,Annual,2026-04-05,Too expensive,31.1,590,85,1,hritik,India,Telangana,Male,1972-05-30,2025-12-26,Y,2.0,1.0
+0660-CUST,2024-01-17,Organic,2024-02-16,Basic,Monthly,2024-03-04,Too expensive,27.4,849,78,1,gaurang,India,Delhi,Female,2000-07-04,,,,
+0661-CUST,2024-04-13,Organic,2025-04-13,Basic,Annual,,,27.5,770,36,0,yashasvi,India,Nagaland,Male,1964-06-24,,,,
+0662-CUST,2025-10-06,Paid,2025-11-05,Premium,Monthly,,,95.9,2877,16,0,eesha,India,Karnataka,Female,2004-04-30,,,,
+0663-CUST,2026-02-25,Referral,2027-02-25,Premium,Annual,2026-08-02,Forgot to cancel trial,96.0,1440,98,1,geetika,India,Nagaland,Male,1969-04-22,2026-04-01,N,2.0,1.0
+0664-CUST,2024-11-03,Paid,2024-12-03,Basic,Monthly,2024-12-16,Not enough content,29.4,1058,69,1,manbir,India,Telangana,Male,1966-05-21,,,,
+0665-CUST,2025-02-21,Paid,2026-02-21,Standard,Annual,,,59.4,1841,49,0,kevin,India,Nagaland,Male,1995-11-21,,,,
+0666-CUST,2023-09-04,Organic,2023-10-04,Premium,Monthly,2024-10-04,Not enough content,103.3,2995,86,1,isaac,India,Uttar Pradesh,Female,1962-12-11,,,,
+0667-CUST,2024-09-04,Organic,2024-10-04,Basic,Monthly,,,34.3,548,56,0,waida,India,Telangana,Female,1966-09-30,,,,
+0668-CUST,2025-06-18,Paid,2026-06-18,Basic,Annual,,,28.7,459,60,0,rachita,India,Rajasthan,Female,1995-09-20,,,,
+0669-CUST,2025-01-18,Organic,2025-02-17,Basic,Monthly,,,32.0,608,21,0,unni,India,Rajasthan,Female,1977-06-16,,,,
+0670-CUST,2025-06-17,Organic,2026-06-17,Premium,Annual,,,104.4,2818,32,0,onkar,India,Maharashtra,Male,2006-08-26,,,,
+0671-CUST,2025-02-23,Paid,2025-03-25,Basic,Monthly,,,29.5,973,51,0,sarthak,India,Meghalaya,Male,1965-10-12,,,,
+0672-CUST,2024-12-04,Referral,2025-12-04,Basic,Annual,,,32.2,1127,33,0,aahana,India,Nagaland,Female,1975-04-25,,,,
+0673-CUST,2025-09-08,Paid,2026-09-08,Basic,Annual,,,32.1,1059,56,0,nidra,India,Maharashtra,Male,2007-11-05,2025-07-31,Y,4.0,1.0
+0674-CUST,2026-06-10,Organic,2026-07-10,Standard,Monthly,,,60.1,1322,28,0,isaac,India,Nagaland,Male,2008-07-03,2026-05-29,N,2.0,1.0
+0675-CUST,2025-01-26,Paid,2026-01-26,Premium,Annual,2025-04-22,Switched to competitor,99.6,2191,78,1,udyati,India,Karnataka,Male,1998-11-07,2026-04-25,N,2.0,1.0
+0676-CUST,2025-08-25,Organic,2026-08-25,Basic,Annual,,,32.3,452,49,0,patrick,India,Karnataka,Male,1965-04-09,,,,
+0677-CUST,2025-03-08,Paid,2025-04-07,Premium,Monthly,,,102.0,1632,17,0,henry,India,Meghalaya,Male,2008-04-22,,,,
+0678-CUST,2025-07-06,Paid,2026-07-06,Basic,Annual,,,27.2,924,44,0,anamika,India,Meghalaya,Male,1980-11-13,,,,
+0679-CUST,2025-06-11,Paid,2026-06-11,Standard,Annual,2026-07-07,Poor service,63.6,2098,89,1,wyatt,India,Delhi,Female,1990-05-06,2026-05-29,N,2.0,1.0
+0680-CUST,2023-12-24,Paid,2024-12-23,Basic,Annual,,,25.4,330,14,0,bhavna,India,Maharashtra,Male,1987-09-27,2026-01-19,Y,1.0,1.0
+0681-CUST,2025-10-27,Paid,2025-11-26,Basic,Monthly,,,25.2,680,37,0,frado,India,Rajasthan,Male,1971-07-25,,,,
+0682-CUST,2024-01-20,Referral,2024-02-19,Premium,Monthly,,,101.2,1315,17,0,janani,India,Maharashtra,Female,1964-03-23,,,,
+0683-CUST,2025-01-14,Organic,2025-02-13,Premium,Monthly,,,97.7,2833,44,0,advik,India,Karnataka,Female,2004-05-06,2025-11-19,Y,4.0,1.0
+0684-CUST,2026-03-13,Paid,2027-03-13,Basic,Annual,2026-10-18,Forgot to cancel trial,33.4,801,66,1,gopal,India,Meghalaya,Male,1978-04-06,,,,
+0685-CUST,2024-04-06,Paid,2025-04-06,Premium,Annual,2024-09-13,Too expensive,104.7,3245,93,1,daniel,India,Telangana,Female,1965-06-11,2025-10-25,N,4.0,1.0
+0686-CUST,2024-01-24,Referral,2025-01-23,Premium,Annual,2024-09-12,Switched to competitor,99.2,1785,84,1,krish,India,Telangana,Male,1998-04-03,,,,
+0687-CUST,2024-03-05,Referral,2024-04-04,Basic,Monthly,,,28.7,373,36,0,zansi,India,Delhi,Female,1995-06-08,2026-06-27,N,4.0,1.0
+0688-CUST,2026-07-08,Referral,2026-08-07,Premium,Monthly,2027-07-24,Too expensive,95.2,1428,82,1,manya,India,Delhi,Female,1986-06-30,,,,
+0689-CUST,2025-02-03,Referral,2026-02-03,Basic,Annual,2026-02-09,Forgot to cancel trial,32.6,749,92,1,kritika,India,Maharashtra,Male,1969-05-05,,,,
+0690-CUST,2024-03-27,Referral,2025-03-27,Standard,Annual,,,60.1,841,53,0,wakeeta,India,Maharashtra,Female,1968-08-22,,,,
+0691-CUST,2025-06-21,Organic,2026-06-21,Standard,Annual,,,57.6,864,51,0,janaki,India,Karnataka,Male,2000-04-01,2026-06-05,N,2.0,1.0
+0692-CUST,2024-10-18,Referral,2025-10-18,Premium,Annual,,,99.0,2376,17,0,mohini,India,Delhi,Male,1974-05-16,,,,
+0693-CUST,2025-04-18,Organic,2026-04-18,Premium,Annual,,,101.6,1727,11,0,madhav,India,Nagaland,Female,1970-09-12,,,,
+0694-CUST,2025-09-08,Referral,2026-09-08,Standard,Annual,,,60.3,723,38,0,isha,India,Uttar Pradesh,Female,1966-12-10,,,,
+0695-CUST,2026-01-27,Referral,2027-01-27,Standard,Annual,,,59.4,1069,23,0,zaid,India,Karnataka,Male,2006-07-14,2025-12-08,N,5.0,1.0
+0696-CUST,2026-04-30,Paid,2026-05-30,Standard,Monthly,,,62.7,1567,16,0,frederick,India,Meghalaya,Female,1990-10-17,2026-05-17,N,4.0,1.0
+0697-CUST,2024-07-26,Paid,2024-08-25,Standard,Monthly,2024-11-14,Too expensive,56.6,849,95,1,aryan,India,Nagaland,Male,1980-01-13,,,,
+0698-CUST,2024-04-02,Organic,2024-05-02,Premium,Monthly,,,100.7,1409,14,0,radhika,India,Meghalaya,Female,1962-06-02,,,,
+0699-CUST,2024-06-11,Paid,2025-06-11,Standard,Annual,,,55.6,1946,16,0,balvan,India,Meghalaya,Male,1990-04-12,,,,
+0700-CUST,2024-07-18,Referral,2024-08-17,Premium,Monthly,,,99.4,1292,52,0,leena,India,Nagaland,Female,1998-12-26,,,,
+0701-CUST,2025-09-24,Referral,2025-10-24,Standard,Monthly,2026-02-21,Poor service,57.9,1737,80,1,robert,India,Maharashtra,Female,2005-05-20,2026-06-06,Y,1.0,1.0
+0702-CUST,2024-02-19,Referral,2025-02-18,Premium,Annual,,,102.3,3580,26,0,meera,India,Meghalaya,Female,1992-11-06,,,,
+0703-CUST,2025-05-26,Organic,2026-05-26,Basic,Annual,,,28.2,451,16,0,lekha,India,Nagaland,Female,1985-06-25,2026-01-10,N,1.0,1.0
+0704-CUST,2024-05-18,Organic,2024-06-17,Premium,Monthly,2024-10-30,Not enough content,99.7,2791,93,1,qadim,India,Uttar Pradesh,Male,1976-09-22,,,,
+0705-CUST,2024-09-21,Organic,2024-10-21,Premium,Monthly,,,95.6,2963,10,0,amruta,India,Karnataka,Male,1966-06-22,2026-05-15,Y,3.0,1.0
+0706-CUST,2025-01-29,Paid,2025-02-28,Premium,Monthly,,,97.7,1367,20,0,avni,India,Telangana,Male,1998-09-20,,,,
+0707-CUST,2023-12-20,Referral,2024-12-19,Premium,Annual,2024-05-03,Too expensive,97.2,2332,93,1,ethan,India,Telangana,Male,1975-02-17,,,,
+0708-CUST,2023-10-30,Organic,2024-10-29,Premium,Annual,2024-05-14,Not enough content,100.0,2100,74,1,atharv,India,Delhi,Male,2000-04-22,,,,
+0709-CUST,2025-09-11,Paid,2025-10-11,Premium,Monthly,,,102.3,3171,54,0,divya,India,Nagaland,Male,1988-11-16,,,,
+0710-CUST,2026-06-07,Organic,2027-06-07,Basic,Annual,2026-11-23,Switched to competitor,27.8,556,88,1,kalpit,India,Karnataka,Male,1975-01-20,,,,
+0711-CUST,2024-05-26,Paid,2025-05-26,Basic,Annual,2024-12-24,Forgot to cancel trial,26.8,750,89,1,yamini,India,Nagaland,Male,1996-06-26,2026-07-06,Y,4.0,1.0
+0712-CUST,2025-02-08,Referral,2026-02-08,Basic,Annual,,,26.5,848,48,0,falan,India,Meghalaya,Male,1973-06-26,,,,
+0713-CUST,2026-06-06,Organic,2026-07-06,Standard,Monthly,,,61.0,1830,58,0,bachittar,India,Nagaland,Female,1962-04-05,,,,
+0714-CUST,2025-09-02,Referral,2025-10-02,Standard,Monthly,,,64.7,1876,41,0,ekantika,India,Nagaland,Male,1995-11-11,2026-04-24,Y,5.0,1.0
+0715-CUST,2024-07-14,Organic,2025-07-14,Standard,Annual,,,59.2,2131,59,0,aradhana,India,Meghalaya,Male,2007-03-09,,,,
+0716-CUST,2026-02-03,Paid,2027-02-03,Standard,Annual,2027-01-25,Switched to competitor,63.6,890,66,1,udarsh,India,Delhi,Female,1989-02-10,,,,
+0717-CUST,2025-12-09,Referral,2026-12-09,Premium,Annual,,,95.2,1904,22,0,ekaraj,India,Nagaland,Female,1983-12-03,2026-05-19,N,3.0,1.0
+0718-CUST,2026-06-27,Referral,2027-06-27,Premium,Annual,2027-06-22,Poor service,101.3,2735,89,1,rajata,India,Nagaland,Male,2008-05-17,,,,
+0719-CUST,2024-11-08,Paid,2024-12-08,Standard,Monthly,,,55.3,1935,56,0,adya,India,Maharashtra,Male,1976-11-11,,,,
+0720-CUST,2023-08-19,Paid,2023-09-18,Standard,Monthly,2023-12-26,Poor service,56.5,1130,85,1,varenya,India,Telangana,Male,1962-01-17,,,,
+0721-CUST,2024-08-04,Organic,2024-09-03,Premium,Monthly,,,97.2,1846,45,0,zayyan,India,Telangana,Male,1960-08-15,2026-01-29,N,3.0,1.0
+0722-CUST,2024-11-29,Referral,2024-12-29,Standard,Monthly,,,60.0,2040,37,0,hredhaan,India,Maharashtra,Female,1994-12-11,,,,
+0723-CUST,2025-04-02,Organic,2026-04-02,Basic,Annual,,,27.4,904,18,0,urmi,India,Karnataka,Male,1963-05-08,,,,
+0724-CUST,2024-01-04,Paid,2024-02-03,Standard,Monthly,2024-11-20,Forgot to cancel trial,58.0,1566,95,1,max,India,Delhi,Female,2006-07-16,,,,
+0725-CUST,2025-03-14,Paid,2025-04-13,Premium,Monthly,2025-10-07,Forgot to cancel trial,95.9,2972,83,1,gaurika,India,Telangana,Female,1982-04-26,,,,
+0726-CUST,2023-11-23,Paid,2024-11-22,Basic,Annual,,,25.6,768,26,0,girish,India,Karnataka,Male,1975-05-19,2026-04-02,Y,1.0,1.0
+0727-CUST,2026-01-03,Organic,2027-01-03,Standard,Annual,,,56.3,2026,34,0,hritik,India,Meghalaya,Male,1991-04-22,2025-11-29,Y,4.0,1.0
+0728-CUST,2026-03-05,Paid,2026-04-04,Standard,Monthly,,,61.0,732,53,0,saksham,India,Rajasthan,Female,1995-08-23,,,,
+0729-CUST,2024-08-12,Referral,2025-08-12,Premium,Annual,2024-11-27,Switched to competitor,99.6,3087,74,1,chanchal,India,Telangana,Male,2004-01-31,,,,
+0730-CUST,2026-03-19,Referral,2026-04-18,Standard,Monthly,2026-10-23,Switched to competitor,60.6,1515,77,1,nachiket,India,Karnataka,Male,1966-03-08,,,,
+0731-CUST,2023-11-05,Paid,2024-11-04,Basic,Annual,,,32.3,387,30,0,nidhi,India,Uttar Pradesh,Male,1975-10-28,,,,
+0732-CUST,2024-09-04,Paid,2024-10-04,Premium,Monthly,,,96.8,2420,39,0,yutika,India,Delhi,Female,1962-03-28,,,,
+0733-CUST,2026-06-20,Referral,2026-07-20,Basic,Monthly,2026-09-03,Not enough content,25.6,742,77,1,gautami,India,Maharashtra,Female,1976-07-14,2026-01-29,N,3.0,1.0
+0734-CUST,2025-02-07,Referral,2026-02-07,Standard,Annual,2025-05-04,Too expensive,59.5,1309,73,1,jeet,India,Karnataka,Female,1988-02-14,2026-01-15,N,1.0,1.0
+0735-CUST,2024-10-20,Referral,2025-10-20,Standard,Annual,,,59.8,777,17,0,aarnav,India,Meghalaya,Female,1981-04-03,2026-07-20,N,2.0,1.0
+0736-CUST,2024-07-10,Paid,2025-07-10,Standard,Annual,2025-02-26,Switched to competitor,64.2,1476,94,1,idika,India,Rajasthan,Male,1999-08-01,,,,
+0737-CUST,2025-05-30,Organic,2026-05-30,Standard,Annual,,,60.8,1398,60,0,alka,India,Maharashtra,Female,1963-11-05,,,,
+0738-CUST,2025-03-12,Organic,2026-03-12,Basic,Annual,,,34.9,1047,42,0,anika,India,Karnataka,Female,1977-03-18,2026-01-26,Y,4.0,1.0
+0739-CUST,2024-06-22,Paid,2024-07-22,Standard,Monthly,2025-01-24,Poor service,56.0,1680,96,1,turvi,India,Delhi,Female,1970-11-30,,,,
+0740-CUST,2025-05-25,Organic,2025-06-24,Premium,Monthly,,,100.0,3500,26,0,qabil,India,Meghalaya,Female,1974-11-10,2026-04-20,N,3.0,1.0
+0741-CUST,2023-09-16,Paid,2023-10-16,Standard,Monthly,,,58.5,1345,53,0,arya,India,Delhi,Female,1994-06-19,,,,
+0742-CUST,2026-04-30,Paid,2026-05-30,Premium,Monthly,,,103.2,1857,56,0,parth,India,Uttar Pradesh,Female,2000-12-01,2025-12-16,N,3.0,1.0
+0743-CUST,2025-09-19,Referral,2026-09-19,Basic,Annual,,,30.0,390,27,0,anita,India,Telangana,Male,1969-09-30,2026-03-01,N,2.0,1.0
+0744-CUST,2024-11-21,Referral,2025-11-21,Standard,Annual,,,62.0,1550,45,0,pratyush,India,Delhi,Male,1998-02-21,2026-04-07,Y,1.0,1.0
+0745-CUST,2024-08-05,Organic,2024-09-04,Basic,Monthly,,,25.6,691,15,0,timothy,India,Nagaland,Female,2006-10-21,2025-09-09,N,5.0,1.0
+0746-CUST,2025-09-10,Organic,2025-10-10,Premium,Monthly,,,96.5,2991,52,0,tripti,India,Uttar Pradesh,Male,1989-12-24,2026-07-24,N,5.0,1.0
+0747-CUST,2026-06-05,Referral,2027-06-05,Basic,Annual,,,32.2,772,22,0,om,India,Nagaland,Male,1980-07-29,,,,
+0748-CUST,2025-12-21,Organic,2026-01-20,Standard,Monthly,2026-10-05,Not enough content,59.4,1069,81,1,udyati,India,Maharashtra,Female,1960-10-03,,,,
+0749-CUST,2024-12-17,Referral,2025-12-17,Standard,Annual,,,55.9,1341,10,0,divya,India,Karnataka,Female,1979-02-04,,,,
+0750-CUST,2024-04-29,Referral,2024-05-29,Standard,Monthly,2024-09-22,Switched to competitor,57.0,1653,75,1,gopal,India,Maharashtra,Female,1963-03-14,,,,
+0751-CUST,2025-08-20,Referral,2026-08-20,Premium,Annual,,,97.4,2532,30,0,gavin,India,Uttar Pradesh,Female,1984-09-08,,,,
+0752-CUST,2026-07-16,Organic,2026-08-15,Basic,Monthly,,,30.3,757,47,0,nathaniel,India,Karnataka,Male,2007-08-07,,,,
+0753-CUST,2025-07-23,Organic,2026-07-23,Basic,Annual,,,28.3,452,30,0,yamini,India,Uttar Pradesh,Male,1989-11-04,,,,
+0754-CUST,2023-09-17,Paid,2024-09-16,Standard,Annual,2024-09-03,Not enough content,59.1,1950,85,1,raksha,India,Telangana,Male,1963-06-15,,,,
+0755-CUST,2026-07-01,Paid,2026-07-31,Premium,Monthly,,,103.7,1659,59,0,devika,India,Telangana,Male,2008-05-28,,,,
+0756-CUST,2026-05-18,Organic,2026-06-17,Standard,Monthly,2027-03-28,Switched to competitor,63.6,1081,72,1,rohan,India,Meghalaya,Male,1961-08-26,,,,
+0757-CUST,2025-05-02,Paid,2026-05-02,Basic,Annual,,,25.0,725,27,0,adya,India,Delhi,Female,1978-10-14,2026-07-19,N,5.0,1.0
+0758-CUST,2026-04-14,Organic,2027-04-14,Basic,Annual,,,29.8,983,51,0,rushil,India,Rajasthan,Female,2006-04-22,2026-04-16,Y,3.0,1.0
+0759-CUST,2024-12-22,Paid,2025-01-21,Basic,Monthly,,,31.7,887,41,0,yashawini,India,Meghalaya,Female,1971-10-11,,,,
+0760-CUST,2026-01-06,Referral,2027-01-06,Standard,Annual,,,64.7,2264,56,0,udant,India,Maharashtra,Female,1982-04-08,,,,
+0761-CUST,2025-10-12,Organic,2026-10-12,Standard,Annual,,,57.3,687,14,0,owen,India,Delhi,Male,1986-10-15,,,,
+0762-CUST,2024-07-01,Organic,2024-07-31,Basic,Monthly,,,25.9,414,11,0,wahab,India,Uttar Pradesh,Female,1987-10-03,,,,
+0763-CUST,2025-09-13,Paid,2025-10-13,Basic,Monthly,,,26.3,736,26,0,nitesh,India,Delhi,Male,2000-09-01,,,,
+0764-CUST,2023-12-13,Organic,2024-12-12,Standard,Annual,,,59.4,1603,34,0,varsha,India,Nagaland,Male,1968-05-29,,,,
+0765-CUST,2024-05-20,Referral,2025-05-20,Premium,Annual,,,95.4,1431,28,0,laksh,India,Uttar Pradesh,Female,1987-04-12,2026-02-19,N,4.0,1.0
+0766-CUST,2024-12-07,Paid,2025-12-07,Standard,Annual,,,58.2,1047,46,0,brinda,India,Uttar Pradesh,Male,1979-10-23,,,,
+0767-CUST,2024-07-30,Referral,2024-08-29,Basic,Monthly,2024-09-19,Not enough content,34.6,1038,77,1,gautam,India,Karnataka,Female,1994-03-11,,,,
+0768-CUST,2025-11-09,Paid,2025-12-09,Basic,Monthly,,,33.0,660,39,0,kalpit,India,Delhi,Male,1980-01-31,,,,
+0769-CUST,2024-12-16,Paid,2025-01-15,Basic,Monthly,2025-06-30,Not enough content,32.4,388,86,1,lakshit,India,Delhi,Male,1985-02-23,,,,
+0770-CUST,2026-05-21,Paid,2026-06-20,Premium,Monthly,,,98.0,1960,34,0,utkarsh,India,Rajasthan,Male,1969-04-07,2025-08-23,Y,2.0,1.0
+0771-CUST,2025-01-06,Paid,2025-02-05,Basic,Monthly,,,26.1,704,17,0,qarin,India,Karnataka,Female,1979-12-26,,,,
+0772-CUST,2025-11-08,Referral,2026-11-08,Standard,Annual,2026-12-11,Too expensive,60.3,723,84,1,bina,India,Delhi,Male,1986-07-12,,,,
+0773-CUST,2026-05-05,Organic,2026-06-04,Basic,Monthly,,,27.2,408,32,0,leena,India,Maharashtra,Female,1968-12-27,,,,
+0774-CUST,2023-12-12,Paid,2024-12-11,Standard,Annual,,,60.9,1096,15,0,jacob,India,Nagaland,Female,1990-05-08,,,,
+0775-CUST,2023-09-23,Organic,2023-10-23,Standard,Monthly,,,55.3,1327,21,0,upkaar,India,Delhi,Male,1998-10-24,2026-05-25,Y,3.0,1.0
+0776-CUST,2025-02-28,Organic,2026-02-28,Standard,Annual,,,59.9,1677,31,0,libni,India,Maharashtra,Male,1968-05-29,2025-12-16,N,1.0,1.0
+0777-CUST,2024-09-23,Organic,2024-10-23,Standard,Monthly,,,57.8,982,17,0,upasna,India,Delhi,Male,1961-12-08,,,,
+0778-CUST,2025-09-18,Paid,2025-10-18,Basic,Monthly,,,34.6,1072,57,0,zashil,India,Maharashtra,Male,1984-05-07,2025-08-14,N,5.0,1.0
+0779-CUST,2024-02-22,Paid,2025-02-21,Basic,Annual,2024-08-28,Poor service,33.6,470,74,1,tanmayi,India,Rajasthan,Female,1995-11-24,2026-03-17,N,3.0,1.0
+0780-CUST,2026-06-29,Organic,2026-07-29,Basic,Monthly,,,26.8,455,56,0,matthew,India,Telangana,Female,1990-06-05,2026-05-31,Y,4.0,1.0
+0781-CUST,2025-05-22,Paid,2026-05-22,Standard,Annual,2026-03-29,Not enough content,63.5,1778,72,1,mitali,India,Telangana,Female,2002-11-25,2026-04-08,N,4.0,1.0
+0782-CUST,2024-09-08,Paid,2024-10-08,Basic,Monthly,,,34.3,960,50,0,arjun,India,Meghalaya,Female,1987-11-16,,,,
+0783-CUST,2024-04-14,Referral,2024-05-14,Standard,Monthly,2025-03-30,Too expensive,64.8,972,80,1,william,India,Delhi,Male,2004-05-21,,,,
+0784-CUST,2025-05-19,Referral,2025-06-18,Basic,Monthly,2026-01-07,Forgot to cancel trial,26.0,650,90,1,lavanya,India,Rajasthan,Male,1968-04-16,,,,
+0785-CUST,2024-09-01,Paid,2025-09-01,Standard,Annual,,,57.0,1539,40,0,quincy,India,Rajasthan,Female,2003-10-03,,,,
+0786-CUST,2025-12-28,Referral,2026-01-27,Premium,Monthly,2027-01-18,Forgot to cancel trial,98.8,2667,94,1,vincent,India,Delhi,Male,1992-06-20,2026-02-02,N,2.0,1.0
+0787-CUST,2026-02-28,Paid,2026-03-30,Premium,Monthly,2026-08-16,Not enough content,101.2,1922,65,1,karan,India,Rajasthan,Female,1985-02-09,,,,
+0788-CUST,2023-08-31,Organic,2024-08-30,Standard,Annual,2024-04-27,Forgot to cancel trial,55.2,772,74,1,rajata,India,Karnataka,Female,1993-07-05,2026-07-21,N,2.0,1.0
+0789-CUST,2023-07-26,Organic,2024-07-25,Basic,Annual,2024-08-17,Switched to competitor,32.4,1166,67,1,ekapad,India,Meghalaya,Female,1963-12-27,,,,
+0790-CUST,2024-12-26,Paid,2025-01-25,Standard,Monthly,,,56.3,788,43,0,hamsini,India,Meghalaya,Female,1990-07-12,,,,
+0791-CUST,2025-11-13,Organic,2025-12-13,Basic,Monthly,2026-02-19,Forgot to cancel trial,30.5,518,69,1,riya,India,Rajasthan,Female,1969-04-30,,,,
+0792-CUST,2025-05-26,Organic,2026-05-26,Premium,Annual,,,98.2,2062,29,0,ekavir,India,Uttar Pradesh,Male,1999-11-27,,,,
+0793-CUST,2024-07-24,Organic,2025-07-24,Standard,Annual,,,63.7,1337,18,0,urishilla,India,Delhi,Female,2008-06-12,,,,
+0794-CUST,2025-10-02,Referral,2026-10-02,Standard,Annual,,,58.0,1508,48,0,matthew,India,Nagaland,Male,1987-12-26,,,,
+0795-CUST,2025-07-18,Paid,2025-08-17,Standard,Monthly,2026-08-16,Not enough content,58.6,2051,70,1,ekanta,India,Rajasthan,Male,1999-12-24,,,,
+0796-CUST,2023-09-27,Paid,2023-10-27,Basic,Monthly,,,33.7,1044,23,0,prisha,India,Uttar Pradesh,Female,1960-11-12,2026-04-27,N,3.0,1.0
+0797-CUST,2024-08-21,Organic,2025-08-21,Standard,Annual,2024-11-06,Poor service,58.2,989,89,1,samuel,India,Rajasthan,Male,1995-03-29,,,,
+0798-CUST,2026-03-14,Paid,2027-03-14,Basic,Annual,,,31.4,690,11,0,ekani,India,Telangana,Female,1991-06-28,,,,
+0799-CUST,2025-01-29,Referral,2025-02-28,Standard,Monthly,,,59.5,2142,43,0,finn,India,Nagaland,Male,1971-11-12,,,,
+0800-CUST,2024-09-20,Paid,2025-09-20,Standard,Annual,,,61.6,985,28,0,rehaan,India,Karnataka,Male,1970-09-11,,,,
+0801-CUST,2025-06-16,Referral,2025-07-16,Basic,Monthly,,,31.4,816,21,0,riya,India,Maharashtra,Female,2005-02-21,,,,
+0802-CUST,2026-01-09,Referral,2027-01-09,Premium,Annual,2026-09-13,Not enough content,101.7,1423,76,1,jai,India,Karnataka,Male,1987-10-30,,,,
+0803-CUST,2025-09-19,Organic,2026-09-19,Basic,Annual,,,31.9,957,12,0,zaitra,India,Uttar Pradesh,Male,1992-02-12,,,,
+0804-CUST,2024-09-29,Referral,2025-09-29,Standard,Annual,,,55.0,715,39,0,orinder,India,Uttar Pradesh,Female,1992-03-17,,,,
+0805-CUST,2025-03-22,Paid,2026-03-22,Basic,Annual,,,25.5,357,45,0,yashawini,India,Meghalaya,Female,1967-04-10,2026-04-27,Y,3.0,1.0
+0806-CUST,2025-05-18,Paid,2026-05-18,Standard,Annual,,,64.6,2196,12,0,ayush,India,Karnataka,Female,1982-05-14,,,,
+0807-CUST,2023-12-19,Referral,2024-01-18,Premium,Monthly,2024-09-17,Not enough content,98.9,1186,80,1,ekantika,India,Uttar Pradesh,Male,2000-05-12,2026-04-03,N,5.0,1.0
+0808-CUST,2023-10-30,Paid,2023-11-29,Standard,Monthly,,,56.0,1456,57,0,chakradev,India,Nagaland,Male,1991-08-14,,,,
+0809-CUST,2023-12-09,Organic,2024-12-08,Basic,Annual,2024-04-08,Poor service,33.8,439,94,1,timothy,India,Karnataka,Male,2005-08-20,2026-06-24,N,3.0,1.0
+0810-CUST,2024-08-03,Referral,2024-09-02,Basic,Monthly,2025-07-08,Too expensive,25.4,889,86,1,divya,India,Karnataka,Male,1978-10-02,2026-07-06,N,1.0,1.0
+0811-CUST,2025-01-10,Paid,2025-02-09,Basic,Monthly,2025-12-22,Poor service,29.5,914,96,1,saumya,India,Rajasthan,Female,1987-01-28,,,,
+0812-CUST,2023-08-21,Paid,2024-08-20,Premium,Annual,,,103.0,2266,28,0,wridesh,India,Uttar Pradesh,Female,1966-05-08,,,,
+0813-CUST,2026-02-15,Referral,2027-02-15,Premium,Annual,,,101.7,2745,49,0,manbir,India,Maharashtra,Female,1961-05-02,2026-07-04,N,1.0,1.0
+0814-CUST,2024-07-13,Organic,2025-07-13,Premium,Annual,,,96.5,2798,50,0,chameli,India,Nagaland,Female,1982-10-27,,,,
+0815-CUST,2025-12-01,Paid,2025-12-31,Basic,Monthly,,,26.2,419,24,0,kai,India,Uttar Pradesh,Male,2006-02-17,,,,
+0816-CUST,2023-12-30,Referral,2024-01-29,Standard,Monthly,,,64.8,1879,33,0,vivaan,India,Rajasthan,Male,1966-12-05,,,,
+0817-CUST,2024-08-22,Paid,2025-08-22,Basic,Annual,,,34.9,593,30,0,eiravati,India,Uttar Pradesh,Female,1988-01-06,2025-12-01,N,3.0,1.0
+0818-CUST,2024-10-02,Referral,2024-11-01,Standard,Monthly,,,61.4,921,13,0,george,India,Rajasthan,Male,1972-12-15,,,,
+0819-CUST,2024-03-26,Organic,2025-03-26,Premium,Annual,,,98.5,1379,26,0,girindra,India,Karnataka,Female,1976-06-08,,,,
+0820-CUST,2026-03-04,Organic,2027-03-04,Basic,Annual,,,31.8,477,10,0,chakradev,India,Rajasthan,Male,1994-08-30,2026-04-14,N,5.0,1.0
+0821-CUST,2024-08-06,Referral,2025-08-06,Basic,Annual,2024-10-07,Switched to competitor,27.3,709,93,1,gunbir,India,Karnataka,Female,1966-03-20,2026-07-01,N,1.0,1.0
+0822-CUST,2024-01-20,Referral,2025-01-19,Premium,Annual,2024-09-25,Poor service,103.5,3105,91,1,kritika,India,Nagaland,Female,1990-07-07,,,,
+0823-CUST,2025-01-12,Paid,2025-02-11,Basic,Monthly,,,26.5,556,42,0,siddharth,India,Rajasthan,Female,2003-02-16,,,,
+0824-CUST,2025-05-12,Paid,2025-06-11,Basic,Monthly,,,30.4,760,45,0,nandini,India,Uttar Pradesh,Female,1964-11-06,,,,
+0825-CUST,2023-08-04,Organic,2024-08-03,Basic,Annual,,,28.2,451,47,0,aarush,India,Nagaland,Male,1982-05-07,,,,
+0826-CUST,2023-12-24,Paid,2024-01-23,Premium,Monthly,,,98.4,2066,28,0,meghana,India,Karnataka,Female,2004-11-07,,,,
+0827-CUST,2026-03-29,Organic,2026-04-28,Premium,Monthly,,,102.2,1226,56,0,andrew,India,Karnataka,Female,2005-05-23,,,,
+0828-CUST,2024-03-19,Paid,2024-04-18,Standard,Monthly,,,58.9,1767,26,0,odika,India,Delhi,Male,1963-06-27,,,,
+0829-CUST,2025-07-13,Organic,2026-07-13,Premium,Annual,,,94.9,1138,15,0,inaya,India,Uttar Pradesh,Male,1994-02-17,2026-04-23,N,3.0,1.0
+0830-CUST,2025-02-22,Referral,2025-03-24,Standard,Monthly,,,64.3,1543,43,0,dhriti,India,Nagaland,Male,2000-08-17,,,,
+0831-CUST,2024-04-24,Referral,2025-04-24,Standard,Annual,,,64.1,961,47,0,arunima,India,Delhi,Male,1994-10-29,2026-06-22,N,5.0,1.0
+0832-CUST,2025-01-25,Organic,2026-01-25,Premium,Annual,,,100.3,2106,59,0,waida,India,Delhi,Male,2002-08-22,,,,
+0833-CUST,2024-07-21,Organic,2025-07-21,Basic,Annual,,,26.0,910,43,0,leela,India,Nagaland,Male,1989-03-22,,,,
+0834-CUST,2025-07-17,Paid,2026-07-17,Standard,Annual,,,55.0,1650,58,0,falan,India,Delhi,Male,1969-06-03,,,,
+0835-CUST,2024-09-13,Referral,2024-10-13,Standard,Monthly,,,58.4,992,31,0,oliver,India,Nagaland,Male,1981-08-19,2025-12-25,Y,4.0,1.0
+0836-CUST,2024-08-26,Paid,2024-09-25,Premium,Monthly,,,100.0,3600,32,0,anamika,India,Uttar Pradesh,Female,1960-09-05,,,,
+0837-CUST,2025-11-01,Organic,2025-12-01,Basic,Monthly,,,26.2,838,23,0,vritti,India,Telangana,Male,1962-11-01,2026-07-03,Y,1.0,1.0
+0838-CUST,2024-11-04,Referral,2025-11-04,Basic,Annual,2025-04-20,Too expensive,26.5,689,92,1,isha,India,Rajasthan,Male,1973-08-14,2025-12-04,N,4.0,1.0
+0839-CUST,2025-01-22,Organic,2026-01-22,Standard,Annual,2025-10-13,Too expensive,56.5,1638,92,1,jairaj,India,Nagaland,Male,1968-11-07,,,,
+0840-CUST,2024-01-19,Organic,2025-01-18,Premium,Annual,2024-09-29,Forgot to cancel trial,104.4,3758,77,1,atharv,India,Rajasthan,Female,2006-07-25,,,,
+0841-CUST,2024-06-20,Referral,2024-07-20,Premium,Monthly,2025-01-05,Too expensive,96.9,1938,88,1,veer,India,Uttar Pradesh,Male,1997-03-06,2026-07-03,Y,4.0,1.0
+0842-CUST,2025-02-13,Paid,2025-03-15,Premium,Monthly,,,100.4,3112,50,0,krishna,India,Maharashtra,Female,2003-11-29,,,,
+0843-CUST,2025-03-16,Organic,2025-04-15,Basic,Monthly,2025-05-25,Switched to competitor,28.7,631,70,1,nikita,India,Telangana,Female,1996-10-10,,,,
+0844-CUST,2024-05-16,Paid,2024-06-15,Basic,Monthly,,,30.6,489,36,0,frederick,India,Rajasthan,Male,1963-09-13,2025-10-21,N,1.0,1.0
+0845-CUST,2025-01-26,Referral,2026-01-26,Standard,Annual,,,55.4,941,10,0,siya,India,Nagaland,Male,1965-06-05,2026-05-23,N,5.0,1.0
+0846-CUST,2024-01-29,Paid,2025-01-28,Basic,Annual,,,33.1,794,51,0,jhalak,India,Rajasthan,Male,1984-11-20,2025-08-06,Y,2.0,1.0
+0847-CUST,2025-06-09,Organic,2025-07-09,Standard,Monthly,,,58.0,1450,46,0,varenya,India,Rajasthan,Female,1994-09-05,,,,
+0848-CUST,2023-12-01,Organic,2024-11-30,Basic,Annual,2024-09-06,Too expensive,27.5,385,76,1,ranbir,India,Uttar Pradesh,Female,1995-10-30,2025-11-29,N,2.0,1.0
+0849-CUST,2023-09-25,Organic,2023-10-25,Premium,Monthly,,,100.2,2705,44,0,kala,India,Telangana,Female,1993-07-28,,,,
+0850-CUST,2023-09-24,Paid,2024-09-23,Basic,Annual,,,30.9,927,32,0,dalbir,India,Meghalaya,Female,1993-02-14,,,,
+0851-CUST,2025-04-02,Paid,2025-05-02,Basic,Monthly,,,32.9,1184,55,0,gayathri,India,Delhi,Male,2000-10-23,2026-02-13,N,4.0,1.0
+0852-CUST,2023-09-09,Referral,2024-09-08,Standard,Annual,,,61.9,1176,11,0,zaitra,India,Rajasthan,Male,1971-04-07,,,,
+0853-CUST,2023-09-25,Paid,2023-10-25,Standard,Monthly,,,55.5,1887,32,0,pushti,India,Telangana,Female,1989-11-12,,,,
+0854-CUST,2023-09-07,Referral,2023-10-07,Basic,Monthly,2024-08-14,Too expensive,28.9,578,98,1,ekiya,India,Uttar Pradesh,Female,1980-07-07,2026-04-18,N,2.0,1.0
+0855-CUST,2026-04-14,Paid,2026-05-14,Standard,Monthly,2026-09-24,Forgot to cancel trial,61.2,856,75,1,darika,India,Maharashtra,Female,1994-11-06,,,,
+0856-CUST,2023-12-16,Organic,2024-12-15,Basic,Annual,2024-06-10,Switched to competitor,26.9,349,70,1,darika,India,Karnataka,Male,1983-01-20,,,,
+0857-CUST,2024-07-08,Referral,2024-08-07,Premium,Monthly,2025-03-02,Too expensive,101.2,2833,81,1,vrinda,India,Telangana,Male,1986-08-15,,,,
+0858-CUST,2026-04-19,Referral,2027-04-19,Standard,Annual,,,61.6,1540,46,0,vasana,India,Telangana,Female,1971-05-03,2025-12-19,N,5.0,1.0
+0859-CUST,2026-05-25,Organic,2027-05-25,Standard,Annual,,,61.3,1777,19,0,teerth,India,Delhi,Male,1994-10-28,,,,
+0860-CUST,2025-07-05,Organic,2025-08-04,Standard,Monthly,,,59.7,1970,36,0,teerth,India,Uttar Pradesh,Female,2008-04-13,,,,
+0861-CUST,2025-05-18,Referral,2026-05-18,Standard,Annual,,,64.0,1984,56,0,chaitanya,India,Uttar Pradesh,Female,1998-04-09,,,,
+0862-CUST,2026-07-21,Paid,2027-07-21,Basic,Annual,2027-07-19,Poor service,25.0,675,75,1,reva,India,Karnataka,Female,1968-11-04,,,,
+0863-CUST,2023-10-28,Organic,2024-10-27,Standard,Annual,2024-08-29,Switched to competitor,57.0,1995,77,1,pallavi,India,Meghalaya,Male,1973-07-26,2026-01-07,N,4.0,1.0
+0864-CUST,2026-03-20,Referral,2026-04-19,Standard,Monthly,,,55.5,666,28,0,bhavya,India,Nagaland,Female,1981-01-01,,,,
+0865-CUST,2024-02-20,Organic,2025-02-19,Basic,Annual,,,33.1,794,38,0,pooja,India,Rajasthan,Female,1993-06-23,,,,
+0866-CUST,2024-11-20,Organic,2024-12-20,Basic,Monthly,2025-09-26,Too expensive,34.8,452,96,1,henry,India,Telangana,Female,1981-06-13,,,,
+0867-CUST,2024-10-11,Referral,2024-11-10,Standard,Monthly,,,60.4,1510,55,0,naveen,India,Rajasthan,Male,1967-04-02,2026-04-22,N,1.0,1.0
+0868-CUST,2024-03-11,Organic,2025-03-11,Premium,Annual,2025-04-04,Forgot to cancel trial,100.6,1710,71,1,bimala,India,Maharashtra,Male,1982-12-21,,,,
+0869-CUST,2026-05-05,Referral,2027-05-05,Premium,Annual,,,101.0,2626,34,0,raksha,India,Telangana,Male,1961-02-02,2026-04-21,N,3.0,1.0
+0870-CUST,2025-09-09,Referral,2026-09-09,Basic,Annual,,,34.4,756,12,0,gavin,India,Maharashtra,Female,1985-05-14,2025-11-14,Y,5.0,1.0
+0871-CUST,2025-04-02,Organic,2025-05-02,Standard,Monthly,2025-11-08,Too expensive,63.3,822,72,1,samaksh,India,Telangana,Female,1983-02-21,2026-06-14,N,3.0,1.0
+0872-CUST,2024-12-23,Organic,2025-12-23,Standard,Annual,,,56.9,1536,21,0,neel,India,Maharashtra,Male,1966-05-26,2026-02-28,N,1.0,1.0
+0873-CUST,2024-08-07,Paid,2025-08-07,Basic,Annual,2025-01-31,Too expensive,31.4,1130,77,1,tanmayi,India,Meghalaya,Male,1981-07-28,,,,
+0874-CUST,2025-11-07,Referral,2025-12-07,Standard,Monthly,,,64.2,2118,49,0,kamya,India,Nagaland,Male,1991-09-08,2025-09-27,Y,5.0,1.0
+0875-CUST,2025-05-20,Organic,2026-05-20,Premium,Annual,2025-09-14,Poor service,103.2,2786,71,1,praneel,India,Nagaland,Female,1987-06-28,2026-02-08,N,4.0,1.0
+0876-CUST,2024-12-28,Paid,2025-12-28,Premium,Annual,,,97.6,2928,51,0,wazir,India,Maharashtra,Female,1976-06-02,2026-05-09,Y,2.0,1.0
+0877-CUST,2023-12-11,Organic,2024-12-10,Standard,Annual,,,56.2,955,17,0,vidhi,India,Maharashtra,Male,1973-02-17,,,,
+0878-CUST,2025-11-18,Organic,2026-11-18,Standard,Annual,,,62.1,1428,15,0,hema,India,Karnataka,Male,2002-12-24,,,,
+0879-CUST,2024-02-05,Referral,2024-03-06,Standard,Monthly,,,59.1,1595,14,0,kiaan,India,Delhi,Female,1979-03-22,,,,
+0880-CUST,2025-01-27,Organic,2026-01-27,Standard,Annual,2026-01-26,Switched to competitor,63.3,1012,72,1,niharika,India,Maharashtra,Male,1965-09-12,,,,
+0881-CUST,2025-07-25,Organic,2025-08-24,Basic,Monthly,,,28.9,606,40,0,ojas,India,Rajasthan,Female,1972-06-25,2026-07-02,N,5.0,1.0
+0882-CUST,2024-03-27,Paid,2024-04-26,Standard,Monthly,2025-03-01,Switched to competitor,64.6,2002,70,1,ria,India,Rajasthan,Male,1974-06-15,2026-03-18,N,3.0,1.0
+0883-CUST,2025-12-09,Organic,2026-01-08,Basic,Monthly,,,27.6,662,56,0,odika,India,Rajasthan,Female,2003-10-11,2026-05-18,N,3.0,1.0
+0884-CUST,2026-03-24,Referral,2027-03-24,Basic,Annual,,,25.5,459,23,0,onveer,India,Delhi,Male,1983-01-21,,,,
+0885-CUST,2025-03-11,Referral,2025-04-10,Standard,Monthly,2025-08-01,Poor service,59.3,2134,87,1,anita,India,Karnataka,Female,1966-03-24,2026-07-14,Y,2.0,1.0
+0886-CUST,2025-10-29,Paid,2026-10-29,Basic,Annual,,,26.9,699,13,0,saksham,India,Telangana,Male,2006-03-30,,,,
+0887-CUST,2025-02-28,Organic,2025-03-30,Premium,Monthly,2025-05-17,Switched to competitor,100.3,1203,67,1,warinder,India,Nagaland,Female,2002-12-23,,,,
+0888-CUST,2025-09-14,Referral,2026-09-14,Premium,Annual,,,95.3,1429,35,0,vanya,India,Uttar Pradesh,Male,1990-01-12,2026-02-19,N,3.0,1.0
+0889-CUST,2023-09-08,Referral,2023-10-08,Basic,Monthly,,,26.1,809,38,0,eshana,India,Delhi,Male,1981-02-24,,,,
+0890-CUST,2025-05-28,Organic,2026-05-28,Standard,Annual,,,63.6,2162,17,0,dhruv,India,Rajasthan,Male,1970-02-22,2026-03-01,Y,2.0,1.0
+0891-CUST,2025-02-09,Paid,2025-03-11,Standard,Monthly,,,59.6,1668,15,0,amrita,India,Uttar Pradesh,Male,2008-06-04,2025-10-01,N,3.0,1.0
+0892-CUST,2024-06-21,Referral,2025-06-21,Premium,Annual,,,101.5,1421,15,0,indrajit,India,Uttar Pradesh,Female,1997-04-30,2025-08-06,N,2.0,1.0
+0893-CUST,2025-06-30,Paid,2026-06-30,Standard,Annual,,,62.5,1312,41,0,aditya,India,Rajasthan,Female,1987-06-14,,,,
+0894-CUST,2023-09-23,Paid,2023-10-23,Standard,Monthly,,,62.9,2201,48,0,ranveer,India,Rajasthan,Female,1977-10-30,,,,
+0895-CUST,2026-03-13,Organic,2027-03-13,Standard,Annual,2026-12-24,Too expensive,58.8,1293,84,1,brijesh,India,Karnataka,Female,1989-05-31,2026-04-19,Y,4.0,1.0
+0896-CUST,2024-11-30,Referral,2024-12-30,Premium,Monthly,,,95.1,3233,51,0,leela,India,Maharashtra,Female,1998-03-22,,,,
+0897-CUST,2023-10-09,Referral,2024-10-08,Standard,Annual,,,60.3,723,16,0,jasmit,India,Meghalaya,Female,1969-12-10,,,,
+0898-CUST,2024-08-22,Paid,2025-08-22,Basic,Annual,2024-09-29,Poor service,32.7,948,86,1,upadhriti,India,Maharashtra,Female,1965-02-22,2026-02-10,N,5.0,1.0
+0899-CUST,2024-05-16,Organic,2025-05-16,Basic,Annual,2025-05-11,Not enough content,31.7,443,74,1,forum,India,Delhi,Female,1977-06-19,,,,
+0900-CUST,2025-08-17,Organic,2025-09-16,Standard,Monthly,2025-10-28,Switched to competitor,62.6,1252,79,1,anjali,India,Maharashtra,Male,2003-01-09,2026-02-02,N,1.0,1.0
+0901-CUST,2024-11-18,Referral,2024-12-18,Standard,Monthly,,,62.1,1614,58,0,geetika,India,Rajasthan,Male,1999-11-04,,,,
+0902-CUST,2024-01-02,Paid,2024-02-01,Standard,Monthly,,,57.6,691,18,0,jatin,India,Delhi,Male,1969-11-24,,,,
+0903-CUST,2024-08-10,Paid,2024-09-09,Basic,Monthly,,,33.0,660,15,0,dhruv,India,Rajasthan,Male,1998-10-11,2026-05-24,Y,3.0,1.0
+0904-CUST,2023-08-27,Paid,2024-08-26,Basic,Annual,2024-05-13,Too expensive,32.5,487,94,1,ekanta,India,Maharashtra,Male,1997-09-12,2026-04-03,N,1.0,1.0
+0905-CUST,2025-01-04,Referral,2026-01-04,Basic,Annual,2025-04-25,Not enough content,27.2,625,86,1,gayathri,India,Meghalaya,Male,1998-01-31,,,,
+0906-CUST,2025-05-28,Referral,2025-06-27,Basic,Monthly,,,30.2,815,50,0,hamsini,India,Delhi,Male,1982-02-08,,,,
+0907-CUST,2023-09-15,Organic,2023-10-15,Basic,Monthly,,,25.0,775,13,0,elijah,India,Telangana,Male,2003-12-14,2026-05-18,N,2.0,1.0
+0908-CUST,2024-06-08,Referral,2024-07-08,Standard,Monthly,,,58.3,816,47,0,vrinda,India,Karnataka,Male,1990-03-30,,,,
+0909-CUST,2026-05-19,Referral,2026-06-18,Standard,Monthly,,,64.5,1935,29,0,mekhala,India,Delhi,Female,1999-11-06,,,,
+0910-CUST,2025-09-07,Paid,2025-10-07,Basic,Monthly,2025-12-05,Poor service,30.5,945,98,1,gabriel,India,Meghalaya,Female,1964-05-07,,,,
+0911-CUST,2025-02-01,Paid,2025-03-03,Standard,Monthly,2025-09-15,Switched to competitor,58.1,2033,98,1,pahal,India,Delhi,Female,1989-03-18,,,,
+0912-CUST,2025-05-17,Referral,2025-06-16,Basic,Monthly,2025-06-16,Forgot to cancel trial,29.4,588,67,1,alka,India,Nagaland,Female,1970-09-18,2026-02-13,Y,5.0,1.0
+0913-CUST,2025-12-05,Referral,2026-12-05,Basic,Annual,,,25.0,650,28,0,mohini,India,Meghalaya,Female,1988-04-11,,,,
+0914-CUST,2024-06-13,Organic,2024-07-13,Standard,Monthly,,,63.0,2268,36,0,shaurya,India,Karnataka,Male,1961-08-27,,,,
+0915-CUST,2025-01-31,Organic,2026-01-31,Premium,Annual,,,102.6,2052,26,0,gaurang,India,Uttar Pradesh,Male,1962-10-29,,,,
+0916-CUST,2024-09-14,Paid,2024-10-14,Standard,Monthly,2025-03-22,Forgot to cancel trial,56.4,1974,97,1,adweta,India,Meghalaya,Male,1987-07-18,,,,
+0917-CUST,2025-05-04,Referral,2026-05-04,Standard,Annual,,,58.8,1646,36,0,mekhala,India,Delhi,Male,1968-06-26,2026-06-29,Y,3.0,1.0
+0918-CUST,2025-09-28,Paid,2025-10-28,Standard,Monthly,2026-10-09,Forgot to cancel trial,62.6,1314,67,1,vincent,India,Rajasthan,Female,1982-02-17,,,,
+0919-CUST,2025-10-12,Paid,2025-11-11,Standard,Monthly,2026-04-11,Too expensive,55.9,894,98,1,praneel,India,Nagaland,Female,1968-05-10,,,,
+0920-CUST,2023-09-18,Organic,2023-10-18,Standard,Monthly,,,58.6,1992,41,0,praneel,India,Maharashtra,Male,1994-04-09,2026-07-08,Y,4.0,1.0
+0921-CUST,2023-10-09,Organic,2023-11-08,Standard,Monthly,2024-05-21,Poor service,62.6,1502,98,1,dalbir,India,Nagaland,Female,1982-03-15,2026-03-25,N,3.0,1.0
+0922-CUST,2023-09-07,Paid,2024-09-06,Basic,Annual,,,25.8,567,24,0,ishanvi,India,Rajasthan,Female,1973-07-31,,,,
+0923-CUST,2024-09-07,Paid,2025-09-07,Basic,Annual,,,26.5,848,28,0,neha,India,Maharashtra,Female,1972-04-11,,,,
+0924-CUST,2025-08-02,Paid,2025-09-01,Basic,Monthly,,,33.9,678,27,0,ekani,India,Telangana,Male,1997-04-28,,,,
+0925-CUST,2025-04-25,Organic,2026-04-25,Standard,Annual,2025-11-04,Poor service,60.4,1630,78,1,guneet,India,Karnataka,Male,1972-03-16,2026-01-26,N,1.0,1.0
+0926-CUST,2024-02-01,Paid,2024-03-02,Premium,Monthly,2024-12-20,Switched to competitor,99.5,2089,76,1,hemangini,India,Karnataka,Female,1963-03-13,,,,
+0927-CUST,2023-12-25,Referral,2024-01-24,Standard,Monthly,2024-01-28,Switched to competitor,64.2,1155,97,1,harsh,India,Delhi,Male,1961-05-30,2026-03-13,Y,5.0,1.0
+0928-CUST,2026-04-26,Organic,2027-04-26,Standard,Annual,2027-04-09,Switched to competitor,55.5,777,92,1,vritti,India,Maharashtra,Male,1984-12-31,,,,
+0929-CUST,2024-07-02,Referral,2024-08-01,Basic,Monthly,,,34.1,1057,38,0,ladli,India,Nagaland,Male,1974-07-03,,,,
+0930-CUST,2026-02-09,Organic,2027-02-09,Standard,Annual,,,59.3,1719,33,0,umang,India,Uttar Pradesh,Male,2000-10-26,2026-06-07,N,4.0,1.0
+0931-CUST,2025-06-17,Referral,2025-07-17,Standard,Monthly,,,64.1,961,29,0,neha,India,Nagaland,Female,2000-04-03,,,,
+0932-CUST,2026-01-17,Organic,2026-02-16,Basic,Monthly,,,25.8,516,31,0,agastya,India,Delhi,Female,1995-10-24,2026-04-14,N,2.0,1.0
+0933-CUST,2023-08-19,Organic,2023-09-18,Standard,Monthly,,,55.2,662,13,0,ekavir,India,Rajasthan,Male,2000-02-17,2025-12-04,N,3.0,1.0
+0934-CUST,2024-12-08,Referral,2025-12-08,Standard,Annual,,,64.2,2247,16,0,vinaya,India,Delhi,Male,1968-01-06,2026-07-11,N,4.0,1.0
+0935-CUST,2025-02-03,Organic,2025-03-05,Basic,Monthly,,,33.9,711,22,0,falak,India,Uttar Pradesh,Male,1995-08-18,2026-06-12,Y,5.0,1.0
+0936-CUST,2025-02-22,Organic,2026-02-22,Premium,Annual,,,100.4,2710,42,0,harini,India,Meghalaya,Female,1993-10-17,,,,
+0937-CUST,2025-12-01,Organic,2026-12-01,Standard,Annual,,,56.6,1698,41,0,unni,India,Delhi,Female,1992-02-21,,,,
+0938-CUST,2024-01-18,Referral,2024-02-17,Basic,Monthly,,,25.1,878,47,0,tara,India,Meghalaya,Male,2004-12-08,2026-05-01,Y,3.0,1.0
+0939-CUST,2025-07-14,Organic,2025-08-13,Standard,Monthly,2025-12-07,Forgot to cancel trial,58.7,1819,88,1,jyoti,India,Rajasthan,Male,1984-12-26,,,,
+0940-CUST,2026-05-26,Referral,2027-05-26,Standard,Annual,,,64.4,2189,15,0,tara,India,Meghalaya,Female,1987-10-04,2026-06-26,Y,4.0,1.0
+0941-CUST,2025-12-16,Referral,2026-01-15,Standard,Monthly,,,59.5,1309,36,0,chaitanya,India,Karnataka,Male,1988-11-25,2026-01-25,N,2.0,1.0
+0942-CUST,2024-08-30,Referral,2024-09-29,Standard,Monthly,2024-10-05,Not enough content,62.3,1619,96,1,isaac,India,Maharashtra,Male,1981-08-16,,,,
+0943-CUST,2024-06-25,Paid,2024-07-25,Standard,Monthly,,,60.9,1705,28,0,vedant,India,Rajasthan,Female,1987-05-25,,,,
+0944-CUST,2026-05-24,Paid,2026-06-23,Basic,Monthly,,,33.7,505,19,0,nisha,India,Uttar Pradesh,Female,1987-06-25,2026-05-11,N,1.0,1.0
+0945-CUST,2025-11-27,Organic,2025-12-27,Standard,Monthly,,,56.3,1013,27,0,mekhala,India,Telangana,Male,2006-04-11,2025-11-30,N,2.0,1.0
+0946-CUST,2024-12-04,Referral,2025-12-04,Standard,Annual,,,63.6,1971,20,0,rudra,India,Delhi,Female,1987-05-08,2026-01-24,N,4.0,1.0
+0947-CUST,2026-04-29,Organic,2026-05-29,Standard,Monthly,2026-07-20,Too expensive,56.9,853,66,1,urmi,India,Maharashtra,Male,2002-11-07,,,,
+0948-CUST,2023-11-13,Organic,2023-12-13,Premium,Monthly,2024-09-08,Poor service,101.2,3643,79,1,vasudha,India,Delhi,Female,1970-02-15,2026-03-16,Y,3.0,1.0
+0949-CUST,2025-02-20,Referral,2026-02-20,Standard,Annual,,,63.3,1519,24,0,udant,India,Maharashtra,Female,1973-09-21,,,,
+0950-CUST,2026-06-25,Referral,2027-06-25,Premium,Annual,2027-05-22,Poor service,98.8,3556,74,1,rayaan,India,Karnataka,Male,1976-03-22,,,,
+0951-CUST,2025-01-25,Paid,2026-01-25,Standard,Annual,,,55.0,825,40,0,isaac,India,Rajasthan,Female,2005-12-30,2025-08-13,N,3.0,1.0
+0952-CUST,2025-07-21,Referral,2025-08-20,Basic,Monthly,2025-12-18,Not enough content,30.7,552,98,1,ikshita,India,Meghalaya,Female,1971-08-18,,,,
+0953-CUST,2026-06-12,Paid,2026-07-12,Standard,Monthly,,,57.4,1090,14,0,ekaraj,India,Uttar Pradesh,Male,2002-02-23,,,,
+0954-CUST,2024-03-27,Paid,2024-04-26,Basic,Monthly,,,34.4,860,26,0,shravya,India,Meghalaya,Female,1978-09-25,,,,
+0955-CUST,2023-09-18,Paid,2023-10-18,Basic,Monthly,2024-06-17,Switched to competitor,26.7,694,88,1,saksham,India,Meghalaya,Male,1976-08-05,,,,
+0956-CUST,2024-12-11,Referral,2025-12-11,Standard,Annual,,,57.6,1843,24,0,azaan,India,Rajasthan,Female,1988-04-30,,,,
+0957-CUST,2025-12-05,Paid,2026-01-04,Basic,Monthly,2026-01-16,Not enough content,33.5,1206,92,1,chanchal,India,Nagaland,Male,1961-02-28,2026-07-15,N,5.0,1.0
+0958-CUST,2026-05-14,Paid,2026-06-13,Basic,Monthly,,,28.2,930,46,0,ekanta,India,Meghalaya,Male,1962-12-19,,,,
+0959-CUST,2024-03-08,Organic,2025-03-08,Premium,Annual,,,98.0,1862,50,0,ishwar,India,Uttar Pradesh,Female,2007-06-09,,,,
+0960-CUST,2025-06-16,Organic,2025-07-16,Standard,Monthly,,,59.7,1373,10,0,tamanna,India,Maharashtra,Male,1999-06-25,,,,
+0961-CUST,2024-09-23,Paid,2025-09-23,Standard,Annual,,,57.8,1156,37,0,janya,India,Uttar Pradesh,Female,1985-11-11,,,,
+0962-CUST,2026-04-08,Referral,2026-05-08,Standard,Monthly,2026-12-08,Forgot to cancel trial,57.1,1827,89,1,falguni,India,Uttar Pradesh,Male,1999-08-20,,,,
+0963-CUST,2024-11-11,Organic,2024-12-11,Basic,Monthly,2025-05-09,Not enough content,26.2,524,68,1,timothy,India,Maharashtra,Female,1964-05-22,2026-06-28,N,1.0,1.0
+0964-CUST,2025-12-25,Organic,2026-12-25,Premium,Annual,2026-04-02,Too expensive,97.0,2522,98,1,raghav,India,Maharashtra,Female,1994-01-26,,,,
+0965-CUST,2024-10-21,Referral,2025-10-21,Standard,Annual,,,64.0,960,22,0,chakradhar,India,Karnataka,Male,1965-06-04,,,,
+0966-CUST,2025-01-22,Paid,2026-01-22,Basic,Annual,,,27.1,379,43,0,mugdha,India,Delhi,Male,1989-05-27,,,,
+0967-CUST,2025-03-19,Paid,2026-03-19,Basic,Annual,2025-11-13,Too expensive,27.3,518,98,1,nathaniel,India,Rajasthan,Female,1965-02-10,,,,
+0968-CUST,2026-06-18,Organic,2026-07-18,Basic,Monthly,2026-12-27,Too expensive,34.3,1131,90,1,kamala,India,Meghalaya,Female,2005-11-13,,,,
+0969-CUST,2024-10-27,Paid,2024-11-26,Standard,Monthly,2025-09-14,Too expensive,56.8,1988,87,1,aahana,India,Delhi,Male,1999-07-20,,,,
+0970-CUST,2023-10-19,Organic,2023-11-18,Standard,Monthly,,,56.5,1469,19,0,ganga,India,Nagaland,Male,1981-04-26,2026-04-29,N,4.0,1.0
+0971-CUST,2025-11-06,Organic,2025-12-06,Basic,Monthly,,,27.0,756,43,0,ekantika,India,Karnataka,Male,1980-01-18,2026-06-30,N,1.0,1.0
+0972-CUST,2025-07-02,Paid,2026-07-02,Basic,Annual,,,27.1,352,23,0,nirja,India,Meghalaya,Male,1985-09-15,,,,
+0973-CUST,2025-08-20,Paid,2026-08-20,Premium,Annual,2026-02-16,Too expensive,95.5,2101,74,1,edhitha,India,Rajasthan,Male,1998-08-26,,,,
+0974-CUST,2025-01-20,Organic,2026-01-20,Standard,Annual,,,57.6,1497,29,0,hredhaan,India,Karnataka,Male,2002-02-20,,,,
+0975-CUST,2025-12-12,Paid,2026-01-11,Standard,Monthly,2026-09-19,Switched to competitor,63.4,1711,92,1,charan,India,Delhi,Male,2007-03-25,2026-04-04,N,1.0,1.0
+0976-CUST,2025-08-04,Paid,2026-08-04,Basic,Annual,,,26.6,665,26,0,mohini,India,Maharashtra,Female,1989-10-11,2026-06-19,Y,4.0,1.0
+0977-CUST,2025-10-24,Paid,2025-11-23,Basic,Monthly,,,34.5,690,51,0,radha,India,Delhi,Male,1971-08-29,2026-05-02,N,3.0,1.0
+0978-CUST,2024-06-06,Organic,2025-06-06,Standard,Annual,,,55.0,1595,26,0,yashvi,India,Karnataka,Male,1989-10-23,,,,
+0979-CUST,2025-11-02,Referral,2025-12-02,Standard,Monthly,,,64.3,900,49,0,ishita,India,Uttar Pradesh,Female,1984-11-01,,,,
+0980-CUST,2025-03-06,Paid,2025-04-05,Premium,Monthly,,,104.7,3559,58,0,wakeeta,India,Uttar Pradesh,Male,1976-05-02,,,,
+0981-CUST,2026-06-18,Organic,2027-06-18,Basic,Annual,2027-01-27,Too expensive,25.7,925,79,1,pranit,India,Meghalaya,Male,1970-02-08,2025-12-06,Y,4.0,1.0
+0982-CUST,2023-12-11,Organic,2024-12-10,Standard,Annual,,,58.9,1060,44,0,veda,India,Karnataka,Female,1972-06-15,,,,
+0983-CUST,2024-10-22,Paid,2024-11-21,Standard,Monthly,,,61.2,2019,38,0,suhani,India,Rajasthan,Female,1990-12-06,,,,
+0984-CUST,2025-11-29,Referral,2026-11-29,Standard,Annual,2026-07-21,Poor service,64.3,1478,98,1,tejas,India,Karnataka,Male,1963-08-12,,,,
+0985-CUST,2024-06-01,Organic,2025-06-01,Basic,Annual,,,26.7,667,31,0,warhi,India,Rajasthan,Male,1986-06-15,2026-05-15,N,5.0,1.0
+0986-CUST,2023-12-09,Referral,2024-01-08,Premium,Monthly,2024-05-29,Switched to competitor,97.5,3120,85,1,vincent,India,Uttar Pradesh,Female,1982-02-10,2025-11-23,N,3.0,1.0
+0987-CUST,2025-07-12,Paid,2025-08-11,Standard,Monthly,,,61.8,1359,13,0,agastya,India,Telangana,Female,1970-06-08,,,,
+0988-CUST,2023-08-02,Paid,2023-09-01,Premium,Monthly,,,97.2,1458,49,0,suhani,India,Telangana,Female,1968-09-29,,,,
+0989-CUST,2024-06-02,Organic,2024-07-02,Standard,Monthly,2024-08-17,Poor service,63.9,1597,76,1,nidhi,India,Maharashtra,Female,2007-01-08,2026-03-27,N,1.0,1.0
+0990-CUST,2023-10-20,Organic,2024-10-19,Premium,Annual,,,102.7,1745,17,0,samar,India,Uttar Pradesh,Male,2007-09-18,,,,
+0991-CUST,2023-09-07,Referral,2023-10-07,Basic,Monthly,,,34.3,583,35,0,qarin,India,Uttar Pradesh,Male,1994-08-16,,,,
+0992-CUST,2026-05-30,Referral,2026-06-29,Premium,Monthly,,,100.4,2409,46,0,aditya,India,Uttar Pradesh,Male,1971-03-29,2026-01-28,N,1.0,1.0
+0993-CUST,2024-08-07,Referral,2024-09-06,Premium,Monthly,,,96.3,2696,15,0,harinakshi,India,Telangana,Female,1968-04-05,2026-04-15,N,5.0,1.0
+0994-CUST,2025-04-21,Organic,2026-04-21,Premium,Annual,2025-08-12,Poor service,104.4,1670,70,1,zarna,India,Maharashtra,Female,1972-09-03,,,,
+0995-CUST,2023-10-03,Referral,2023-11-02,Standard,Monthly,,,57.0,1026,49,0,sara,India,Telangana,Male,1979-03-22,,,,
+0996-CUST,2025-05-09,Referral,2025-06-08,Basic,Monthly,,,31.1,590,34,0,varsha,India,Karnataka,Male,1990-09-03,,,,
+0997-CUST,2024-10-11,Organic,2024-11-10,Standard,Monthly,,,58.3,1690,57,0,rajeshri,India,Telangana,Male,1975-06-03,2026-02-27,Y,5.0,1.0
+0998-CUST,2023-11-09,Paid,2024-11-08,Premium,Annual,,,102.2,1941,16,0,ishita,India,Rajasthan,Female,2006-10-06,,,,
+0999-CUST,2025-06-16,Referral,2025-07-16,Basic,Monthly,,,33.5,1105,45,0,gabriel,India,Nagaland,Female,1971-05-27,2026-06-03,N,1.0,1.0
+1000-CUST,2023-10-29,Paid,2023-11-28,Standard,Monthly,,,62.2,1306,10,0,anthony,India,Telangana,Female,1975-11-06,,,,
+0002-ORFBO,2021-03-15,Refferal,2025-03-15,Standard,Annual,,,65.6,5234,45,0,keshav,India,Maharashtra,Male,1982-04-12,,,,
+0003-MKNFE,2020-08-01,Paid,2024-08-01,Premium,Annual,2024-09-10,Switched to competitor,89.9,6123,78,1,raghav,India,Karnataka,Male,1995-11-23,2024-08-28,Y,1.0,1.0
+0004-TLHLJ,2022-11-20,Organic,2025-11-20,Basic,Monthly,,,29.9,1450,20,0,lalita,India,Delhi,Female,1978-02-15,,,,
+0011-IGKFF,2019-05-10,Paid,2025-05-10,Premium,Annual,,,95.0,7800,15,0,mohan,India,Nagaland,Male,2001-08-30,,,,
+0013-EXCHZ,2023-01-05,Refferal,2024-01-05,Standard,Monthly,2024-02-28,Too expensive,55.0,2300,82,1,mira,India,Delhi,Female,1990-05-05,2024-01-20,Y,2.0,1.0
+0013-MHZWF,2022-06-18,Paid,2025-06-18,Standard,Annual,,,60.0,4100,30,0,durga,India,Delhi,Female,1988-12-10,2025-03-18,N,4.0,1.0
+0013-SMEOE,2021-09-30,Refferal,2024-09-30,Basic,Monthly,2024-11-15,Not enough content,25.0,1200,88,1,mina,India,Meghalaya,Female,1976-09-21,2024-11-01,N,2.0,1.0
+0014-BMAQU,2020-02-14,Organic,2025-02-14,Premium,Annual,,,90.0,6800,10,0,madan,India,Rajasthan,Male,1999-03-14,,,,
+0015-UOCOJ,2023-07-22,Organic,2024-07-22,Standard,Monthly,,,50.0,1900,40,0,maya,Nepal,Kathmandu,Female,1985-07-07,,,,
+0016-QLJIS,2022-04-03,Organic,2025-04-03,Basic,Annual,,,30.0,2100,25,0,arjun,Nepal,Kathmandu,Male,1993-10-29,,,,
+0017-DINOC,2021-12-01,Organic,2025-12-01,Premium,Annual,,,95.0,7200,12,0,shiva,India,Maharashtra,Male,1997-01-22,,,,
+0017-IUDMW,2023-03-17,Refferal,2024-03-17,Standard,Monthly,2024-05-01,Poor streaming quality,50.0,1800,75,1,rangadevi,India,Karnataka,Female,1981-06-18,2024-04-10,Y,1.0,1.0
+0018-NYROU,2020-10-09,Organic,2025-10-09,Standard,Annual,,,65.0,4500,35,0,chitra,India,Telangana,Female,2004-12-01,,,,
+0019-EFAEP,2022-08-25,Refferal,2024-08-25,Basic,Monthly,2024-10-31,Switched to competitor,25.0,1100,91,1,raju,India,Meghalaya,Female,1992-04-25,2024-09-27,Y,1.0,1.0
+0019-GFNTW,2019-11-11,Paid,2025-11-11,Premium,Annual,,,99.0,8500,18,0,Madhav,India,Uttar Pradesh,Male,1979-11-11,,,,
+0020-INWCK,2023-05-06,Organic,2025-05-06,Standard,Monthly,,,55.0,2400,50,0,parvati,India,Delhi,Female,1986-02-28,,,,
+0020-JDNXP,2022-01-19,Organic,2024-01-19,Premium,Annual,,,85.0,6000,22,0,rikim,India,Meghalaya,Female,1994-08-19,,,,
+0021-IKXGC,2021-07-07,Paid,2025-07-07,Standard,Annual,,,60.0,4300,28,0,vishakha,India,Rajasthan,Female,2000-09-02,,,,
+0022-TCJCI,2023-09-14,Refferal,2024-09-14,Basic,Monthly,2024-09-14,Forgot to cancel trial,20.0,900,95,1,raghvendra,India,Telangana,Male,1983-12-30,2024-09-14,N,1.0,1.0
+0023-HGHWL,2020-06-23,Organic,2025-06-23,Premium,Annual,,,95.0,7600,14,0,rishabh,India,Uttar Pradesh,Male,1991-05-14,,,,
+0023-UYUPN,2022-12-31,Paid,2025-12-31,Standard,Monthly,,,55.0,3100,42,0,sudevi,India,Maharashtra,Female,1977-10-06,,,,
